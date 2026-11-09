@@ -1,0 +1,52 @@
+# Publish the website at the repository root; exclude duplicate export folders.
+/site/
+/hsk4a-github-pages/
+/hsk4a-github-pages.zip
+
+# Local textbook and preview / QA artifacts.
+/new-hsk-course-4a.pdf
+/site-preview.jpg
+/VERIFICATION.md
+
+# Generated authoring data (editable TSVs and required OCR text remain tracked).
+/source/page-*.json
+/source/additional.json
+/source/course.json
+/source/listening-candidates.json
+/source/listening.json
+/source/sections.json
+/source/vocabulary-audit.json
+
+# Unrelated Anki work; retain syllabus inputs used by vocabulary validation.
+/anki_hsk1/*
+!/anki_hsk1/source/
+/anki_hsk1/source/*
+!/anki_hsk1/source/syllabus_level1.json
+/anki_hsk234/*
+!/anki_hsk234/source/
+/anki_hsk234/source/*
+!/anki_hsk234/source/level2_syllabus.json
+!/anki_hsk234/source/level3_syllabus.json
+
+# Local tooling, environments, caches and credentials.
+/.agents/
+/.codex/
+/.aws/
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.pytest_cache/
+.cache/
+*.log
+
+# Editor and operating-system leftovers.
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
