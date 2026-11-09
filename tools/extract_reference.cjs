@@ -1,0 +1,2 @@
+const fs=require('fs'),vm=require('vm');const ctx={window:{}};vm.createContext(ctx);for(const f of ['book-content.js','hsk3-content.js'])vm.runInContext(fs.readFileSync('/home/pavilion/Documents/all_my_projects/hsk/'+f,'utf8'),ctx);
+const dict={};for(const b of [ctx.window.HSK_BOOK_CONTENT,ctx.window.HSK3_BOOK])for(const a of Object.values(b.annotations||{}))for(const t of a.tokens||[])if(t.en)dict[t.zh]={py:Array.isArray(t.py)?t.py.join(' '):t.py,en:t.en};fs.writeFileSync('source/reference-dictionary.json',JSON.stringify(dict));console.log(Object.keys(dict).length);
