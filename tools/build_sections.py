@@ -14,7 +14,7 @@ textpages=[[12,14,16,18],[23,25,27,29],[34,36,38,40],[46,48,50,52],[58,60,62,64]
 gpages=[[13,15,17,19],[24,26,28,30],[35,37,39,41],[47,49,51,53],[59,61,63,65],[71,73,75,76],[83,85,87,89],[95,97,99,101],[107,109,111,113],[119,121,123,126]]
 expages=[[19,20],[30,31],[41,42],[53,54],[65,66],[77,78],[89,90],[101,102],[113,114,115],[126,127]]
 for c in range(1,11):
- if (R/'source/listening.json').exists():out[str(c)].append({'id':'listening','title':'Listen / read & choose','intro':'Original listening questions, grouped by Text 1–4. Use your book recordings, or read the corresponding text below. Audio is not included in the supplied PDF. Choose A, B, C or D; hide answers before starting.','blocks':json.loads((R/'source/listening.json').read_text())[str(c)]})
+ if (R/'source/listening.json').exists():out[str(c)].append({'id':'listening','title':'Listen / read & choose','intro':'Listen to each text recording, then answer its two questions. You can also read the corresponding text below. Choose A, B, C or D; hide answers before starting.','blocks':json.loads((R/'source/listening.json').read_text())[str(c)]})
  for i,(num,zh,en) in enumerate(texts[c]):
   zs=zh.split('\\n');es=en.split('\\n');assert len(zs)==len(es),(c,i,len(zs),len(es))
   blocks=[{'zh':z,'en':e} for z,e in zip(zs,es)]

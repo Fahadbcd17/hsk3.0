@@ -18,15 +18,10 @@
 /source/vocabulary-audit.json
 
 # Unrelated Anki work; retain syllabus inputs used by vocabulary validation.
-/anki_hsk1/*
-!/anki_hsk1/source/
-/anki_hsk1/source/*
-!/anki_hsk1/source/syllabus_level1.json
-/anki_hsk234/*
-!/anki_hsk234/source/
-/anki_hsk234/source/*
-!/anki_hsk234/source/level2_syllabus.json
-!/anki_hsk234/source/level3_syllabus.json
+/Anki/*
+/Anki_hsk234/source/*
+!/Anki_hsk234/source/level2_syllabus.json
+!/Anki_hsk234/source/level3_syllabus.json
 
 # Local tooling, environments, caches and credentials.
 /.agents/
