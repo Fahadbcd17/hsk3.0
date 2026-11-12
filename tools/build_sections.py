@@ -34,5 +34,11 @@ for c in range(1,11):
 # Additional cloze passages, picture prompts and task activities are loaded below.
 if (R/'source/additional.json').exists():
  for c,ss in json.loads((R/'source/additional.json').read_text()).items():out[c].extend(ss)
+# Preserve the textbook retelling prompts in regenerated course sections.
+retelling=json.loads((R/'source/retelling.json').read_text())
+for chapter,sections in out.items():
+ for section in sections:
+  key=chapter+'-'+section['id'].removeprefix('text')
+  if section['id'].startswith('text') and key in retelling:section['retelling']=retelling[key]
 (R/'source/sections.json').write_text(json.dumps(out,ensure_ascii=False,indent=2))
 print('Built',sum(len(x)for x in out.values()),'sections')

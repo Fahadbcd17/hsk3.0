@@ -6,3 +6,5 @@
 .audio-player{display:flex;align-items:center;flex-wrap:wrap;gap:12px;padding:18px;margin:28px 0 20px;border:1px solid var(--line);border-radius:12px;background:#eef4e9}.audio-player strong{margin-right:auto}.audio-status{font-size:12px;color:var(--muted)}
 
 .text-divider{border:0;border-top:1px solid var(--line);margin:32px 0;}
+
+.retelling{margin:30px 0;padding:24px 0;border-top:1px solid var(--line)}.retelling-prompts{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:10px}.retelling>.muted{font-size:12px;margin-top:10px}
