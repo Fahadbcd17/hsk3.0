@@ -30,6 +30,7 @@ Then open `http://127.0.0.1:8874/`. Stop the server with Ctrl+C. An HTTP preview
 - 58 original warm-up pictures. Chapter 5 has four dishes with separate flavour matches, as in the book; the other chapters have six pictures.
 - 20 original discussion questions with three model answers each.
 - 40 original texts with study translations, comprehension questions and retelling notes.
+- 20 transcribed textbook retelling prompts with pinyin, English and model answers behind independent Show answer buttons.
 - 40 grammar explanations, 80 illustrative grammar sentences and 120 original grammar practice prompts.
 - 80 original listening-choice questions usable with the book recordings or as reading questions; 100 vocabulary gaps; ten cloze passages; 30 picture-writing prompts.
 - Speaking and writing tasks, model responses, a 120-character writing counter, and reflection checklists.

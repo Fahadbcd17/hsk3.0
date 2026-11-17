@@ -1,127 +1,307 @@
 {
   "1-1": {
-    "image": "retell-1-1.jpg",
     "pages": [
       13
-    ]
+    ],
+    "prompt": {
+      "zh": "白家月和陈天中来中国……。他们把……给老师，老师给他们办了……。老师告诉他们，下周一……，先……，然后……。以后如果有……，都可以……。",
+      "py": "bái jiā yuè hé chén tiān zhōng lái zhōng guó ……。 tā men bǎ …… gěi lǎo shī， lǎo shī gěi tā men bàn le ……。 lǎo shī gào sù tā men， xià zhōu yī ……， xiān ……， rán hòu ……。 yǐ hòu rú guǒ yǒu ……， dōu kě yǐ ……。",
+      "en": "Bai Jiayue and Chen Tianzhong came to China to…. They gave … to the teacher, who arranged … for them. The teacher told them that next Monday …; first …, then…. In future, if they have …, they can…."
+    },
+    "answer": {
+      "zh": "白家月和陈天中来中国留学。他们把护照、签证和入学通知书给老师，老师给他们办了学生证。老师告诉他们，下周一开始上课，先试听两周，然后在网上选课。以后如果有任何问题，都可以来找老师。",
+      "py": "bái jiā yuè hé chén tiān zhōng lái zhōng guó liú xué。 tā men bǎ hù zhào 、 qiān zhèng hé rù xué tōng zhī shū gěi lǎo shī， lǎo shī gěi tā men bàn le xué shēng zhèng。 lǎo shī gào sù tā men， xià zhōu yī kāi shǐ shàng kè， xiān shì tīng liǎng zhōu， rán hòu zài wǎng shàng xuǎn kè。 yǐ hòu rú guǒ yǒu rèn hé wèn tí， dōu kě yǐ lái zhǎo lǎo shī。",
+      "en": "Bai Jiayue and Chen Tianzhong came to China to study. They gave their passports, visas and admission letters to the teacher, who arranged their student cards. Classes begin next Monday. They should first try classes for two weeks, then select courses online. If they have any problems, they can ask the teacher."
+    }
   },
   "1-3": {
-    "image": "retell-1-3.jpg",
     "pages": [
       17
-    ]
+    ],
+    "prompt": {
+      "zh": "随着……，越来越多的外国学生……。他们可以先……，然后根据自己的兴趣和需要……。除了读……，他们还可以申请读……。在大学里，他们可以和中国学生一起……。通过这些交流，外国学生能……。",
+      "py": "suí zhe ……， yuè lái yuè duō de wài guó xué shēng ……。 tā men kě yǐ xiān ……， rán hòu gēn jù zì jǐ de xìng qù hé xū yào ……。 chú le dú ……， tā men hái kě yǐ shēn qǐng dú ……。 zài dà xué lǐ， tā men kě yǐ hé zhōng guó xué shēng yì qǐ ……。 tōng guò zhè xiē jiāo liú， wài guó xué shēng néng ……。",
+      "en": "As …, more and more international students…. They can first …, then … according to their interests and needs. Besides studying …, they can apply to study…. At university, they can … with Chinese students. Through these exchanges, international students can…."
+    },
+    "answer": {
+      "zh": "随着中国的发展，越来越多的外国学生来到中国的大学学习。他们可以先上一年的中文课程，然后根据自己的兴趣和需要选择专业。除了读本科课程，他们还可以申请读硕士研究生或者博士研究生。\n在大学里，外国学生可以和中国学生一起学习、做研究、参加校园活动。通过这些交流，外国学生能更快地适应中国的大学生活。",
+      "py": "suí zhe zhōng guó de fā zhǎn， yuè lái yuè duō de wài guó xué shēng lái dào zhōng guó de dà xué xué xí。 tā men kě yǐ xiān shàng yī nián de zhōng wén kè chéng， rán hòu gēn jù zì jǐ de xìng qù hé xū yào xuǎn zé zhuān yè。 chú le dú běn kē kè chéng， tā men hái kě yǐ shēn qǐng dú shuò shì yán jiū shēng huò zhě bó shì yán jiū shēng。\n zài dà xué lǐ， wài guó xué shēng kě yǐ hé zhōng guó xué shēng yì qǐ xué xí 、 zuò yán jiū 、 cān jiā xiào yuán huó dòng。 tōng guò zhè xiē jiāo liú， wài guó xué shēng néng gèng kuài dì shì yìng zhōng guó de dà xué shēng huó。",
+      "en": "As China develops, more and more international students come to study at Chinese universities. They can take a year of Chinese courses first, then choose a major based on their interests and needs. Besides undergraduate courses, they can also apply for master's or doctoral programmes.\nAt university, international students can study, research and participate in campus activities with Chinese students. Through these exchanges, they can adapt more quickly to university life in China."
+    }
   },
   "2-1": {
-    "image": "retell-2-1.jpg",
     "pages": [
       24
-    ]
+    ],
+    "prompt": {
+      "zh": "李文和白家月到房东家看房子。房东要出租的是……，房租……。房东告诉白家月，要出租的房间现在……，想租的话，今天……。这个房间……，还……。小区离白家月的……不远，离地铁站……，生活上……。白家月比较满意，他们决定再……。",
+      "py": "lǐ wén hé bái jiā yuè dào fáng dōng jiā kàn fáng zi。 fáng dōng yào chū zū de shì ……， fáng zū ……。 fáng dōng gào sù bái jiā yuè， yào chū zū de fáng jiān xiàn zài ……， xiǎng zū de huà， jīn tiān ……。 zhè ge fáng jiān ……， hái ……。 xiǎo qū lí bái jiā yuè de …… bù yuǎn， lí dì tiě zhàn ……， shēng huó shàng ……。 bái jiā yuè bǐ jiào mǎn yì， tā men jué dìng zài ……。",
+      "en": "Li Wen and Bai Jiayue visited the landlord to see the apartment. The landlord was renting out …, at a rent of…. The room was already …; if she wanted it, she could … today. The room was … and…. The neighbourhood was near her … and … the subway station, making life…. She was fairly satisfied, and they decided to…."
+    },
+    "answer": {
+      "zh": "李文和白家月到房东家看房子。房东要出租的是一个大房间，房租每月5500元。房间已经收拾好了，想租的话，今天就可以搬进来。这个房间不小，还很亮。小区离白家月的学校不远，离地铁站也很近，生活上很方便。白家月比较满意，他们决定再看看外边的环境。",
+      "py": "lǐ wén hé bái jiā yuè dào fáng dōng jiā kàn fáng zi。 fáng dōng yào chū zū de shì yí gè dà fáng jiān， fáng zū měi yuè 5500 yuán。 fáng jiān yǐ jīng shōu shí hǎo le， xiǎng zū de huà， jīn tiān jiù kě yǐ bān jìn lái。 zhè ge fáng jiān bù xiǎo， hái hěn liàng。 xiǎo qū lí bái jiā yuè de xué xiào bù yuǎn， lí dì tiě zhàn yě hěn jìn， shēng huó shàng hěn fāng biàn。 bái jiā yuè bǐ jiào mǎn yì， tā men jué dìng zài kàn kàn wài biān de huán jìng。",
+      "en": "Li Wen and Bai Jiayue visited an apartment. The landlord was renting a large room for 5,500 yuan a month. It was ready, and she could move in that day. The room was spacious and bright. The neighbourhood was near her school and the subway, making everyday life convenient. Bai was fairly satisfied, and they decided to look around outside."
+    }
   },
   "2-3": {
-    "image": "retell-2-3.jpg",
     "pages": [
       27,
       28
-    ]
+    ],
+    "prompt": {
+      "zh": "昨天白家月顺利……，今天李文帮她……。搬进去的时候，房东又向白家月……，并告诉她……。白家月看到，客厅里有……，还有……；厨房里有冰箱和……，不过，白家月平常……，基本上……。白家月租的房间里，除了……以外，还有一台空调、……。看完整个房子后，她觉得再去……就行了。",
+      "py": "zuó tiān bái jiā yuè shùn lì ……， jīn tiān lǐ wén bāng tā ……。 bān jìn qù de shí hòu， fáng dōng yòu xiàng bái jiā yuè ……， bìng gào sù tā ……。 bái jiā yuè kàn dào， kè tīng lǐ yǒu ……， hái yǒu ……； chú fáng lǐ yǒu bīng xiāng hé ……， bù guò， bái jiā yuè píng cháng ……， jī běn shàng ……。 bái jiā yuè zū de fáng jiān lǐ， chú le …… yǐ wài， hái yǒu yī tái kōng tiáo 、……。 kàn wán zhěng gè fáng zi hòu， tā jué de zài qù …… jiù xíng le。",
+      "en": "Yesterday Bai Jiayue successfully …; today Li Wen helped her…. When she moved in, the landlord … and told her…. The living room had … and…. The kitchen had a refrigerator and …, but she usually … and hardly ever…. Her room had … as well as air conditioning and…. After seeing the whole apartment, she thought she only needed to…."
+    },
+    "answer": {
+      "zh": "昨天白家月顺利租到了合适的房子，今天李文帮她搬家。搬进去的时候，房东又向她介绍了房子里的东西，并告诉她怎么用。客厅里有椅子、沙发，还有一台大电视；厨房里有冰箱和一些做饭用的东西。不过，白家月平常在学校食堂吃，基本上不做饭。她租的房间里，除了一张床以外，还有一台空调、一张书桌和一把椅子。看完整个房子后，她觉得再去买几条毛巾就行了。",
+      "py": "zuó tiān bái jiā yuè shùn lì zū dào le hé shì de fáng zi， jīn tiān lǐ wén bāng tā bān jiā。 bān jìn qù de shí hòu， fáng dōng yòu xiàng tā jiè shào le fáng zi lǐ de dōng xi， bìng gào sù tā zěn me yòng。 kè tīng lǐ yǒu yǐ zi 、 shā fā， hái yǒu yī tái dà diàn shì ； chú fáng lǐ yǒu bīng xiāng hé yī xiē zuò fàn yòng de dōng xi。 bù guò， bái jiā yuè píng cháng zài xué xiào shí táng chī， jī běn shàng bù zuò fàn。 tā zū de fáng jiān lǐ， chú le yī zhāng chuáng yǐ wài， hái yǒu yī tái kōng tiáo 、 yī zhāng shū zhuō hé yī bǎ yǐ zi。 kàn wán zhěng gè fáng zi hòu， tā jué de zài qù mǎi jǐ tiáo máo jīn jiù xíng le。",
+      "en": "Bai successfully rented a suitable home yesterday, and Li helped her move today. The landlord explained the furnishings and how to use them. The living room had chairs, a sofa and a large television; the kitchen had a refrigerator and cooking equipment. Bai usually ate at the school canteen and hardly cooked. Her room had a bed, air conditioner, desk and chair. She thought she only needed to buy a few towels."
+    }
   },
   "3-1": {
-    "image": "retell-3-1.jpg",
     "pages": [
       35
-    ]
+    ],
+    "prompt": {
+      "zh": "陈天中从学校出来，不知道怎么去……，就向一位同学问路。同学告诉他，先往前走，到十字路口……，直接右转就到……。正好同学……，就和他……。陈天中说……，还……。同学告诉他，北京的路基本上都是……，很好找。他也可以用……，很容易就能……。不过，很多……陈天中还……。同学说，他很快就会……。",
+      "py": "chén tiān zhōng cóng xué xiào chū lái， bù zhī dào zěn me qù ……， jiù xiàng yī wèi tóng xué wèn lù。 tóng xué gào sù tā， xiān wǎng qián zǒu， dào shí zì lù kǒu ……， zhí jiē yòu zhuǎn jiù dào ……。 zhèng hǎo tóng xué ……， jiù hé tā ……。 chén tiān zhōng shuō ……， hái ……。 tóng xué gào sù tā， běi jīng de lù jī běn shàng dōu shì ……， hěn hǎo zhǎo。 tā yě kě yǐ yòng ……， hěn róng yì jiù néng ……。 bù guò， hěn duō …… chén tiān zhōng hái ……。 tóng xué shuō， tā hěn kuài jiù huì ……。",
+      "en": "Chen Tianzhong left school and asked a student how to get to…. The student said to go straight, … at the crossroads, then turn right to reach…. The student happened to …, so they…. Chen said … and…. Beijing's roads generally …, making directions easy. He could also use … to…. However, he still … many…. The student said he would soon…."
+    },
+    "answer": {
+      "zh": "陈天中从学校出来，不知道怎么去花园小区，就向一位同学问路。同学告诉他，先往前走，到十字路口不要过马路，直接右转就到小区门口。正好同学也去那边，就和他一起走。陈天中说北京很大，自己还不熟悉路。同学告诉他，北京的路基本上都是正南正北、正东正西的，很好找。他也可以用手机地图，很容易就能找到目的地。不过，很多中文地名陈天中还不认识。同学说，他很快就会熟悉的。",
+      "py": "chén tiān zhōng cóng xué xiào chū lái， bù zhī dào zěn me qù huā yuán xiǎo qū， jiù xiàng yī wèi tóng xué wèn lù。 tóng xué gào sù tā， xiān wǎng qián zǒu， dào shí zì lù kǒu bú yào guò mǎ lù， zhí jiē yòu zhuǎn jiù dào xiǎo qū mén kǒu。 zhèng hǎo tóng xué yě qù nà biān， jiù hé tā yì qǐ zǒu。 chén tiān zhōng shuō běi jīng hěn dà， zì jǐ hái bù shú xī lù。 tóng xué gào sù tā， běi jīng de lù jī běn shàng dōu shì zhèng nán zhèng běi 、 zhèng dōng zhèng xī de， hěn hǎo zhǎo。 tā yě kě yǐ yòng shǒu jī dì tú， hěn róng yì jiù néng zhǎo dào mù dì dì。 bù guò， hěn duō zhōng wén dì míng chén tiān zhōng hái bù rèn shi。 tóng xué shuō， tā hěn kuài jiù huì shú xī de。",
+      "en": "Chen asked a student how to reach Huayuan neighbourhood. He should walk straight, avoid crossing at the crossroads and turn right to reach the entrance. The student was going that way and walked with him. Chen found Beijing large and unfamiliar. The student explained that roads generally run north–south or east–west, and phone maps help locate destinations. Chen still could not recognise many Chinese place names, but the student said he would soon become familiar with them."
+    }
   },
   "3-3": {
-    "image": "retell-3-3.jpg",
     "pages": [
       39
-    ]
+    ],
+    "prompt": {
+      "zh": "白家月和陈天中……就发现，中国人在……结账时，几乎都……，只有他们……。后来，在……下，他们也都学会了……、网购、寄快递等等。在中国网购，不仅……、价格不高，而且……，很多留学生甚至改变了……。不过，由于网购……，动动手指就能……，他们也开始担心自己在网购时……。怎么才能……？",
+      "py": "bái jiā yuè hé chén tiān zhōng …… jiù fā xiàn， zhōng guó rén zài …… jié zhàng shí， jī hū dōu ……， zhǐ yǒu tā men ……。 hòu lái， zài …… xià， tā men yě dōu xué huì le ……、 wǎng gòu 、 jì kuài dì děng děng。 zài zhōng guó wǎng gòu， bù jǐn ……、 jià gé bù gāo， ér qiě ……， hěn duō liú xué shēng shèn zhì gǎi biàn le ……。 bù guò， yóu yú wǎng gòu ……， dòng dòng shǒu zhǐ jiù néng ……， tā men yě kāi shǐ dān xīn zì jǐ zài wǎng gòu shí ……。 zěn me cái néng ……？",
+      "en": "When Bai Jiayue and Chen Tianzhong …, they noticed that Chinese people paying at … almost all …, while only they…. Later, with …, they learned …, online shopping and sending parcels. Online shopping offers …, low prices and…. Many international students even changed…. However, because shopping online is … and a tap can …, they began worrying about…. How can they…?"
+    },
+    "answer": {
+      "zh": "白家月和陈天中刚到北京时就发现，中国人在饭馆或超市结账时，几乎都用手机支付，只有他们用现金结账。\n在李文的帮助下，白家月和陈天中也都学会了用手机支付、网购、寄快递等等。在中国网购，不仅选择多、价格不高，而且送货很快，很多留学生甚至改变了自己的购物习惯。不过，由于网购太方便了，动动手指就能买到想要的东西，他们也开始担心自己在网购时会乱花钱。怎么才能管住自己不乱花钱呢？",
+      "py": "bái jiā yuè hé chén tiān zhōng gāng dào běi jīng shí jiù fā xiàn， zhōng guó rén zài fàn guǎn huò chāo shì jié zhàng shí， jī hū dōu yòng shǒu jī zhī fù， zhǐ yǒu tā men yòng xiàn jīn jié zhàng。\n zài lǐ wén de bāng zhù xià， bái jiā yuè hé chén tiān zhōng yě dōu xué huì le yòng shǒu jī zhī fù 、 wǎng gòu 、 jì kuài dì děng děng。 zài zhōng guó wǎng gòu， bù jǐn xuǎn zé duō 、 jià gé bù gāo， ér qiě sòng huò hěn kuài， hěn duō liú xué shēng shèn zhì gǎi biàn le zì jǐ de gòu wù xí guàn。 bù guò， yóu yú wǎng gòu tài fāng biàn le， dòng dòng shǒu zhǐ jiù néng mǎi dào xiǎng yào de dōng xi， tā men yě kāi shǐ dān xīn zì jǐ zài wǎng gòu shí huì luàn huā qián。 zěn me cái néng guǎn zhù zì jǐ bù luàn huā qián ne ？",
+      "en": "On arriving in Beijing, Bai Jiayue and Chen Tianzhong noticed that almost everyone in restaurants and supermarkets paid by phone; only they paid in cash.\nWith Li Wen's help, they learned mobile payment, online shopping, sending parcels and more. In China, online shopping offers many choices, low prices and fast delivery; many international students have even changed their shopping habits. But because it is so easy to buy things with a finger movement, they have started worrying about spending carelessly. How can they control their spending?"
+    }
   },
   "4-1": {
-    "image": "retell-4-1.jpg",
     "pages": [
       47
-    ]
+    ],
+    "prompt": {
+      "zh": "陈天中发现他的手机……，因为没有信号，……，自己也没带……，所以……地铁票了。这时，一个人看他很着急，就帮他……。陈天中很……，想要……，想把钱……。那个人说……，很高兴能帮到陈天中。",
+      "py": "chén tiān zhōng fā xiàn tā de shǒu jī ……， yīn wèi méi yǒu xìn hào，……， zì jǐ yě méi dài ……， suǒ yǐ …… dì tiě piào le。 zhè shí， yí gè rén kàn tā hěn zháo jí， jiù bāng tā ……。 chén tiān zhōng hěn ……， xiǎng yào ……， xiǎng bǎ qián ……。 nà ge rén shuō ……， hěn gāo xìng néng bāng dào chén tiān zhōng。",
+      "en": "Chen Tianzhong discovered his phone…. Without a signal he …; he also had no …, so he could not … a subway ticket. Someone saw his distress and helped him…. Chen was very … and wanted … so he could … the money. The person said … and was happy to help."
+    },
+    "answer": {
+      "zh": "陈天中发现他的手机停机了，因为没有信号，上不了网，自己也没带现金，所以买不了地铁票了。这时，一个人看他很着急，就帮他买票。陈天中很感谢他，想要他的联系方式，想把钱还给他。那个人说别客气，很高兴能帮到陈天中。",
+      "py": "chén tiān zhōng fā xiàn tā de shǒu jī tíng jī le， yīn wèi méi yǒu xìn hào， shàng bù liǎo wǎng， zì jǐ yě méi dài xiàn jīn， suǒ yǐ mǎi bù liǎo dì tiě piào le。 zhè shí， yí gè rén kàn tā hěn zháo jí， jiù bāng tā mǎi piào。 chén tiān zhōng hěn gǎn xiè tā， xiǎng yào tā de lián xì fāng shì， xiǎng bǎ qián huán gěi tā。 nà ge rén shuō bié kè qì， hěn gāo xìng néng bāng dào chén tiān zhōng。",
+      "en": "Chen's phone service was suspended. Without a signal he could not get online, and he had no cash, so he could not buy a subway ticket. A passer-by noticed his distress and helped buy one. Chen thanked him and asked for his contact details to repay him. The man said not to mention it and was glad to help."
+    }
   },
   "4-3": {
-    "image": "retell-4-3.jpg",
     "pages": [
       50,
       51
-    ]
+    ],
+    "prompt": {
+      "zh": "在城市里，人们出行的方式……。……出行时，骑自行车往往是……。白家月就……，她觉得这样既……，又……，还……。除了……，人们还会选择……。电动车……，价格……，……也很方便，所以……。陈天中平时……，不过为了……，他最近……。",
+      "py": "zài chéng shì lǐ， rén men chū xíng de fāng shì ……。…… chū xíng shí， qí zì xíng chē wǎng wǎng shì ……。 bái jiā yuè jiù ……， tā jué de zhè yàng jì ……， yòu ……， hái ……。 chú le ……， rén men hái huì xuǎn zé ……。 diàn dòng chē ……， jià gé ……，…… yě hěn fāng biàn， suǒ yǐ ……。 chén tiān zhōng píng shí ……， bù guò wèi le ……， tā zuì jìn ……。",
+      "en": "In cities, travel options…. For … journeys, cycling is often…. Bai Jiayue …, finding it both … and …, and also…. Besides …, people choose…. Electric bikes …, cost … and are easy to …, so…. Chen Tianzhong usually …, but to …, he recently…."
+    },
+    "answer": {
+      "zh": "在城市里，人们出行的方式越来越多。短距离出行时，骑自行车往往是人们常见的选择。白家月就很喜欢骑车去学校，她觉得这样既方便，又能锻炼身体，还能保护环境。\n除了骑自行车，人们还会选择骑电动车。电动车速度快，价格不高，充电也很方便，所以越来越流行。陈天中平时也骑自行车，不过为了省力气，他最近打算买一辆电动车。",
+      "py": "zài chéng shì lǐ， rén men chū xíng de fāng shì yuè lái yuè duō。 duǎn jù lí chū xíng shí， qí zì xíng chē wǎng wǎng shì rén men cháng jiàn de xuǎn zé。 bái jiā yuè jiù hěn xǐ huān qí chē qù xué xiào， tā jué de zhè yàng jì fāng biàn， yòu néng duàn liàn shēn tǐ， hái néng bǎo hù huán jìng。\n chú le qí zì xíng chē， rén men hái huì xuǎn zé qí diàn dòng chē。 diàn dòng chē sù dù kuài， jià gé bù gāo， chōng diàn yě hěn fāng biàn， suǒ yǐ yuè lái yuè liú xíng。 chén tiān zhōng píng shí yě qí zì xíng chē， bù guò wèi le shěng lì qì， tā zuì jìn dǎ suàn mǎi yī liàng diàn dòng chē。",
+      "en": "People have more and more ways to travel in cities. For short journeys, cycling is a common choice. Bai Jiayue likes cycling to school because it is convenient, provides exercise and protects the environment.\nPeople also choose electric bikes. They are fast, inexpensive and easy to charge, so they are becoming more popular. Chen Tianzhong usually cycles too, but recently he has planned to buy an electric bike to save effort."
+    }
   },
   "5-1": {
-    "image": "retell-5-1.jpg",
     "pages": [
       59
-    ]
+    ],
+    "prompt": {
+      "zh": "白家月……，她习惯……，而且……。王一雪让她尝尝……。白家月觉得这道菜看起来……，更……。王一雪告诉她，这道菜是先……，最后再……，其实只有……。白家月尝了以后，觉得……，不过……。王一雪让她……，不要……。",
+      "py": "bái jiā yuè ……， tā xí guàn ……， ér qiě ……。 wáng yī xuě ràng tā cháng cháng ……。 bái jiā yuè jué de zhè dào cài kàn qǐ lái ……， gèng ……。 wáng yī xuě gào sù tā， zhè dào cài shì xiān ……， zuì hòu zài ……， qí shí zhǐ yǒu ……。 bái jiā yuè cháng le yǐ hòu， jué de ……， bù guò ……。 wáng yī xuě ràng tā ……， bú yào ……。",
+      "en": "Bai Jiayue …, was used to … and also…. Wang Yixue invited her to taste…. Bai thought it looked …, more like…. Wang explained that first …, then …, and only … was actually oil. After tasting it, Bai found it … but…. Wang told her to … and not…."
+    },
+    "answer": {
+      "zh": "白家月来中国至少两个月了，她习惯吃中餐，而且很喜欢中国菜。王一雪让她尝尝水煮鱼。白家月觉得这道菜看起来不像水煮鱼，更像油煮鱼。王一雪告诉她，这道菜先用水把鱼煮熟，最后再倒上辣椒油，其实只有最上面一层是油。白家月尝了以后，觉得很辣，不过非常好吃。王一雪让她多吃点儿，不要客气。",
+      "py": "bái jiā yuè lái zhōng guó zhì shǎo liǎng gè yuè le， tā xí guàn chī zhōng cān， ér qiě hěn xǐ huān zhōng guó cài。 wáng yī xuě ràng tā cháng cháng shuǐ zhǔ yú。 bái jiā yuè jué de zhè dào cài kàn qǐ lái bù xiàng shuǐ zhǔ yú， gèng xiàng yóu zhǔ yú。 wáng yī xuě gào sù tā， zhè dào cài xiān yòng shuǐ bǎ yú zhǔ shú， zuì hòu zài dào shàng là jiāo yóu， qí shí zhǐ yǒu zuì shàng miàn yī céng shì yóu。 bái jiā yuè cháng le yǐ hòu， jué de hěn là， bù guò fēi cháng hǎo chī。 wáng yī xuě ràng tā duō chī diǎn ér， bú yào kè qì。",
+      "en": "Bai had been in China for at least two months and was used to Chinese food, which she liked. Wang offered her water-boiled fish. Bai thought it looked more like oil-boiled fish. Wang explained that the fish is cooked in water, then topped with chilli oil; only the top layer is oil. Bai found it spicy but delicious. Wang encouraged her to eat more and make herself at home."
+    }
   },
   "5-3": {
-    "image": "retell-5-3.jpg",
     "pages": [
       63
-    ]
+    ],
+    "prompt": {
+      "zh": "周末，白家月、陈天中、李文和安妮……吃午餐。白家月……，要了辣子鸡；陈天中……，想尝尝松鼠鳜鱼；李文更喜欢……，选了红烧羊肉和……；安妮听说贵州酸汤……，点了酸汤米线。他们……，非常愉快。结账时，李文……，但大家觉得还是……更合适。于是，李文……，大家……，还笑着说……。",
+      "py": "zhōu mò， bái jiā yuè 、 chén tiān zhōng 、 lǐ wén hé ān nī …… chī wǔ cān。 bái jiā yuè ……， yào le là zi jī ； chén tiān zhōng ……， xiǎng cháng cháng sōng shǔ guì yú ； lǐ wén gèng xǐ huān ……， xuǎn le hóng shāo yáng ròu hé ……； ān nī tīng shuō guì zhōu suān tāng ……， diǎn le suān tāng mǐ xiàn。 tā men ……， fēi cháng yú kuài。 jié zhàng shí， lǐ wén ……， dàn dà jiā jué de hái shì …… gèng hé shì。 yú shì， lǐ wén ……， dà jiā ……， hái xiào zhe shuō ……。",
+      "en": "At the weekend, the four friends … for lunch. Bai … and ordered spicy chicken; Chen … and wanted squirrel-shaped mandarin fish; Li preferred … and chose braised lamb and…. Annie heard Guizhou sour soup … and ordered sour-soup rice noodles. They … happily. When paying, Li …, but everyone preferred…. So Li …, everyone … and said with a smile…."
+    },
+    "answer": {
+      "zh": "周末，白家月、陈天中、李文和安妮聚在一起吃午餐。白家月想吃辣的，要了辣子鸡；陈天中爱吃甜的，想尝尝松鼠鳜鱼；李文更喜欢吃咸的，选了红烧羊肉和一道凉菜；安妮听说贵州酸汤很有名，点了酸汤米线。他们边吃边聊，非常愉快。\n结账时，李文想请客，但大家觉得还是各付各的更合适。于是，李文付完钱后，大家把钱转给了他，还笑着说下次再一起聚餐。",
+      "py": "zhōu mò， bái jiā yuè 、 chén tiān zhōng 、 lǐ wén hé ān nī jù zài yì qǐ chī wǔ cān。 bái jiā yuè xiǎng chī là de， yào le là zi jī ； chén tiān zhōng ài chī tián de， xiǎng cháng cháng sōng shǔ guì yú ； lǐ wén gèng xǐ huān chī xián de， xuǎn le hóng shāo yáng ròu hé yī dào liáng cài ； ān nī tīng shuō guì zhōu suān tāng hěn yǒu míng， diǎn le suān tāng mǐ xiàn。 tā men biān chī biān liáo， fēi cháng yú kuài。\n jié zhàng shí， lǐ wén xiǎng qǐng kè， dàn dà jiā jué de hái shì gè fù gè de gèng hé shì。 yú shì， lǐ wén fù wán qián hòu， dà jiā bǎ qián zhuǎn gěi le tā， hái xiào zhe shuō xià cì zài yì qǐ jù cān。",
+      "en": "On the weekend, Bai Jiayue, Chen Tianzhong, Li Wen and Annie met for lunch. Bai wanted spicy chicken; Chen liked sweet food and wanted squirrel-shaped mandarin fish; Li preferred savoury food and chose braised lamb and a cold dish; Annie had heard of Guizhou sour soup and ordered rice noodles in sour soup. They chatted happily while eating.\nWhen paying, Li offered to treat everyone, but they felt paying their own shares was better. After Li paid, they transferred their shares to him and happily suggested another meal together."
+    }
   },
   "6-1": {
-    "image": "retell-6-1.jpg",
     "pages": [
       71
-    ]
+    ],
+    "prompt": {
+      "zh": "白家月给李文打电话，告诉他自己……，发烧，一直……，还……。李文觉得她病得……，建议她……。不过，白家月来中国后……，不知道……。李文让她在家……，说马上去……，……去医院，还能帮她……。白家月觉得，有……，她就……。",
+      "py": "bái jiā yuè gěi lǐ wén dǎ diàn huà， gào sù tā zì jǐ ……， fā shāo， yì zhí ……， hái ……。 lǐ wén jué de tā bìng dé ……， jiàn yì tā ……。 bù guò， bái jiā yuè lái zhōng guó hòu ……， bù zhī dào ……。 lǐ wén ràng tā zài jiā ……， shuō mǎ shàng qù ……，…… qù yī yuàn， hái néng bāng tā ……。 bái jiā yuè jué de， yǒu ……， tā jiù ……。",
+      "en": "Bai Jiayue phoned Li Wen to say she …, had a fever, kept … and also…. Li thought she was … and advised…. But since arriving in China she … and did not know…. He asked her to … at home, said he would …, … to hospital and help her…. With …, she felt…."
+    },
+    "answer": {
+      "zh": "白家月给李文打电话，告诉他自己身体不舒服，发烧，一直咳嗽，还咳得很厉害。李文觉得她病得很严重，建议她赶快去医院检查。不过，白家月来中国后还没去过医院，不知道怎么在中国的医院看病。李文让她在家等一下，说马上去接她，陪她去医院，还能帮她翻译。白家月觉得，有李文陪着，她就放心多了。",
+      "py": "bái jiā yuè gěi lǐ wén dǎ diàn huà， gào sù tā zì jǐ shēn tǐ bù shū fú， fā shāo， yì zhí ké sou， hái ké dé hěn lì hài。 lǐ wén jué de tā bìng dé hěn yán zhòng， jiàn yì tā gǎn kuài qù yī yuàn jiǎn chá。 bù guò， bái jiā yuè lái zhōng guó hòu hái méi qù guò yī yuàn， bù zhī dào zěn me zài zhōng guó de yī yuàn kàn bìng。 lǐ wén ràng tā zài jiā děng yí xià， shuō mǎ shàng qù jiē tā， péi tā qù yī yuàn， hái néng bāng tā fān yì。 bái jiā yuè jué de， yǒu lǐ wén péi zhe， tā jiù fàng xīn duō le。",
+      "en": "Bai phoned Li because she felt unwell, had a fever and was coughing badly. Li thought it was serious and advised a hospital examination. She had not visited a hospital in China and did not know the procedure. Li asked her to wait at home; he would pick her up, accompany her and translate. His support reassured her."
+    }
   },
   "6-3": {
-    "image": "retell-6-3.jpg",
     "pages": [
       74,
       75
-    ]
+    ],
+    "prompt": {
+      "zh": "下午白家月去看病了，她告诉医生，自己……，偶尔……。这次她……，头也……，身上……。医生给她……，检查结果……，发现她得了……。医生建议她……，因为那样……。医生还让她回家以后……，多……，多……。晚上，白家月睡觉时……。第二天醒来时，她感觉头……，体温……，身体……。",
+      "py": "xià wǔ bái jiā yuè qù kàn bìng le， tā gào sù yī shēng， zì jǐ ……， ǒu ěr ……。 zhè cì tā ……， tóu yě ……， shēn shàng ……。 yī shēng gěi tā ……， jiǎn chá jié guǒ ……， fā xiàn tā dé le ……。 yī shēng jiàn yì tā ……， yīn wèi nà yàng ……。 yī shēng huán ràng tā huí jiā yǐ hòu ……， duō ……， duō ……。 wǎn shàng， bái jiā yuè shuì jiào shí ……。 dì èr tiān xǐng lái shí， tā gǎn jué tóu ……， tǐ wēn ……， shēn tǐ ……。",
+      "en": "Bai went to the doctor that afternoon. She said she usually … and only occasionally…. This time she …, her head … and her body…. The doctor …; when the results …, they found…. The doctor advised … because…. At home she should …, drink/rest more … and…. That night she…. Next morning her head …, temperature … and body…."
+    },
+    "answer": {
+      "zh": "下午白家月去看病了，她告诉医生，自己平时身体不错，偶尔才会生一次病。这次她病得很厉害，头也一直疼，身上一点儿力气都没有。医生给她做了检查，检查结果出来后，发现她得了比较严重的流行性感冒。\n医生告诉她，现在需要把体温降下来，光吃药恐怕不够，打针会更有效。医生还让她回家以后按时吃药，多喝水，多休息。\n晚上，白家月睡觉时出了一身汗。第二天醒来时，她感觉头不那么疼了，体温也低了一些，身体不那么难受了。",
+      "py": "xià wǔ bái jiā yuè qù kàn bìng le， tā gào sù yī shēng， zì jǐ píng shí shēn tǐ bù cuò， ǒu ěr cái huì shēng yī cì bìng。 zhè cì tā bìng dé hěn lì hài， tóu yě yì zhí téng， shēn shàng yì diǎn ér lì qì dōu méi yǒu。 yī shēng gěi tā zuò le jiǎn chá， jiǎn chá jié guǒ chū lái hòu， fā xiàn tā dé le bǐ jiào yán zhòng de liú xíng xìng gǎn mào。\n yī shēng gào sù tā， xiàn zài xū yào bǎ tǐ wēn jiàng xià lái， guāng chī yào kǒng pà bù gòu， dǎ zhēn huì gèng yǒu xiào。 yī shēng huán ràng tā huí jiā yǐ hòu àn shí chī yào， duō hē shuǐ， duō xiū xī。\n wǎn shàng， bái jiā yuè shuì jiào shí chū le yī shēn hàn。 dì èr tiān xǐng lái shí， tā gǎn jué tóu bù nà me téng le， tǐ wēn yě dī le yī xiē， shēn tǐ bù nà me nán shòu le。",
+      "en": "Bai visited the doctor that afternoon. She said she was usually healthy and only occasionally ill. This time she was very unwell, with a persistent headache and no strength. After examination, the doctor found she had a fairly severe case of influenza.\nIn this story, the doctor said her temperature needed lowering, that medicine alone might not be enough and an injection would be more effective. The doctor also told her to take medicine on schedule, drink more water and rest.\nThat night she sweated while sleeping. When she woke the next day, her head hurt less, her temperature had fallen and she felt less uncomfortable."
+    }
   },
   "7-1": {
-    "image": "retell-7-1.jpg",
     "pages": [
       83
-    ]
+    ],
+    "prompt": {
+      "zh": "昨天同事把……发到……，并请她看看……。王一雪觉得……，就是……。同事说她会再加……，并认真准备，按时……。王一雪建议她做调查的时候要……，注意了解……，如果遇到什么问题，……。",
+      "py": "zuó tiān tóng shì bǎ …… fā dào ……， bìng qǐng tā kàn kàn ……。 wáng yī xuě jué de ……， jiù shì ……。 tóng shì shuō tā huì zài jiā ……， bìng rèn zhēn zhǔn bèi， àn shí ……。 wáng yī xuě jiàn yì tā zuò diào chá de shí hòu yào ……， zhù yì liǎo jiě ……， rú guǒ yù dào shén me wèn tí，……。",
+      "en": "Yesterday a colleague sent … to … and asked Wang to review…. Wang thought …, except…. The colleague would add …, prepare carefully and … on time. Wang advised her to be … during the survey, understand … and, if problems arose, …."
+    },
+    "answer": {
+      "zh": "昨天同事把市场调查的计划书发到王一雪的邮箱，并请她看看内容有没有需要改的地方。王一雪觉得写得不错，就是调查地点只有超市，不太够。同事说她会再加一些网店，并认真准备，按时完成任务。王一雪建议她做调查时要细心，注意了解客户真正的想法，如果遇到问题，要及时跟她联系。",
+      "py": "zuó tiān tóng shì bǎ shì chǎng diào chá de jì huà shū fā dào wáng yī xuě de yóu xiāng， bìng qǐng tā kàn kàn nèi róng yǒu méi yǒu xū yào gǎi de dì fang。 wáng yī xuě jué de xiě dé bù cuò， jiù shì diào chá dì diǎn zhǐ yǒu chāo shì， bù tài gòu。 tóng shì shuō tā huì zài jiā yī xiē wǎng diàn， bìng rèn zhēn zhǔn bèi， àn shí wán chéng rèn wù。 wáng yī xuě jiàn yì tā zuò diào chá shí yào xì xīn， zhù yì liǎo jiě kè hù zhēn zhèng de xiǎng fǎ， rú guǒ yù dào wèn tí， yào jí shí gēn tā lián xì。",
+      "en": "A colleague emailed Wang a market-research plan and asked whether its content needed changes. Wang thought it was good, but supermarkets alone were insufficient survey locations. The colleague would add online shops, prepare carefully and finish on time. Wang advised her to be attentive, understand customers' real views and contact her promptly with problems."
+    }
   },
   "7-3": {
-    "image": "retell-7-3.jpg",
     "pages": [
       86,
       87
-    ]
+    ],
+    "prompt": {
+      "zh": "前段时间，杨同乐的同事……。刚开始，这位同事……。拿……来说，虽然她能……，但实际效果……。杨同乐告诉她，这是因为……。其实，不同年龄、不同性别的客户……。于是，这位同事……，了解……。后来她在面对不同客户时，能……，效果……。",
+      "py": "qián duàn shí jiān， yáng tóng lè de tóng shì ……。 gāng kāi shǐ， zhè wèi tóng shì ……。 ná …… lái shuō， suī rán tā néng ……， dàn shí jì xiào guǒ ……。 yáng tóng lè gào sù tā， zhè shì yīn wèi ……。 qí shí， bù tóng nián líng 、 bù tóng xìng bié de kè hù ……。 yú shì， zhè wèi tóng shì ……， liǎo jiě ……。 hòu lái tā zài miàn duì bù tóng kè hù shí， néng ……， xiào guǒ ……。",
+      "en": "Recently Yang Tongle's colleague…. Initially she…. Taking … as an example, although she could …, the results…. Yang explained this was because…. Customers of different ages and genders actually…. So she … to understand…. Later, when meeting different customers, she could … and the results…."
+    },
+    "answer": {
+      "zh": "前段时间，杨同乐的同事谈成了一笔不错的生意。刚开始，这位同事也遇到了一些困难。拿和客户交流来说，虽然她能把产品的优缺点说得很清楚，但实际效果并不理想。杨同乐告诉她，这是因为她介绍的方式都一样。其实，不同年龄、不同性别的客户对产品的关注点是不一样的。\n于是，这位同事又认真地进行了几次市场调查，了解不同客户的想法。后来她在面对不同客户时，能根据他们的情况介绍产品，效果一下就好了很多。",
+      "py": "qián duàn shí jiān， yáng tóng lè de tóng shì tán chéng le yī bǐ bù cuò de shēng yì。 gāng kāi shǐ， zhè wèi tóng shì yě yù dào le yī xiē kùn nán。 ná hé kè hù jiāo liú lái shuō， suī rán tā néng bǎ chǎn pǐn de yōu quē diǎn shuō dé hěn qīng chǔ， dàn shí jì xiào guǒ bìng bù lǐ xiǎng。 yáng tóng lè gào sù tā， zhè shì yīn wèi tā jiè shào de fāng shì dōu yī yàng。 qí shí， bù tóng nián líng 、 bù tóng xìng bié de kè hù duì chǎn pǐn de guān zhù diǎn shì bù yí yàng de。\n yú shì， zhè wèi tóng shì yòu rèn zhēn dì jìn xíng le jǐ cì shì chǎng diào chá， liǎo jiě bù tóng kè hù de xiǎng fǎ。 hòu lái tā zài miàn duì bù tóng kè hù shí， néng gēn jù tā men de qíng kuàng jiè shào chǎn pǐn， xiào guǒ yī xià jiù hǎo le hěn duō。",
+      "en": "Recently Yang Tongle's colleague concluded a good business deal. At first she had difficulties. For example, although she explained the product's strengths and weaknesses clearly, customer communication did not work well. Yang explained that her presentation was always the same, while customers of different ages and genders focus on different things.\nShe therefore carried out several careful surveys to understand different customers' ideas. Later she adapted her introductions to their circumstances, and the results improved considerably."
+    }
   },
   "8-1": {
-    "image": "retell-8-1.jpg",
     "pages": [
       95
-    ]
+    ],
+    "prompt": {
+      "zh": "安妮最近学习……，于是她给白家月打电话，想……。去哪儿好呢？安妮觉得……都行。白家月问……，安妮告诉白家月，陈天中说下周王老师要带他们……。白家月又建议去……，安妮觉得这是个……，并提醒白家月，明天……，外出记得……。",
+      "py": "ān nī zuì jìn xué xí ……， yú shì tā gěi bái jiā yuè dǎ diàn huà， xiǎng ……。 qù nǎ ér hǎo ne ？ ān nī jué de …… dōu xíng。 bái jiā yuè wèn ……， ān nī gào sù bái jiā yuè， chén tiān zhōng shuō xià zhōu wáng lǎo shī yào dài tā men ……。 bái jiā yuè yòu jiàn yì qù ……， ān nī jué de zhè shì gè ……， bìng tí xǐng bái jiā yuè， míng tiān ……， wài chū jì de ……。",
+      "en": "Annie's studies had recently been …, so she called Bai to suggest…. Where should they go? Annie thought any … was fine. Bai asked about …; Annie said Teacher Wang would take them … next week. Bai then suggested…. Annie thought it was a … and reminded her that tomorrow …, so remember to … outdoors."
+    },
+    "answer": {
+      "zh": "安妮最近学习太紧张了，于是她给白家月打电话，想明天出去放松。安妮觉得能放松的地方都行。白家月问郊区怎么样，安妮说陈天中告诉她，下周王老师要带他们去郊区游玩。白家月又建议去爬长城，安妮觉得这是个好主意，并提醒白家月，明天是个大晴天，外出记得戴帽子。",
+      "py": "ān nī zuì jìn xué xí tài jǐn zhāng le， yú shì tā gěi bái jiā yuè dǎ diàn huà， xiǎng míng tiān chū qù fàng sōng。 ān nī jué de néng fàng sōng de dì fang dōu xíng。 bái jiā yuè wèn jiāo qū zěn me yàng， ān nī shuō chén tiān zhōng gào sù tā， xià zhōu wáng lǎo shī yào dài tā men qù jiāo qū yóu wán。 bái jiā yuè yòu jiàn yì qù pá cháng chéng， ān nī jué de zhè shì gè hǎo zhǔ yi， bìng tí xǐng bái jiā yuè， míng tiān shì gè dà qíng tiān， wài chū jì de dài mào zi。",
+      "en": "Annie's studies had been stressful, so she phoned Bai to suggest relaxing outside tomorrow. Any relaxing place would do. Bai suggested the outskirts, but Annie said Teacher Wang would take them there next week. Bai then suggested climbing the Great Wall. Annie liked the idea and reminded her to wear a hat because tomorrow would be sunny."
+    }
   },
   "8-3": {
-    "image": "retell-8-3.jpg",
     "pages": [
       98,
       99
-    ]
+    ],
+    "prompt": {
+      "zh": "以前杨同乐总觉得……，就应该……、积累经验。很多年轻人……。但是，由于……，他们经常……，休息不够，结果……，健康也……。现在越来越多的人认识到，跟……相比，休息好了……更高。因此，很多人开始……，提醒自己……。比如，杨同乐周末时或者……，在……中好好放松自己；或者就在家里……。休息好了，再……时，心情……，……也更高。",
+      "py": "yǐ qián yáng tóng lè zǒng jué de ……， jiù yīng gāi ……、 jī lěi jīng yàn。 hěn duō nián qīng rén ……。 dàn shì， yóu yú ……， tā men jīng cháng ……， xiū xī bù gòu， jié guǒ ……， jiàn kāng yě ……。 xiàn zài yuè lái yuè duō de rén rèn shi dào， gēn …… xiāng bǐ， xiū xī hǎo le …… gèng gāo。 yīn cǐ， hěn duō rén kāi shǐ ……， tí xǐng zì jǐ ……。 bǐ rú， yáng tóng lè zhōu mò shí huò zhě ……， zài …… zhōng hǎo hǎo fàng sōng zì jǐ ； huò zhě jiù zài jiā lǐ ……。 xiū xī hǎo le， zài …… shí， xīn qíng ……，…… yě gèng gāo。",
+      "en": "Yang used to think that because …, he should … and gain experience. Many young people…. However, because …, they often … without enough rest; consequently … and their health…. More people now realise that compared with …, resting first improves…. Many therefore … and remind themselves to…. At weekends Yang either …, relaxing in …, or stays home to…. After resting, when he …, he feels … and … improves."
+    },
+    "answer": {
+      "zh": "以前杨同乐总觉得自己年轻，就应该多学多干、积累经验。很多年轻人和他想法一样。但是，由于工作紧张，他们经常加班、熬夜，休息不够，结果工作效率下降，健康也受到了影响。\n现在越来越多的人认识到，跟一直加班相比，休息好了再工作，效率更高。因此，很多人开始做出改变，提醒自己减轻压力、多多放松。比如，杨同乐周末时或者与朋友们去郊区游玩，在大自然美丽的景色中好好放松自己；或者就在家里安安静静地看看书。休息好了，再回去上班时，心情愉快，工作效率也更高。",
+      "py": "yǐ qián yáng tóng lè zǒng jué de zì jǐ nián qīng， jiù yīng gāi duō xué duō gàn 、 jī lěi jīng yàn。 hěn duō nián qīng rén hé tā xiǎng fǎ yī yàng。 dàn shì， yóu yú gōng zuò jǐn zhāng， tā men jīng cháng jiā bān 、 áo yè， xiū xī bù gòu， jié guǒ gōng zuò xiào lǜ xià jiàng， jiàn kāng yě shòu dào le yǐng xiǎng。\n xiàn zài yuè lái yuè duō de rén rèn shi dào， gēn yì zhí jiā bān xiāng bǐ， xiū xī hǎo le zài gōng zuò， xiào lǜ gèng gāo。 yīn cǐ， hěn duō rén kāi shǐ zuò chū gǎi biàn， tí xǐng zì jǐ jiǎn qīng yā lì 、 duō duō fàng sōng。 bǐ rú， yáng tóng lè zhōu mò shí huò zhě yǔ péng yǒu men qù jiāo qū yóu wán， zài dà zì rán měi lì de jǐng sè zhōng hǎo hǎo fàng sōng zì jǐ ； huò zhě jiù zài jiā lǐ ān ān jìng jìng dì kàn kàn shū。 xiū xī hǎo le， zài huí qù shàng bān shí， xīn qíng yú kuài， gōng zuò xiào lǜ yě gèng gāo。",
+      "en": "Yang Tongle used to think that being young meant he should learn more, work more and build experience. Many young people think the same, but stressful work, overtime, late nights and insufficient rest reduce efficiency and affect health.\nMore people now realise that working after proper rest is more efficient than constant overtime. They are changing habits and reminding themselves to reduce pressure. On weekends Yang either goes to the suburbs with friends to relax in nature or reads quietly at home. Returning to work rested, he feels happier and works more efficiently."
+    }
   },
   "9-1": {
-    "image": "retell-9-1.jpg",
     "pages": [
       107
-    ]
+    ],
+    "prompt": {
+      "zh": "白家月……时，李文给她买了……和……。李文告诉她，上次……时，看到白家月拿起了这个巧克力……，他就记住了。白家月特别……，觉得自己不说李文也……，他真是个……的人。白家月告诉李文，其实刚认识不久，李文的……就很吸引她，不过她当时也只把李文……。如果李文没有……，他们可能……。李文认为自己终于……，……？遇见李文，白家月也……。",
+      "py": "bái jiā yuè …… shí， lǐ wén gěi tā mǎi le …… hé ……。 lǐ wén gào sù tā， shàng cì …… shí， kàn dào bái jiā yuè ná qǐ le zhè ge qiǎo kè lì ……， tā jiù jì zhù le。 bái jiā yuè tè bié ……， jué de zì jǐ bù shuō lǐ wén yě ……， tā zhēn shì gè …… de rén。 bái jiā yuè gào sù lǐ wén， qí shí gāng rèn shi bù jiǔ， lǐ wén de …… jiù hěn xī yǐn tā， bù guò tā dāng shí yě zhǐ bǎ lǐ wén ……。 rú guǒ lǐ wén méi yǒu ……， tā men kě néng ……。 lǐ wén rèn wéi zì jǐ zhōng yú ……，……？ yù jiàn lǐ wén， bái jiā yuè yě ……。",
+      "en": "For Bai's …, Li bought … and…. He remembered seeing her pick up the chocolate and … when they…. She felt …; even without her speaking he …, making him a … person. His … had attracted her soon after they met, but she initially saw him as…. If he had not …, they might…. Li felt he had finally …, so how could he …? Bai also felt … to have met him."
+    },
+    "answer": {
+      "zh": "白家月过生日时，李文给她买了花和巧克力。上次去超市时，他看到白家月拿起这个巧克力看了看又放下，就记住了。白家月特别感动，觉得自己不说李文也懂她，他真是个细心又浪漫的人。她说，刚认识不久，李文的幽默与耐心就很吸引她，不过当时只把他当普通朋友。如果李文没有一直找她聊天儿，他们可能就错过了。李文认为自己终于遇见了对的人，怎么能错过呢？遇见李文，白家月也觉得很幸运。",
+      "py": "bái jiā yuè guò shēng rì shí， lǐ wén gěi tā mǎi le huā hé qiǎo kè lì。 shàng cì qù chāo shì shí， tā kàn dào bái jiā yuè ná qǐ zhè ge qiǎo kè lì kàn le kàn yòu fàng xià， jiù jì zhù le。 bái jiā yuè tè bié gǎn dòng， jué de zì jǐ bù shuō lǐ wén yě dǒng tā， tā zhēn shì gè xì xīn yòu làng màn de rén。 tā shuō， gāng rèn shi bù jiǔ， lǐ wén de yōu mò yǔ nài xīn jiù hěn xī yǐn tā， bù guò dāng shí zhǐ bǎ tā dāng pǔ tōng péng yǒu。 rú guǒ lǐ wén méi yǒu yì zhí zhǎo tā liáo tiān ér， tā men kě néng jiù cuò guò le。 lǐ wén rèn wéi zì jǐ zhōng yú yù jiàn le duì de rén， zěn me néng cuò guò ne ？ yù jiàn lǐ wén， bái jiā yuè yě jué de hěn xìng yùn。",
+      "en": "Li bought flowers and chocolate for Bai's birthday. He remembered her picking up that chocolate at the supermarket and putting it back. She was moved by his understanding, thoughtfulness and romance. His humour and patience had attracted her early on, although she initially saw him only as a friend. Without his continued conversations, they might have missed their chance. Li felt he had finally met the right person and could not let that chance pass. Bai also felt lucky to have met him."
+    }
   },
   "9-3": {
-    "image": "retell-9-3.jpg",
     "pages": [
       111
-    ]
+    ],
+    "prompt": {
+      "zh": "王一雪比杨同乐……。杨同乐刚来不久，王一雪对他……：人……，性格……，工作……，……积极……后来他们一起……，此次出差，让两人……，从此……。一次聊天儿时，王一雪了解到……，正好自己的妹妹王一飞……，于是王一雪就……。杨同乐和王一飞认识后，……，两人之间……，最后……。杨同乐说……，和王一雪这份……，给他带来了……。",
+      "py": "wáng yī xuě bǐ yáng tóng lè ……。 yáng tóng lè gāng lái bù jiǔ， wáng yī xuě duì tā ……： rén ……， xìng gé ……， gōng zuò ……，…… jī jí …… hòu lái tā men yì qǐ ……， cǐ cì chū chāi， ràng liǎng rén ……， cóng cǐ ……。 yī cì liáo tiān ér shí， wáng yī xuě liǎo jiě dào ……， zhèng hǎo zì jǐ de mèi mèi wáng yī fēi ……， yú shì wáng yī xuě jiù ……。 yáng tóng lè hé wáng yī fēi rèn shi hòu，……， liǎng rén zhī jiān ……， zuì hòu ……。 yáng tóng lè shuō ……， hé wáng yī xuě zhè fèn ……， gěi tā dài lái le ……。",
+      "en": "Wang Yixue … than Yang Tongle. Soon after he joined, she …: he was …, had a … personality, worked … and showed…. Later they … together; the trip … and they became…. During a chat, she learned …; her sister also …, so she…. After Yang and her sister met, they …, … developed between them and they eventually…. Yang said …; his … with Wang brought him…."
+    },
+    "answer": {
+      "zh": "王一雪比杨同乐更早进入公司。杨同乐刚来不久，王一雪对他印象就非常好：人很实在，性格阳光，工作负责，表现积极……后来他们一起出了次差，此次出差，让两人熟悉了起来，从此成了好朋友。一次聊天儿时，王一雪了解到杨同乐还没女朋友，正好自己的妹妹王一飞也没有男朋友，于是王一雪就把王一飞介绍给了他。\n杨同乐和王一飞认识后，很聊得来，两人之间慢慢产生了爱情，最后成了夫妻。杨同乐说自己很幸运，和王一雪这份同事间的友情，给他带来了美好的爱情。",
+      "py": "wáng yī xuě bǐ yáng tóng lè gèng zǎo jìn rù gōng sī。 yáng tóng lè gāng lái bù jiǔ， wáng yī xuě duì tā yìn xiàng jiù fēi cháng hǎo ： rén hěn shí zài， xìng gé yáng guāng， gōng zuò fù zé， biǎo xiàn jī jí …… hòu lái tā men yì qǐ chū le cì chà， cǐ cì chū chāi， ràng liǎng rén shú xī le qǐ lái， cóng cǐ chéng le hǎo péng yǒu。 yī cì liáo tiān ér shí， wáng yī xuě liǎo jiě dào yáng tóng lè hái méi nǚ péng yǒu， zhèng hǎo zì jǐ de mèi mèi wáng yī fēi yě méi yǒu nán péng yǒu， yú shì wáng yī xuě jiù bǎ wáng yī fēi jiè shào gěi le tā。\n yáng tóng lè hé wáng yī fēi rèn shi hòu， hěn liáo dé lái， liǎng rén zhī jiān màn màn chǎn shēng le ài qíng， zuì hòu chéng le fū qī。 yáng tóng lè shuō zì jǐ hěn xìng yùn， hé wáng yī xuě zhè fèn tóng shì jiān de yǒu qíng， gěi tā dài lái le měi hǎo de ài qíng。",
+      "en": "Wang Yixue joined the company before Yang Tongle. Soon after he arrived, she had an excellent impression of him: honest, sunny, responsible and enthusiastic. A business trip helped them become familiar, and they became good friends. During a chat, she learned he had no girlfriend. Her sister Yifei was also single, so she introduced them.\nYang and Yifei got along well, gradually fell in love and married. Yang said he was lucky: his friendship with his colleague Wang Yixue had brought him wonderful love."
+    }
   },
   "10-1": {
-    "image": "retell-10-1.jpg",
     "pages": [
       119
-    ]
+    ],
+    "prompt": {
+      "zh": "刘明和王一雪说他在网上看到的一条信息：一个小伙子从广州去……，没想到……降到了……，把他……。王一雪说，小伙子一定后悔……。刘明说这就叫……不懂……。王一雪认为，冬天北方和南方的温度……。所以，刘明建议，冬天来北方，……，一定要提前查好……。王一雪也说，更重要的是，说什么也得穿上……。",
+      "py": "liú míng hé wáng yī xuě shuō tā zài wǎng shàng kàn dào de yī tiáo xìn xī ： yí gè xiǎo huǒ zi cóng guǎng zhōu qù ……， méi xiǎng dào …… jiàng dào le ……， bǎ tā ……。 wáng yī xuě shuō， xiǎo huǒ zi yí dìng hòu huǐ ……。 liú míng shuō zhè jiù jiào …… bù dǒng ……。 wáng yī xuě rèn wéi， dōng tiān běi fāng hé nán fāng de wēn dù ……。 suǒ yǐ， liú míng jiàn yì， dōng tiān lái běi fāng，……， yí dìng yào tí qián chá hǎo ……。 wáng yī xuě yě shuō， gèng zhòng yào de shì， shuō shén me yě děi chuān shàng ……。",
+      "en": "Liu told Wang about something he saw online: a young man travelled from Guangzhou to …, not expecting … to drop to …, leaving him…. Wang said he must regret…. Liu called this … not understanding…. Wang thought winter temperatures in the north and south…. Liu therefore advised winter visitors, especially …, to check … beforehand. Wang added that above all, they must wear…."
+    },
+    "answer": {
+      "zh": "刘明和王一雪说他在网上看到的一条信息：一个小伙子从广州去哈尔滨出差，没想到气温降到了零下二十几度，把他冻坏了。王一雪说，他一定后悔自己穿少了。刘明说这就叫南方不懂北方的冷。王一雪认为，冬天北方和南方的温度差别很大。所以，刘明建议，冬天来北方，尤其是东北，一定要提前查好目的地的天气。王一雪说，更重要的是，说什么也得穿上厚一点儿的衣服。",
+      "py": "liú míng hé wáng yī xuě shuō tā zài wǎng shàng kàn dào de yī tiáo xìn xī ： yí gè xiǎo huǒ zi cóng guǎng zhōu qù hā ěr bīn chū chāi， méi xiǎng dào qì wēn jiàng dào le líng xià èr shí jǐ dù， bǎ tā dòng huài le。 wáng yī xuě shuō， tā yí dìng hòu huǐ zì jǐ chuān shǎo le。 liú míng shuō zhè jiù jiào nán fāng bù dǒng běi fāng de lěng。 wáng yī xuě rèn wéi， dōng tiān běi fāng hé nán fāng de wēn dù chā bié hěn dà。 suǒ yǐ， liú míng jiàn yì， dōng tiān lái běi fāng， yóu qí shì dōng běi， yí dìng yào tí qián chá hǎo mù dì dì de tiān qì。 wáng yī xuě shuō， gèng zhòng yào de shì， shuō shén me yě děi chuān shàng hòu yì diǎn ér de yī fú。",
+      "en": "Liu told Wang about a young man who travelled from Guangzhou to Harbin for work. He had not expected temperatures below minus twenty degrees and was freezing. Wang thought he must regret dressing too lightly. Liu called this southerners not understanding northern cold. They noted the large winter temperature difference and advised checking destination weather before visiting the north, especially the northeast. Above all, visitors must wear thicker clothes."
+    }
   },
   "10-3": {
-    "image": "retell-10-3.jpg",
     "pages": [
       123
-    ]
+    ],
+    "prompt": {
+      "zh": "广州和哈尔滨，一个在……，一个在……，两个城市之间的距离有……，气候……。广州基本上……，而哈尔滨的冬天一般会……，到……才结束。广州四季……，所以又叫“花城”；哈尔滨冬天……，所以也叫“冰城”。此外，……也不一样。哈尔滨方言和普通话……，而广州方言和普通话……。如果广州人和哈尔滨人都只使用……，那么交流……，甚至还……。其实，中国很多地方……，所以，为了……，中国人从小都要……。",
+      "py": "guǎng zhōu hé hā ěr bīn， yí gè zài ……， yí gè zài ……， liǎng gè chéng shì zhī jiān de jù lí yǒu ……， qì hòu ……。 guǎng zhōu jī běn shàng ……， ér hā ěr bīn de dōng tiān yì bān huì ……， dào …… cái jié shù。 guǎng zhōu sì jì ……， suǒ yǐ yòu jiào “ huā chéng ”； hā ěr bīn dōng tiān ……， suǒ yǐ yě jiào “ bīng chéng ”。 cǐ wài，…… yě bù yí yàng。 hā ěr bīn fāng yán hé pǔ tōng huà ……， ér guǎng zhōu fāng yán hé pǔ tōng huà ……。 rú guǒ guǎng zhōu rén hé hā ěr bīn rén dōu zhǐ shǐ yòng ……， nà me jiāo liú ……， shèn zhì hái ……。 qí shí， zhōng guó hěn duō dì fang ……， suǒ yǐ， wèi le ……， zhōng guó rén cóng xiǎo dōu yào ……。",
+      "en": "Guangzhou is in … and Harbin in…. They are … apart and their climates…. Guangzhou generally …, whereas Harbin's winter starts … and ends…. Guangzhou … all year, earning the name Flower City; Harbin … in winter, earning Ice City. Their … also differ. Harbin dialect … Mandarin, whereas Guangzhou dialect…. If people used only …, communication would … and might even…. Many Chinese places actually …, so to …, people learn … from childhood."
+    },
+    "answer": {
+      "zh": "广州和哈尔滨，一个在南方，一个在北方，两个城市之间的距离有三千多公里，气候也大不相同。广州基本上没有冬天，而哈尔滨的冬天一般会从十月开始，到第二年的三四月才结束。广州四季开满鲜花，所以又叫“花城”；哈尔滨冬天冰雪多，所以也叫“冰城”。\n此外，两地的方言也不一样。哈尔滨方言和普通话听起来比较像，而广州方言和普通话差别较大。如果广州人和哈尔滨人都只使用自己的方言，那么交流就很困难，甚至还可能引起误会。其实，中国很多地方都有自己的方言，所以，为了顺利交流，中国人从小都要学习普通话。",
+      "py": "guǎng zhōu hé hā ěr bīn， yí gè zài nán fāng， yí gè zài běi fāng， liǎng gè chéng shì zhī jiān de jù lí yǒu sān qiān duō gōng lǐ， qì hòu yě dà bù xiāng tóng。 guǎng zhōu jī běn shàng méi yǒu dōng tiān， ér hā ěr bīn de dōng tiān yì bān huì cóng shí yuè kāi shǐ， dào dì èr nián de sān sì yuè cái jié shù。 guǎng zhōu sì jì kāi mǎn xiān huā， suǒ yǐ yòu jiào “ huā chéng ”； hā ěr bīn dōng tiān bīng xuě duō， suǒ yǐ yě jiào “ bīng chéng ”。\n cǐ wài， liǎng dì de fāng yán yě bù yí yàng。 hā ěr bīn fāng yán hé pǔ tōng huà tīng qǐ lái bǐ jiào xiàng， ér guǎng zhōu fāng yán hé pǔ tōng huà chā bié jiào dà。 rú guǒ guǎng zhōu rén hé hā ěr bīn rén dōu zhǐ shǐ yòng zì jǐ de fāng yán， nà me jiāo liú jiù hěn kùn nán， shèn zhì hái kě néng yǐn qǐ wù huì。 qí shí， zhōng guó hěn duō dì fang dōu yǒu zì jǐ de fāng yán， suǒ yǐ， wèi le shùn lì jiāo liú， zhōng guó rén cóng xiǎo dōu yào xué xí pǔ tōng huà。",
+      "en": "Guangzhou is in the south and Harbin in the north, over 3,000 kilometres apart, with very different climates. Guangzhou has almost no winter, while Harbin's generally lasts from October until March or April. Guangzhou's year-round flowers give it the name 'Flower City'; Harbin's winter ice and snow earn it 'Ice City'.\nTheir dialects differ too. Harbin dialect sounds relatively similar to standard Mandarin, while Guangzhou dialect differs more. Communication would be difficult, and misunderstandings possible, if people used only their local dialects. Many Chinese regions have their own dialects, so children learn standard Mandarin to communicate smoothly."
+    }
   }
 }

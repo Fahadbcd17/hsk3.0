@@ -8,3 +8,5 @@
 .text-divider{border:0;border-top:1px solid var(--line);margin:32px 0;}
 
 .retelling{margin:30px 0;padding:24px 0;border-top:1px solid var(--line)}.retelling-prompts{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:10px}.retelling>.muted{font-size:12px;margin-top:10px}
+
+.retelling-prompt{padding:18px;background:var(--paper);border-radius:10px}.retelling .zh{white-space:pre-line}.retelling-answer{margin-top:16px}.retelling-answer[hidden]{display:none}.retelling>.btn{margin-top:16px}
