@@ -1,0 +1,1654 @@
+{
+  "id": 19,
+  "title": "他们都很棒",
+  "en": "They were all fantastic",
+  "page": 103,
+  "grammar": [
+    "不是……就是……",
+    "动词＋一×是一×",
+    "把＋宾语＋动词＋动量补语",
+    "把＋宾语＋动词＋时量补语"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    103,
+    114
+  ],
+  "words": [
+    {
+      "zh": "话剧",
+      "en": "stage play",
+      "example": {
+        "zh": "周末我不是看话剧，就是看电影。",
+        "en": "On weekends I either watch a play or a film."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "排",
+      "en": "rehearse",
+      "example": {
+        "zh": "我们把这个节目排了三遍。",
+        "en": "We rehearsed this programme three times."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "艺术",
+      "en": "art",
+      "example": {
+        "zh": "他不是学艺术，就是学经济。",
+        "en": "He studies either art or economics."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "内心",
+      "en": "inner feelings; heart",
+      "example": {
+        "zh": "她内心不是高兴，就是紧张。",
+        "en": "Inside she feels either happy or nervous."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "自信",
+      "en": "confident; confidence",
+      "example": {
+        "zh": "他把这个动作练了十遍，现在很自信。",
+        "en": "He practised this movement ten times and now feels confident."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "少年",
+      "en": "young person; teenager",
+      "example": {
+        "zh": "这个少年不是看书，就是运动。",
+        "en": "This teenager either reads or exercises."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "歌手",
+      "en": "singer",
+      "example": {
+        "zh": "她不是想当歌手，就是想当老师。",
+        "en": "She wants to be either a singer or a teacher."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "歌声",
+      "en": "singing voice",
+      "example": {
+        "zh": "我把她的歌声听了好几遍。",
+        "en": "I listened to her singing several times."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "度假",
+      "en": "go on holiday",
+      "example": {
+        "zh": "我们不是去北京度假，就是去上海度假。",
+        "en": "We will holiday either in Beijing or in Shanghai."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "演员",
+      "en": "actor; performer",
+      "example": {
+        "zh": "演员把这个动作练了一小时。",
+        "en": "The performer practised this movement for an hour."
+      },
+      "grammar": "把＋宾语＋动词＋时量补语"
+    },
+    {
+      "zh": "演唱",
+      "en": "sing in a performance",
+      "example": {
+        "zh": "她不是演唱，就是跳舞。",
+        "en": "She either sings or dances."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "留下",
+      "en": "leave behind",
+      "example": {
+        "zh": "我把他留下的书看了两天。",
+        "en": "I read the book he left for two days."
+      },
+      "grammar": "把＋宾语＋动词＋时量补语"
+    },
+    {
+      "zh": "青年",
+      "en": "young adult; young people",
+      "example": {
+        "zh": "这个青年不是在学习，就是在工作。",
+        "en": "This young man is either studying or working."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "观众",
+      "en": "audience; spectator",
+      "example": {
+        "zh": "观众把这个节目看了两遍。",
+        "en": "The audience watched the programme twice."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "功课",
+      "en": "preparation; schoolwork",
+      "example": {
+        "zh": "我把今天的功课做了两个小时。",
+        "en": "I worked on today's schoolwork for two hours."
+      },
+      "grammar": "把＋宾语＋动词＋时量补语"
+    },
+    {
+      "zh": "转发",
+      "en": "forward; repost",
+      "example": {
+        "zh": "这条信息我不是发给你，就是转发给他。",
+        "en": "I either send this message to you or forward it to him."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "入口",
+      "en": "entrance",
+      "example": {
+        "zh": "他不是在入口等，就是在车上等。",
+        "en": "He waits either at the entrance or on the bus."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "入",
+      "en": "enter",
+      "example": {
+        "zh": "他不是入校学习，就是去公司工作。",
+        "en": "He either enters school to study or goes to a company to work."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "指",
+      "en": "point at",
+      "example": {
+        "zh": "老师把他指的地方看了两遍。",
+        "en": "The teacher looked twice at the place he pointed to."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "功夫",
+      "en": "skill; workmanship",
+      "example": {
+        "zh": "学功夫，能学一点儿是一点儿。",
+        "en": "When learning a skill, learn as much as you can."
+      },
+      "grammar": "动词＋一×是一×"
+    },
+    {
+      "zh": "获奖",
+      "en": "win a prize",
+      "example": {
+        "zh": "我们把她获奖的节目看了三遍。",
+        "en": "We watched her prize-winning performance three times."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "奖",
+      "en": "award; prize",
+      "example": {
+        "zh": "他不是得了一等奖，就是得了二等奖。",
+        "en": "He won either first prize or second prize."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "期待",
+      "en": "look forward to",
+      "example": {
+        "zh": "我期待的不是礼物，就是一句祝福。",
+        "en": "What I look forward to is either a gift or a good wish."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "鼓掌",
+      "en": "clap hands",
+      "example": {
+        "zh": "大家不是鼓掌，就是大声说好。",
+        "en": "Everyone is either clapping or calling out their approval."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "邀请",
+      "en": "invite",
+      "example": {
+        "zh": "我把邀请大家的信息看了两遍。",
+        "en": "I read the invitation message twice."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "庆祝",
+      "en": "celebrate",
+      "example": {
+        "zh": "我们不是吃饭庆祝，就是看电影庆祝。",
+        "en": "We celebrate either with a meal or a film."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "点头",
+      "en": "nod",
+      "example": {
+        "zh": "我把这个故事讲了一遍，老师听后点头了。",
+        "en": "I told the story once, and the teacher nodded after listening."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "作品",
+      "en": "creative work",
+      "example": {
+        "zh": "我把这部作品读了一个月。",
+        "en": "I read this work for a month."
+      },
+      "grammar": "把＋宾语＋动词＋时量补语"
+    },
+    {
+      "zh": "作者",
+      "en": "author",
+      "example": {
+        "zh": "这位作者不是写书，就是看书。",
+        "en": "This author is either writing books or reading."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "世纪",
+      "en": "century",
+      "example": {
+        "zh": "我把介绍上个世纪的书看了两天。",
+        "en": "I read a book about the last century for two days."
+      },
+      "grammar": "把＋宾语＋动词＋时量补语"
+    },
+    {
+      "zh": "读者",
+      "en": "reader",
+      "example": {
+        "zh": "读者把这本书读了三遍。",
+        "en": "The reader read this book three times."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "作家",
+      "en": "writer",
+      "example": {
+        "zh": "她不是想当作家，就是想当老师。",
+        "en": "She wants to become either a writer or a teacher."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "版",
+      "en": "edition",
+      "example": {
+        "zh": "我把中文版的书看了两遍。",
+        "en": "I read the Chinese edition twice."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "文章",
+      "en": "article; essay",
+      "example": {
+        "zh": "我把这篇文章读了十分钟。",
+        "en": "I read this article for ten minutes."
+      },
+      "grammar": "把＋宾语＋动词＋时量补语"
+    },
+    {
+      "zh": "全部",
+      "en": "all; whole",
+      "example": {
+        "zh": "我把全部材料看了一遍。",
+        "en": "I looked through all the materials once."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "整理",
+      "en": "sort out",
+      "example": {
+        "zh": "我把这些书整理了一个小时。",
+        "en": "I sorted these books for an hour."
+      },
+      "grammar": "把＋宾语＋动词＋时量补语"
+    },
+    {
+      "zh": "文字",
+      "en": "written words",
+      "example": {
+        "zh": "我把书上的文字看了两遍。",
+        "en": "I read the words in the book twice."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    },
+    {
+      "zh": "图片",
+      "en": "picture",
+      "example": {
+        "zh": "我把这张图片看了一分钟。",
+        "en": "I looked at this picture for a minute."
+      },
+      "grammar": "把＋宾语＋动词＋时量补语"
+    },
+    {
+      "zh": "报考",
+      "en": "apply to take an examination",
+      "example": {
+        "zh": "我不是报考这所学校，就是报考那所学校。",
+        "en": "I will apply to either this school or that school."
+      },
+      "grammar": "不是……就是……"
+    },
+    {
+      "zh": "文学",
+      "en": "literature",
+      "example": {
+        "zh": "我把这本文学书读了三遍。",
+        "en": "I read this literature book three times."
+      },
+      "grammar": "把＋宾语＋动词＋动量补语"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "获奖",
+      "en": "win a prize"
+    },
+    {
+      "zh": "庆祝",
+      "en": "celebrate"
+    },
+    {
+      "zh": "少年",
+      "en": "teenager"
+    },
+    {
+      "zh": "入口",
+      "en": "entrance"
+    },
+    {
+      "zh": "歌手",
+      "en": "singer"
+    },
+    {
+      "zh": "图片",
+      "en": "picture"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c19-warm-0.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "几个少年在打篮球。",
+        "en": "Some teenagers are playing basketball."
+      }
+    },
+    {
+      "image": "4b/c19-warm-1.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "大家在入口排队。",
+        "en": "People are queuing at the entrance."
+      }
+    },
+    {
+      "image": "4b/c19-warm-2.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "一家人在庆祝生日。",
+        "en": "A family is celebrating a birthday."
+      }
+    },
+    {
+      "image": "4b/c19-warm-3.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "歌手正在唱歌。",
+        "en": "The singer is singing."
+      }
+    },
+    {
+      "image": "4b/c19-warm-4.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "墙上有很多图片。",
+        "en": "There are many pictures on the wall."
+      }
+    },
+    {
+      "image": "4b/c19-warm-5.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "他获奖了，心情很好。",
+        "en": "He won a prize and feels happy."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "你过生日时会怎么庆祝？",
+      "en": "How do you celebrate your birthday?",
+      "answers": [
+        {
+          "zh": "我会和家人一起吃饭。",
+          "en": "I have a meal with my family."
+        },
+        {
+          "zh": "我会请朋友来家里玩。",
+          "en": "I invite friends to my home."
+        },
+        {
+          "zh": "我会去看一场电影。",
+          "en": "I go to see a film."
+        }
+      ]
+    },
+    {
+      "zh": "你喜欢看什么书？",
+      "en": "What books do you like reading?",
+      "answers": [
+        {
+          "zh": "我喜欢看历史书。",
+          "en": "I like history books."
+        },
+        {
+          "zh": "我喜欢看有意思的故事。",
+          "en": "I like interesting stories."
+        },
+        {
+          "zh": "我喜欢看介绍旅行的书。",
+          "en": "I like books about travel."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "小雪和同学们的话剧排得怎么样了？",
+          "en": "How far have Xiaoxue and her classmates got with rehearsal?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "排好了",
+              "en": "Finished"
+            },
+            {
+              "zh": "还差很多",
+              "en": "A lot remains"
+            },
+            {
+              "zh": "还没开始排",
+              "en": "Not started"
+            },
+            {
+              "zh": "基本上排好了",
+              "en": "Almost finished"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "基本上排好了",
+              "en": "D · Almost finished"
+            }
+          ]
+        },
+        {
+          "zh": "小雪的同学唱歌怎么样？",
+          "en": "How does Xiaoxue’s classmate sing?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "很爱忘词",
+              "en": "Often forgets lyrics"
+            },
+            {
+              "zh": "比较一般",
+              "en": "Rather ordinary"
+            },
+            {
+              "zh": "很有感情",
+              "en": "With much emotion"
+            },
+            {
+              "zh": "特别好听",
+              "en": "Exceptionally beautifully"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "特别好听",
+              "en": "D · Exceptionally beautifully"
+            }
+          ]
+        },
+        {
+          "zh": "下周六晚上，李文请大家去做什么？",
+          "en": "What does Li invite everyone to do next Saturday evening?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "散步",
+              "en": "Walk"
+            },
+            {
+              "zh": "聚餐",
+              "en": "Dine together"
+            },
+            {
+              "zh": "看电影",
+              "en": "Watch a film"
+            },
+            {
+              "zh": "看京剧",
+              "en": "Watch Peking Opera"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "看京剧",
+              "en": "D · Watch Peking Opera"
+            }
+          ]
+        },
+        {
+          "zh": "白家月说的“做功课”最可能是什么意思？",
+          "en": "What does Bai mean by doing preparation?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "提前了解",
+              "en": "Learn about it beforehand"
+            },
+            {
+              "zh": "完成作业",
+              "en": "Finish homework"
+            },
+            {
+              "zh": "翻译内容",
+              "en": "Translate content"
+            },
+            {
+              "zh": "学唱京剧",
+              "en": "Learn to sing Peking Opera"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "提前了解",
+              "en": "A · Learn about it beforehand"
+            }
+          ]
+        },
+        {
+          "zh": "李文很期待那场演出，因为：",
+          "en": "Li looked forward to the performance because:",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "演员很专业",
+              "en": "The actors were professional"
+            },
+            {
+              "zh": "故事有意思",
+              "en": "The story was interesting"
+            },
+            {
+              "zh": "音乐很好听",
+              "en": "The music was beautiful"
+            },
+            {
+              "zh": "内容很幽默",
+              "en": "The content was humorous"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "演员很专业",
+              "en": "A · The actors were professional"
+            }
+          ]
+        },
+        {
+          "zh": "演出结束后，演员们邀请观众一起做什么？",
+          "en": "What did the actors invite the audience to do afterwards?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "回答问题",
+              "en": "Answer questions"
+            },
+            {
+              "zh": "学京剧动作",
+              "en": "Learn opera movements"
+            },
+            {
+              "zh": "继续演节目",
+              "en": "Continue performing"
+            },
+            {
+              "zh": "庆祝演出成功",
+              "en": "Celebrate the successful performance"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "庆祝演出成功",
+              "en": "D · Celebrate the successful performance"
+            }
+          ]
+        },
+        {
+          "zh": "《马可·波罗游记》介绍了什么内容？",
+          "en": "What does The Travels of Marco Polo describe?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "中国的经济",
+              "en": "China’s economy"
+            },
+            {
+              "zh": "中国的教育",
+              "en": "Chinese education"
+            },
+            {
+              "zh": "现在的中国",
+              "en": "Present-day China"
+            },
+            {
+              "zh": "13世纪的中国",
+              "en": "Thirteenth-century China"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "13世纪的中国",
+              "en": "D · Thirteenth-century China"
+            }
+          ]
+        },
+        {
+          "zh": "白家月看完中文版的《马可·波罗游记》之后打算做什么？",
+          "en": "What does Bai plan after reading the Chinese edition?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "去意大利玩",
+              "en": "Visit Italy"
+            },
+            {
+              "zh": "把它翻译给家人",
+              "en": "Translate it for her family"
+            },
+            {
+              "zh": "完成自己的作品",
+              "en": "Complete her own work"
+            },
+            {
+              "zh": "再买一本送给朋友",
+              "en": "Buy another copy for a friend"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "完成自己的作品",
+              "en": "C · Complete her own work"
+            }
+          ]
+        }
+      ],
+      "sourcePages": []
+    },
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流文学、艺术方面的话题。",
+          "en": "Understand and discuss literature and art."
+        },
+        {
+          "zh": "能够口头或书面介绍一部作品或一种艺术形式。",
+          "en": "Introduce a creative work or art form orally or in writing."
+        },
+        {
+          "zh": "了解中国国粹之一——京剧。",
+          "en": "Learn about Peking Opera, a major traditional Chinese art."
+        }
+      ],
+      "sourcePages": [
+        103
+      ]
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "王一雪：小雪，你们的话剧排好了吗？",
+          "en": "Wang Yixue: Xiaoxue, have you finished rehearsing your play?"
+        },
+        {
+          "zh": "刘小雪：差不多了，妈妈。艺术节周五下午开始，我内心还是有些紧张，有时候不是忘词，就是忘记做动作。",
+          "en": "Liu Xiaoxue: Almost, Mum. The arts festival begins on Friday afternoon. I still feel nervous; sometimes I forget either my lines or my movements."
+        },
+        {
+          "zh": "王一雪：没事，妈妈相信你一定可以。放松些，再自信些！",
+          "en": "Wang: It is all right. I believe you can do it. Relax and be more confident!"
+        },
+        {
+          "zh": "刘小雪：好的，我同学演少年歌手，他的歌声美极了。我演他的妈妈，不知道像不像呢。",
+          "en": "Xiaoxue: All right. My classmate plays a young singer, and his voice is beautiful. I play his mother. I wonder whether I look convincing."
+        },
+        {
+          "zh": "王一雪：没问题的，努力做最好的自己就好。演出时，我和你爸都去给你加油。",
+          "en": "Wang: You will be fine. Just try to be your best self. Your dad and I will both come to support you."
+        },
+        {
+          "zh": "刘小雪：好的，谢谢妈妈！",
+          "en": "Xiaoxue: Great, thank you, Mum!"
+        },
+        {
+          "zh": "小雪紧张时会怎么样？",
+          "en": "What happens when Xiaoxue is nervous?",
+          "answers": [
+            {
+              "zh": "她有时候不是忘词，就是忘记做动作。",
+              "en": "She sometimes forgets either her lines or her movements."
+            }
+          ],
+          "heading": "Read & answer 1",
+          "input": true
+        },
+        {
+          "zh": "小雪演出时，妈妈和爸爸会去看吗？",
+          "en": "Will her parents attend her performance?",
+          "answers": [
+            {
+              "zh": "会，他们都会去给她加油。",
+              "en": "Yes, they will both go to support her."
+            }
+          ],
+          "heading": "Read & answer 2",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        104,
+        105
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          105
+        ],
+        "prompt": {
+          "zh": "王一雪问小雪他们的……。小雪说……，艺术节……开始，她现在……，有时候不是……，就是……。王一雪鼓励小雪，……，再……。小雪说，她的同学演……，同学的歌声……。她演妈妈，不知道……。王一雪继续鼓励小雪，努力……。演出时，她和小雪的爸爸都……。",
+          "en": "Wang asks about their…. Xiaoxue says …; the festival starts …, and she feels…. Sometimes she either … or…. Wang encourages her to … and be…. Her classmate plays … and sings…. She plays the mother and wonders…. Wang tells her to try…. Both parents will…."
+        },
+        "answer": {
+          "zh": "王一雪问小雪他们的话剧排好了吗。小雪说差不多了，艺术节周五下午开始，她还有些紧张，有时候不是忘词，就是忘记做动作。王一雪让她放松些，再自信些。小雪的同学演少年歌手，歌声美极了。她演妈妈，不知道像不像。王一雪鼓励她努力做最好的自己。演出时，爸爸妈妈都会去给她加油。",
+          "en": "Wang asks whether the play is ready. Xiaoxue says it is almost ready for Friday afternoon, but she is nervous and forgets lines or movements. Wang tells her to relax and be confident. Her classmate plays a young singer beautifully; she wonders whether she is convincing as his mother. Wang encourages her to do her best. Both parents will support her."
+        }
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 不是……就是……",
+      "blocks": [
+        {
+          "zh": "有时候不是忘词，就是忘记做动作。",
+          "en": "Sometimes I forget either the lines or the movements."
+        },
+        {
+          "zh": "周末的时候，小文不是在家看书，就是出去看演出。",
+          "en": "At weekends Xiaowen either reads at home or goes out to performances."
+        },
+        {
+          "zh": "杨同乐最近很忙，不是去外地出差，就是在公司加班。",
+          "en": "Yang is busy recently, either travelling for work or working overtime."
+        },
+        {
+          "zh": "A：明天天气看起来不太好啊。B：是啊，估计____，就是下雨。",
+          "en": "Tomorrow’s weather does not look good. Yes, probably either … or rain.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不是下雪",
+              "en": "Either snow."
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：听说老张病好了以后，开始天天锻炼身体了。B：是的，他____。",
+          "en": "I hear Lao Zhang exercises daily since recovering. Yes, he….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不是跑步，就是游泳",
+              "en": "He either runs or swims."
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：你明天去哪儿？B：我明天____。",
+          "en": "Where will you go tomorrow? Tomorrow I….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不是去学校，就是去图书馆",
+              "en": "I will go either to school or to the library."
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "sourcePages": [
+        105
+      ],
+      "intro": "不是……就是…… presents two alternatives: either one situation or the other.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "李文：下周六晚上，我请大家去国家大剧院看京剧，怎么样？",
+          "en": "Li Wen: How about I take everyone to see Peking Opera at the National Centre for the Performing Arts next Saturday evening?"
+        },
+        {
+          "zh": "安妮：好啊。我小时候在加拿大度假时，在宾馆的电视上看过一次，是梅兰芳等演员演的，演员们都非常棒，他们演唱得好听极了，给我留下的印象特别深。",
+          "en": "Annie: Great. As a child on holiday in Canada, I watched it on the hotel television. Mei Lanfang and other performers were excellent. Their beautiful singing left a deep impression."
+        },
+        {
+          "zh": "李文：梅兰芳先生是中国著名京剧艺术家。咱们要看的这个京剧是青年演员们演的，要去看的观众也特别多。",
+          "en": "Li: Mei Lanfang is a famous Chinese Peking Opera artist. Our performance features young actors and has a large audience."
+        },
+        {
+          "zh": "陈天中：不知道我们能不能看懂。",
+          "en": "Chen Tianzhong: I wonder whether we will understand it."
+        },
+        {
+          "zh": "白家月：咱们先做做功课，提前了解下，能懂一点儿是一点儿。",
+          "en": "Bai Jiayue: Let us prepare and learn about it beforehand. We should understand as much as we can."
+        },
+        {
+          "zh": "陈天中：对，我先去网上查资料，查完后也转发给你们。",
+          "en": "Chen: Right. I will look up information online and forward it to you."
+        },
+        {
+          "zh": "安妮：谢谢天中！",
+          "en": "Annie: Thanks, Tianzhong!"
+        },
+        {
+          "zh": "李文：那我就在网上订票了，到时候咱们在大剧院入口见。",
+          "en": "Li: Then I will book online. We will meet at the theatre entrance."
+        },
+        {
+          "zh": "在加拿大时安妮就看过京剧，她觉得怎么样？",
+          "en": "What did Annie think of the Peking Opera she saw in Canada?",
+          "answers": [
+            {
+              "zh": "演员非常棒，演唱很好听，给她留下了很深的印象。",
+              "en": "The performers and singing were excellent and left a deep impression."
+            }
+          ],
+          "heading": "Read & answer 1",
+          "input": true
+        },
+        {
+          "zh": "李文最后说他要去做什么？",
+          "en": "What does Li say he will do at the end?",
+          "answers": [
+            {
+              "zh": "他要在网上订票。",
+              "en": "He will book tickets online."
+            }
+          ],
+          "heading": "Read & answer 2",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        106,
+        107
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 动词＋一×是一×",
+      "blocks": [
+        {
+          "zh": "咱们先做做功课，提前了解下，能懂一点儿是一点儿。",
+          "en": "Let us prepare beforehand and understand as much as we can."
+        },
+        {
+          "zh": "虽然这本书很厚，但是我还是要看，看一页是一页，最后一定能看完。",
+          "en": "Although the book is thick, I will read it a page at a time until I finish."
+        },
+        {
+          "zh": "你能多吃一点儿是一点儿，这样身体才能好起来。",
+          "en": "Eat as much as you can so you can recover."
+        },
+        {
+          "zh": "A：我们____，最后一定都能学会。B：是的，现在就开始吧。",
+          "en": "We … and will eventually learn everything. Yes, let us begin.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "能学一点儿是一点儿",
+              "en": "We should learn as much as we can."
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：事情实在太多了，你能做完吗？B：慢慢做，____。",
+          "en": "There is so much to do. Can you finish? Work gradually,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "能做一件是一件",
+              "en": "Do one thing at a time, as much as possible."
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：这么多问题能解决完吗？B：____。",
+          "en": "Can all these problems be solved?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "能解决一个是一个",
+              "en": "Solve as many as possible, one at a time."
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "sourcePages": [
+        107,
+        108
+      ],
+      "intro": "Verb + 一×是一× means doing as much as possible under the circumstances.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "周六晚上，李文等四人来到国家大剧院观看京剧演出。入座后，李文指着节目表说：“这些演员很专业，功夫很深，在京剧比赛中获过很多奖，有的还是国家、国际大奖。我特别期待这场演出。”",
+          "en": "On Saturday evening, Li Wen and his three friends went to the National Centre for the Performing Arts to watch Peking Opera. After sitting down, Li pointed at the programme: “These actors are professional and highly skilled. They have won many prizes, including national and international awards. I am really looking forward to this.”"
+        },
+        {
+          "zh": "演出开始后，他们看到演员们做的动作很难，但是做得都特别好，观众们不断鼓掌。因为李文他们提前把故事了解了一遍，所以差不多都看懂了。演出结束后，演员们邀请观众和他们一起庆祝演出成功。",
+          "en": "The movements were difficult, but the actors performed them very well, and the audience applauded repeatedly. Since Li and his friends had familiarised themselves with the story, they understood almost everything. Afterwards the actors invited the audience to celebrate the success with them."
+        },
+        {
+          "zh": "回来的路上，大家特别激动，觉得京剧很有意思，演员演得很精彩。李文点头说：“是啊，以后咱们还来看。”",
+          "en": "On the way home everyone was excited. They found Peking Opera interesting and the acting wonderful. Li nodded: “Yes, let us come again.”"
+        },
+        {
+          "zh": "京剧演员们的表演怎么样？",
+          "en": "How was the opera performance?",
+          "answers": [
+            {
+              "zh": "动作很难，但是演员做得特别好，表演很精彩。",
+              "en": "The movements were difficult, but the actors performed them beautifully."
+            }
+          ],
+          "heading": "Read & answer 1",
+          "input": true
+        },
+        {
+          "zh": "李文为什么说以后还来看京剧演出？",
+          "en": "Why does Li want to see Peking Opera again?",
+          "answers": [
+            {
+              "zh": "因为京剧很有意思，演员演得很精彩。",
+              "en": "Because it is interesting and the performers are excellent."
+            }
+          ],
+          "heading": "Read & answer 2",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        108,
+        109
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          109
+        ],
+        "prompt": {
+          "zh": "周六晚上，李文等四人来到国家大剧院……。入座后，李文……说：“这些演员很专业，……，在京剧比赛中……，有的还是……。”演出开始后，他们看到演员们做的动作……，但是做得……，观众们……。因为李文他们提前……，所以差不多……。演出……，演员们邀请观众……。回来的路上，大家……，觉得……，演员……。李文点头说：“以后……。”",
+          "en": "The four friends went to the theatre to…. Li … and said the actors were professional, … and had won…. The movements were … but performed …; the audience…. They had prepared …, so…. After …, the actors invited…. On the way home everyone …; Li said they would…."
+        },
+        "answer": {
+          "zh": "周六晚上，李文等四人来到国家大剧院看京剧。李文指着节目表说演员很专业，功夫很深，获过很多国家、国际大奖。演员的动作很难，但做得特别好，观众不断鼓掌。因为他们提前了解了故事，所以差不多都看懂了。演出后，演员邀请大家庆祝演出成功。回来的路上，他们很激动，觉得京剧有意思，演员演得精彩，以后还想再来。",
+          "en": "The four friends watched Peking Opera. Li pointed out the professional actors’ skill and awards. They performed difficult movements wonderfully, earning applause. The friends understood because they had prepared the story. Afterwards they celebrated with the actors. They enjoyed it greatly and wanted to return."
+        }
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 把＋宾语＋动词＋动量补语",
+      "blocks": [
+        {
+          "zh": "因为李文他们提前把故事了解了一遍，所以差不多都看懂了。",
+          "en": "Since they had studied the story once beforehand, they understood almost everything."
+        },
+        {
+          "zh": "他把这个动作做了好几次，最后终于做对了。",
+          "en": "He repeated the movement several times and finally got it right."
+        },
+        {
+          "zh": "白家月又把这本书看了几遍，越看越喜欢。",
+          "en": "Bai reread the book several times and liked it more each time."
+        },
+        {
+          "zh": "他们小组特别认真，____，最后才定下来。（讨论）",
+          "en": "Their group was careful; they … before deciding. Use 讨论.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们把这个问题讨论了三遍",
+              "en": "They discussed the issue three times."
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "我____，还是不满意。（计划书）",
+          "en": "I … but am still dissatisfied. Use 计划书.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "把计划书改了好几次",
+              "en": "I revised the plan several times."
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "我们____，最后所有人都记住了。（排）",
+          "en": "We … until everyone remembered. Use 排.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "把这个节目排了五遍",
+              "en": "We rehearsed the programme five times."
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "sourcePages": [
+        109
+      ],
+      "intro": "把 + object + verb + frequency complement states how many times an action is performed on the object.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "马可·波罗是意大利旅行家，在1275年和家人来到中国，在中国大约生活了17年，最后完成了一部作品——《马可·波罗游记》。在这部影响很大的作品中，作者向世界介绍了13世纪时的中国。",
+          "en": "Marco Polo was an Italian traveller who came to China with his family in 1275 and lived there for about seventeen years. He eventually completed The Travels of Marco Polo, an influential work introducing thirteenth-century China to the world."
+        },
+        {
+          "zh": "作为读者，读完这部作品后，我也很想成为作家，更想来中国看看。来到中国后，我发现现在的中国和书里的中国已有很大不同。",
+          "en": "After reading it, I wanted to become a writer and especially to visit China. When I arrived, I found modern China very different from the China in the book."
+        },
+        {
+          "zh": "前两天，我去书店看到了中文版的《马可·波罗游记》，马上买了一本，到家后又把这本书看了两天。看完后，我决定把自己来中国后写的文章、日记等全部整理出来，完成一部文字加图片的作品——《东方旅行日记》，再次把中国介绍给世界。同时我也想继续学习中文和中国文化，报考中国语言文学专业的研究生。",
+          "en": "Two days ago I saw the Chinese edition in a bookshop and bought it immediately. At home I read it for two more days. I decided to organise all my articles and diaries from China into an illustrated work, Travel Diary of the East, to introduce China to the world again. I also want to keep studying Chinese language and culture and apply for postgraduate studies in Chinese language and literature."
+        },
+        {
+          "zh": "马可·波罗写的游记怎么样？",
+          "en": "What is Marco Polo’s travel book like?",
+          "answers": [
+            {
+              "zh": "这是一部影响很大的作品，介绍了13世纪的中国。",
+              "en": "It is an influential work describing thirteenth-century China."
+            }
+          ],
+          "heading": "Read & answer 1",
+          "input": true
+        },
+        {
+          "zh": "来到中国后，白家月有什么发现？她后来决定读什么专业？",
+          "en": "What did Bai discover in China, and what subject did she choose?",
+          "answers": [
+            {
+              "zh": "现在的中国和书里很不一样。她决定报考中国语言文学专业的研究生。",
+              "en": "China today differs greatly from the book. She decided to apply for postgraduate Chinese language and literature."
+            }
+          ],
+          "heading": "Read & answer 2",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        110,
+        111
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 把＋宾语＋动词＋时量补语",
+      "blocks": [
+        {
+          "zh": "我到家后又把这本书看了两天。",
+          "en": "After getting home I read this book for another two days."
+        },
+        {
+          "zh": "王老师把这个问题又讲了十分钟，大家才明白。",
+          "en": "Teacher Wang explained the problem for another ten minutes before everyone understood."
+        },
+        {
+          "zh": "陈天中把这个动作又练了一小时。",
+          "en": "Chen practised this movement for another hour."
+        },
+        {
+          "zh": "桌子上的东西太多、太乱了，____。",
+          "en": "There are too many things on the table and they are messy,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我把它们整理了半个小时",
+              "en": "I sorted them for half an hour."
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "同学们____，终于都会写了。",
+          "en": "The students … and finally could all write it.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "把这个字练了十分钟",
+              "en": "The students practised this character for ten minutes."
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "这本历史书太厚了，____才看完。",
+          "en": "This history book is so thick that … before finishing.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我把它看了一个月",
+              "en": "I read it for a month."
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "sourcePages": [
+        111
+      ],
+      "intro": "把 + object + verb + duration complement emphasises how long an action on the object lasts.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "heading": "Word bank 1",
+          "zh": "文字　留下　内心　艺术　自信　邀请",
+          "en": "writing; leave; inner feelings; art; confident; invite"
+        },
+        {
+          "heading": "Word bank 2",
+          "zh": "作家　文章　点头　庆祝　度假　转发",
+          "en": "writer; article; nod; celebrate; holiday; forward"
+        },
+        {
+          "zh": "那部作品写得很棒，给我们____了很深的印象。",
+          "en": "That excellent work … a deep impression on us.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "留下",
+              "en": "left"
+            }
+          ],
+          "heading": "Fill in the blank · 1",
+          "solution": "留下"
+        },
+        {
+          "zh": "收到演出____后，他们马上就开始排新节目。",
+          "en": "After receiving a performance …, they began rehearsing.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "邀请",
+              "en": "invitation"
+            }
+          ],
+          "heading": "Fill in the blank · 2",
+          "solution": "邀请"
+        },
+        {
+          "zh": "今年的____节，刘小雪参加了话剧表演。",
+          "en": "At this year’s … festival, Liu performed in a play.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "艺术",
+              "en": "art"
+            }
+          ],
+          "heading": "Fill in the blank · 3",
+          "solution": "艺术"
+        },
+        {
+          "zh": "虽然没说什么，但是我____很感动。",
+          "en": "Although I said little, I was moved ….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "内心",
+              "en": "inside"
+            }
+          ],
+          "heading": "Fill in the blank · 4",
+          "solution": "内心"
+        },
+        {
+          "zh": "妈妈总是鼓励我要____，相信自己一定能做好。",
+          "en": "Mum encourages me to be … and believe in myself.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "自信",
+              "en": "confident"
+            }
+          ],
+          "heading": "Fill in the blank · 5",
+          "solution": "自信"
+        },
+        {
+          "zh": "这部小说的____很美，我都看了好几遍了。",
+          "en": "The … in this novel is beautiful; I have reread it.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "文字",
+              "en": "writing"
+            }
+          ],
+          "heading": "Fill in the blank · 6",
+          "solution": "文字"
+        },
+        {
+          "zh": "A：女儿马上放假了，今年咱们全家去哪儿____？B：郊区怎么样？那儿风景好，交通也方便。",
+          "en": "Our daughter’s holiday is coming. Where should the family …? How about the outskirts?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "度假",
+              "en": "holiday"
+            }
+          ],
+          "heading": "Fill in the blank · 7",
+          "solution": "度假"
+        },
+        {
+          "zh": "A：我已经把它读了好几遍了，还是记不住。B：你理解这篇____的意思了吗？你要在理解的基础上记忆。",
+          "en": "I cannot remember it after rereading. Do you understand this …? Understand before memorising.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "文章",
+              "en": "article"
+            }
+          ],
+          "heading": "Fill in the blank · 8",
+          "solution": "文章"
+        },
+        {
+          "zh": "A：报纸上说，在这个国家，“____”是“不”的意思。B：是吗？我还是第一次听说。这就是文化上的不同啊！",
+          "en": "The paper says … means no in this country. Really? That is a cultural difference.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "点头",
+              "en": "nodding"
+            }
+          ],
+          "heading": "Fill in the blank · 9",
+          "solution": "点头"
+        },
+        {
+          "zh": "A：小赵，这个项目咱们怎么做？B：听经理的吧。经理给我发了几条信息，我把他的信息____给你。",
+          "en": "How should we do this project? Follow the manager. I will … his messages.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "转发",
+              "en": "forward"
+            }
+          ],
+          "heading": "Fill in the blank · 10",
+          "solution": "转发"
+        },
+        {
+          "zh": "A：下周五是妈妈的生日，咱们给她买个礼物吧。B：好啊，我再给她做几个她爱吃的菜，一起____一下。",
+          "en": "Let us get Mum a birthday present. I will cook her favourite dishes and we can ….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "庆祝",
+              "en": "celebrate"
+            }
+          ],
+          "heading": "Fill in the blank · 11",
+          "solution": "庆祝"
+        },
+        {
+          "zh": "A：我读过这本书，挺有意思的。B：是啊，这个作者是现在最受欢迎的青年____。",
+          "en": "This book is interesting. Yes, its author is a popular young ….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "作家",
+              "en": "writer"
+            }
+          ],
+          "heading": "Fill in the blank · 12",
+          "solution": "作家"
+        }
+      ],
+      "sourcePages": [
+        112
+      ]
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "朱华从小就喜欢读书。____，她写的作文总会受到老师的表扬，老师经常把她的作文读给同学们听。____，让朱华更加自信，也更加努力。上高中后，她开始写小说。十几年后，____。她常说，那时候写文章、写小说并不是为了当作家，____，就坚持下来了。",
+          "en": "Zhu Hua loved reading from childhood. …, her compositions were praised and read to classmates. … made her confident and hardworking. In high school she began novels. More than ten years later, …. She said she originally wrote not to become an author but …, and kept going."
+        },
+        {
+          "heading": "A",
+          "zh": "老师的鼓励",
+          "en": "The teacher’s encouragement"
+        },
+        {
+          "heading": "B",
+          "zh": "上学后",
+          "en": "After starting school"
+        },
+        {
+          "heading": "C",
+          "zh": "只是觉得有趣",
+          "en": "Simply because it was interesting"
+        },
+        {
+          "heading": "D",
+          "zh": "她成为了一名优秀作家",
+          "en": "She became an outstanding writer"
+        },
+        {
+          "heading": "Gap 1",
+          "zh": "第1空：____",
+          "en": "Choose A–D for gap 1.",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "上学后",
+              "en": "B · After starting school"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 2",
+          "zh": "第2空：____",
+          "en": "Choose A–D for gap 2.",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "老师的鼓励",
+              "en": "A · The teacher’s encouragement"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 3",
+          "zh": "第3空：____",
+          "en": "Choose A–D for gap 3.",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "她成为了一名优秀作家",
+              "en": "D · She became an outstanding writer"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 4",
+          "zh": "第4空：____",
+          "en": "Choose A–D for gap 4.",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "只是觉得有趣",
+              "en": "C · Simply because it was interesting"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        112
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c19-exercise.jpg",
+          "alt": "Original picture-writing exercise"
+        },
+        {
+          "heading": "Picture 1",
+          "zh": "观众",
+          "en": "audience; spectator",
+          "input": true,
+          "answers": [
+            {
+              "zh": "观众们在鼓掌。",
+              "en": "The audience is clapping."
+            }
+          ]
+        },
+        {
+          "heading": "Picture 2",
+          "zh": "度假",
+          "en": "go on holiday",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们一起去度假。",
+              "en": "They go on holiday together."
+            }
+          ]
+        },
+        {
+          "heading": "Picture 3",
+          "zh": "演唱",
+          "en": "sing; perform a song",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这位歌手正在演唱。",
+              "en": "The singer is performing."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        113
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "heading": "Performance",
+          "zh": "三至五人一组，选择一个与本课话题有关的主题，排一个五分钟左右的小节目，可以是小话剧、对话表演、朗诵等。每位同学都要参加，并尽量使用本课学过的词语和语言点。排完后在全班进行表演。",
+          "en": "In groups of three to five, prepare a roughly five-minute play, dialogue or recitation related to this lesson. Everyone should participate and use the lesson’s language. Perform for the class.",
+          "answers": [
+            {
+              "zh": "我们可以排一个去看京剧的小话剧。",
+              "en": "We could stage a short play about going to the opera."
+            },
+            {
+              "zh": "我演歌手，你演观众，大家一起练习。",
+              "en": "I will play a singer and you a spectator; let us practise together."
+            },
+            {
+              "zh": "我们把节目排了三遍，现在可以表演了。",
+              "en": "We rehearsed three times and can now perform."
+            }
+          ],
+          "input": true
+        },
+        {
+          "heading": "Writing · at least 140 characters",
+          "zh": "请介绍一部你喜欢的小说，描述一下主要故事情节，不少于140字。",
+          "en": "Introduce a novel you like and describe its main plot in at least 140 Chinese characters.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我喜欢的小说是《西游记》。这部作品讲的是唐僧和三个学生去很远的地方取经的故事。他们一路上遇到了很多困难，有时候走错路，有时候遇到危险，但是大家没有放弃。孙悟空很勇敢，也很聪明，总能想办法帮助大家。其他人虽然有不同的性格，但最后学会了互相帮助。我把这本书看了好几遍，每次都有新的感受。我最喜欢的不是打斗的场面，而是朋友之间的感情。这部小说让我明白，一个人有能力很重要，和别人合作也很重要。只要坚持努力，困难就有可能解决。",
+              "en": "My favourite novel is Journey to the West. It follows Tang Sanzang and his three companions on a long journey to obtain scriptures. They face many difficulties but do not give up. Sun Wukong is brave and clever, and the companions learn to help one another. I have reread it several times. I enjoy the friendships most. It teaches me the value of ability, cooperation and persistence."
+            }
+          ],
+          "minChars": 140
+        }
+      ],
+      "sourcePages": [
+        113
+      ]
+    },
+    {
+      "id": "bonus",
+      "title": "Xiaoyu’s bonus content",
+      "blocks": [
+        {
+          "zh": "中国国家大剧院",
+          "en": "National Centre for the Performing Arts, China"
+        }
+      ],
+      "sourcePages": [
+        113
+      ],
+      "intro": "The book provides a companion-video topic. Watch through your textbook resources, then keep notes here.",
+      "note": "My notes after watching"
+    },
+    {
+      "id": "book-summary",
+      "title": "Book learning summary",
+      "blocks": [
+        {
+          "zh": "能使用“话剧、排、自信、京剧、演员、演唱、获奖、作品、作者”等词语，谈论文学、艺术方面的话题。",
+          "en": "I can use this lesson’s vocabulary to discuss literature and art.",
+          "input": true
+        },
+        {
+          "zh": "能理解并运用“不是……就是……”“动词＋一×是一×”和带动量、时量补语的把字句。",
+          "en": "I can use alternatives, incremental effort, and 把 sentences with frequency or duration.",
+          "input": true
+        },
+        {
+          "zh": "能介绍一些文学、艺术作品。",
+          "en": "I can introduce literary and artistic works.",
+          "input": true
+        },
+        {
+          "zh": "能表达自己未来想从事什么职业。",
+          "en": "I can describe my future career wishes.",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        114
+      ],
+      "intro": "For each statement, write: No problem / It’s OK / Need to improve."
+    }
+  ]
+}

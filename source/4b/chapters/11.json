@@ -1,0 +1,1648 @@
+{
+  "id": 11,
+  "title": "活到老学到老",
+  "en": "One is never too old to learn",
+  "page": 5,
+  "grammar": [
+    "即使……也……",
+    "就是……也……",
+    "不是……而是……",
+    "就是说"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    5,
+    16
+  ],
+  "words": [
+    {
+      "zh": "老年",
+      "en": "old age",
+      "example": {
+        "zh": "即使到了老年，他也每天学习。",
+        "en": "Even in old age, he studies every day."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "散步",
+      "en": "take a walk",
+      "example": {
+        "zh": "即使很忙，我也每天散步。",
+        "en": "Even when busy, I take a walk every day."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "丰富",
+      "en": "rich; varied",
+      "example": {
+        "zh": "生活不是没意思，而是很丰富。",
+        "en": "Life is not boring but full of variety."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "羡慕",
+      "en": "admire; envy",
+      "example": {
+        "zh": "即使你羡慕他，也要做好自己的事。",
+        "en": "Even if you envy him, do your own work well."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "即使",
+      "en": "even if",
+      "example": {
+        "zh": "即使下雨，我也要去学校。",
+        "en": "Even if it rains, I will go to school."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "活",
+      "en": "live; lively; work",
+      "example": {
+        "zh": "他不是只为了工作而活，而是想过好自己的生活。",
+        "en": "He does not live only for work; he wants a good life."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "继续",
+      "en": "continue",
+      "example": {
+        "zh": "即使很难，我也会继续学习。",
+        "en": "Even if it is difficult, I will keep studying."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "网友",
+      "en": "online friend",
+      "example": {
+        "zh": "就是不能见面，我也能和网友聊天儿。",
+        "en": "Even if we cannot meet, I can chat with online friends."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "无聊",
+      "en": "boring; bored",
+      "example": {
+        "zh": "这本书不是无聊，而是很有意思。",
+        "en": "This book is not boring; it is interesting."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "数字",
+      "en": "digital; number",
+      "example": {
+        "zh": "就是不去学校，我也能用数字教室学习。",
+        "en": "Even without going to school, I can study in a digital classroom."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "点名",
+      "en": "call the roll",
+      "example": {
+        "zh": "即使人很多，老师也会一个一个点名。",
+        "en": "Even with many people, the teacher calls each name."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "教授",
+      "en": "professor",
+      "example": {
+        "zh": "即使很忙，教授也会回答学生的问题。",
+        "en": "Even when busy, the professor answers students’ questions."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "线上",
+      "en": "online",
+      "example": {
+        "zh": "就是在家，我也能在线上学习。",
+        "en": "Even at home, I can study online."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "线下",
+      "en": "offline; in person",
+      "example": {
+        "zh": "我们不是打电话，而是在线下见面。",
+        "en": "We are meeting in person rather than talking on the phone."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "视频",
+      "en": "video",
+      "example": {
+        "zh": "就是不去那里，我也能看视频了解情况。",
+        "en": "Even without going there, I can learn about it from a video."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "记录",
+      "en": "record",
+      "example": {
+        "zh": "这个记录不是我的，而是老师的。",
+        "en": "This record is the teacher’s, not mine."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "资料",
+      "en": "material; information",
+      "example": {
+        "zh": "即使资料很多，我也要认真看。",
+        "en": "Even with a lot of material, I will read it carefully."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "自学",
+      "en": "study on one’s own",
+      "example": {
+        "zh": "就是没有老师，我也可以自学。",
+        "en": "Even without a teacher, I can study on my own."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "口语",
+      "en": "spoken language",
+      "example": {
+        "zh": "即使说得不好，我也每天练口语。",
+        "en": "Even if I speak poorly, I practise speaking every day."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "科技",
+      "en": "science and technology",
+      "example": {
+        "zh": "科技改变生活，就是说，生活会越来越方便。",
+        "en": "Technology changes life; that is, life becomes more convenient."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "获取",
+      "en": "obtain",
+      "example": {
+        "zh": "就是在家，我们也能获取知识。",
+        "en": "Even at home, we can acquire knowledge."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "礼貌",
+      "en": "courtesy; polite",
+      "example": {
+        "zh": "即使不喜欢他，也要有礼貌。",
+        "en": "Even if you dislike him, be polite."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "打招呼",
+      "en": "greet",
+      "example": {
+        "zh": "即使不认识，我也会和他打招呼。",
+        "en": "Even if I do not know him, I will greet him."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "家长",
+      "en": "parent",
+      "example": {
+        "zh": "家长不是只关心学习，而是关心孩子的生活。",
+        "en": "Parents care about their children’s lives, not just their studies."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "成功",
+      "en": "successful; succeed",
+      "example": {
+        "zh": "即使这次不成功，我也要再试试。",
+        "en": "Even if I do not succeed this time, I will try again."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "分数",
+      "en": "score; mark",
+      "example": {
+        "zh": "即使分数不高，我也不会放弃。",
+        "en": "Even with a low score, I will not give up."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "目的",
+      "en": "purpose",
+      "example": {
+        "zh": "我的目的不是买东西，而是看看朋友。",
+        "en": "My purpose is to visit friends, not shop."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "养成",
+      "en": "develop a habit",
+      "example": {
+        "zh": "即使很忙，我也要养成读书的习惯。",
+        "en": "Even when busy, I want to develop a reading habit."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "留",
+      "en": "leave; reserve; stay",
+      "example": {
+        "zh": "即使工作多，我也会留时间休息。",
+        "en": "Even with much work, I leave time to rest."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "做法",
+      "en": "way of doing something",
+      "example": {
+        "zh": "我不是不喜欢你，而是不喜欢这个做法。",
+        "en": "I dislike this approach, not you."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "棒",
+      "en": "excellent; great",
+      "example": {
+        "zh": "你的中文很棒，就是说，你说得很好。",
+        "en": "Your Chinese is great; that is, you speak very well."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "一生",
+      "en": "one’s whole life",
+      "example": {
+        "zh": "学习是一生的事，就是说，我们要一直学习。",
+        "en": "Learning is lifelong; that is, we should keep learning."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "快速",
+      "en": "rapid; fast",
+      "example": {
+        "zh": "即使事情快速变化，我也会认真准备。",
+        "en": "Even if things change rapidly, I will prepare carefully."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "优秀",
+      "en": "excellent",
+      "example": {
+        "zh": "即使已经很优秀，他也每天学习。",
+        "en": "Even though already excellent, he studies daily."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "律师",
+      "en": "lawyer",
+      "example": {
+        "zh": "律师不是老师，而是帮助人解决法律问题的人。",
+        "en": "A lawyer helps solve legal problems rather than teaching."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "仍",
+      "en": "still",
+      "example": {
+        "zh": "即使已经很晚，他仍在学习。",
+        "en": "Even though it is late, he is still studying."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "准时",
+      "en": "punctual; on time",
+      "example": {
+        "zh": "即使下雨，我也会准时到。",
+        "en": "Even if it rains, I will arrive on time."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "网页",
+      "en": "webpage",
+      "example": {
+        "zh": "就是在家，我也能打开这个网页。",
+        "en": "Even at home, I can open this webpage."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "弹",
+      "en": "play a musical instrument",
+      "example": {
+        "zh": "即使练习时间不多，她也弹得很好。",
+        "en": "Even with little practice time, she plays very well."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "钢琴",
+      "en": "piano",
+      "example": {
+        "zh": "就是没有钢琴，我也可以先看书学习。",
+        "en": "Even without a piano, I can begin learning from books."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    },
+    {
+      "zh": "重新",
+      "en": "again; anew",
+      "example": {
+        "zh": "即使做错了，我也可以重新开始。",
+        "en": "Even if I make a mistake, I can start again."
+      },
+      "grammar": "即使……也……／不是……而是……／就是说"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "分数",
+      "en": "score"
+    },
+    {
+      "zh": "资料",
+      "en": "materials"
+    },
+    {
+      "zh": "自学",
+      "en": "self-study"
+    },
+    {
+      "zh": "钢琴",
+      "en": "piano"
+    },
+    {
+      "zh": "网页",
+      "en": "webpage"
+    },
+    {
+      "zh": "家长",
+      "en": "parent"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c11-warm-0.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "桌上有一些学习资料。",
+        "en": "There are study materials on the desk."
+      }
+    },
+    {
+      "image": "4b/c11-warm-1.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "家长陪孩子去学校。",
+        "en": "The parents accompany their child to school."
+      }
+    },
+    {
+      "image": "4b/c11-warm-2.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "他的分数是一百分。",
+        "en": "His score is one hundred."
+      }
+    },
+    {
+      "image": "4b/c11-warm-3.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "我们可以打开网页学习。",
+        "en": "We can open a webpage to study."
+      }
+    },
+    {
+      "image": "4b/c11-warm-4.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "这里有一架钢琴。",
+        "en": "There is a piano here."
+      }
+    },
+    {
+      "image": "4b/c11-warm-5.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "她在家自学。",
+        "en": "She studies on her own at home."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "你上过线上课吗？你觉得怎么样？",
+      "en": "Have you taken online classes? What did you think?",
+      "input": true,
+      "answers": [
+        {
+          "zh": "上过，在家学习很方便。",
+          "en": "Yes. Studying at home is convenient."
+        },
+        {
+          "zh": "上过，但是我更喜欢在教室里学习。",
+          "en": "Yes, but I prefer studying in a classroom."
+        },
+        {
+          "zh": "没有，我想试一试。",
+          "en": "No. I would like to try."
+        }
+      ]
+    },
+    {
+      "zh": "在你的国家，老年人都怎么生活？",
+      "en": "How do older people live in your country?",
+      "input": true,
+      "answers": [
+        {
+          "zh": "他们常常去公园走走。",
+          "en": "They often walk in the park."
+        },
+        {
+          "zh": "有些人帮孩子照顾家人。",
+          "en": "Some help their children care for family members."
+        },
+        {
+          "zh": "他们也和朋友聊天儿、一起学习。",
+          "en": "They also chat and learn with friends."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流终身教育、线上教学、网络学习等话题。",
+          "en": "Understand and discuss lifelong education, online teaching and online learning."
+        },
+        {
+          "zh": "能够口头或书面表达终身教育、网络学习的意义。",
+          "en": "Explain the significance of lifelong and online learning orally or in writing."
+        },
+        {
+          "zh": "了解中国人的教育观。",
+          "en": "Understand Chinese perspectives on education."
+        }
+      ],
+      "sourcePages": [
+        5
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "白家月觉得公园里老年人的生活怎么样？",
+          "en": "What does Bai think of the older people’s lives?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "很开心",
+              "en": "Happy"
+            },
+            {
+              "zh": "很丰富",
+              "en": "Varied"
+            },
+            {
+              "zh": "很辛苦",
+              "en": "Hard"
+            },
+            {
+              "zh": "很无聊",
+              "en": "Boring"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "很丰富",
+              "en": "B · Varied"
+            }
+          ]
+        },
+        {
+          "zh": "李文的爷爷每周去老年班做什么？",
+          "en": "What does Li’s grandfather study weekly?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "学电脑",
+              "en": "Computers"
+            },
+            {
+              "zh": "学唱歌",
+              "en": "Singing"
+            },
+            {
+              "zh": "学写字",
+              "en": "Writing"
+            },
+            {
+              "zh": "学太极拳",
+              "en": "Tai chi"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "学电脑",
+              "en": "A · Computers"
+            }
+          ]
+        },
+        {
+          "zh": "白家月认为线上点名怎么样？",
+          "en": "What does Bai think of online attendance checks?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "节约时间",
+              "en": "Saves time"
+            },
+            {
+              "zh": "不太方便",
+              "en": "Inconvenient"
+            },
+            {
+              "zh": "比较随意",
+              "en": "Casual"
+            },
+            {
+              "zh": "很吸引学生",
+              "en": "Attracts students"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "节约时间",
+              "en": "A · Saves time"
+            }
+          ]
+        },
+        {
+          "zh": "对安妮来说，线上上课时，自己不用急着做的事情是：",
+          "en": "What need Annie not rush to do online?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "写作业",
+              "en": "Homework"
+            },
+            {
+              "zh": "找资料",
+              "en": "Find materials"
+            },
+            {
+              "zh": "记笔记",
+              "en": "Take notes"
+            },
+            {
+              "zh": "提问题",
+              "en": "Ask questions"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "记笔记",
+              "en": "C · Take notes"
+            }
+          ]
+        },
+        {
+          "zh": "以前，王一雪和刘明认为孩子的人生怎样才是成功的？",
+          "en": "What once defined success for their children?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "变得有名",
+              "en": "Become famous"
+            },
+            {
+              "zh": "有很多钱",
+              "en": "Have much money"
+            },
+            {
+              "zh": "上个好大学",
+              "en": "Attend a good university"
+            },
+            {
+              "zh": "有个好工作",
+              "en": "Have a good job"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "上个好大学",
+              "en": "C · Attend a good university"
+            }
+          ]
+        },
+        {
+          "zh": "后来，王一雪和刘明认为教育是为了让孩子：",
+          "en": "What did they later think education should do?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "获得高分",
+              "en": "Get high marks"
+            },
+            {
+              "zh": "按时做作业",
+              "en": "Do homework on time"
+            },
+            {
+              "zh": "有个好身体",
+              "en": "Be physically healthy"
+            },
+            {
+              "zh": "养成好习惯",
+              "en": "Develop good habits"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "养成好习惯",
+              "en": "D · Develop good habits"
+            }
+          ]
+        },
+        {
+          "zh": "“学而不厌”是孔子什么时候说的？",
+          "en": "When did Confucius speak of tireless learning?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "二十多年前",
+              "en": "Over twenty years ago"
+            },
+            {
+              "zh": "两百多年前",
+              "en": "Over two hundred years ago"
+            },
+            {
+              "zh": "两千多年前",
+              "en": "Over two thousand years ago"
+            },
+            {
+              "zh": "五千多年前",
+              "en": "Over five thousand years ago"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "两千多年前",
+              "en": "C · Over two thousand years ago"
+            }
+          ]
+        },
+        {
+          "zh": "坚持学习，爷爷觉得怎么样？",
+          "en": "How does continued learning make grandfather feel?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "很开心",
+              "en": "Happy"
+            },
+            {
+              "zh": "有点儿累",
+              "en": "A little tired"
+            },
+            {
+              "zh": "更健康了",
+              "en": "Healthier"
+            },
+            {
+              "zh": "年轻起来了",
+              "en": "Younger"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "年轻起来了",
+              "en": "D · Younger"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "白家月：这里的老年人真不少。",
+          "en": "Bai: There are many older people here."
+        },
+        {
+          "zh": "李文：嗯，住在附近的老年人都会来这儿，有的散步，有的唱歌、跳舞，还有的打太极拳。",
+          "en": "Li: Older people nearby come here. Some walk, some sing and dance, and others practise tai chi."
+        },
+        {
+          "zh": "白家月：他们的生活真丰富，让人羡慕。",
+          "en": "Bai: Their lives are so varied. I envy them."
+        },
+        {
+          "zh": "李文：是的。有些人即使年龄大了，也坚持去老年班学习。",
+          "en": "Li: Yes. Some keep attending classes even at an advanced age."
+        },
+        {
+          "zh": "白家月：真是活到老学到老啊。",
+          "en": "Bai: You are never too old to learn."
+        },
+        {
+          "zh": "李文：对，我爷爷就每周都去老年班学电脑。他总说，老年人也要继续学习，“你看，我都七八十岁了，还上网和网友们聊天儿呢，生活一点儿都不无聊。”",
+          "en": "Li: My grandfather studies computers every week. He says older people must keep learning: “I’m in my seventies or eighties and still chat with online friends. Life is not boring at all.”"
+        },
+        {
+          "zh": "在公园里，老年人都会做些什么活动？",
+          "en": "What activities do older people do in the park?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "有的散步，有的唱歌、跳舞，还有的打太极拳。",
+              "en": "Some walk, sing or dance; others practise tai chi."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "李文的爷爷为什么去老年班学习？",
+          "en": "Why does Li’s grandfather attend classes?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为他觉得老年人也要继续学习，生活才不无聊。",
+              "en": "He feels older people should keep learning so life is not boring."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "intro": "Role-play the dialogue.",
+      "retelling": {
+        "pages": [
+          7
+        ],
+        "prompt": {
+          "zh": "李文和白家月在公园里散步。白家月觉得公园里的老年人……。李文说，住在附近的老年人都……，有的……，有的……、……，还有的……。白家月说，这里的老年人生活……，让人……。李文告诉她，有些老年人即使……，也坚持……。比如，他爷爷每周都去老年班……。爷爷说：“你看，我都……，还上网……呢，生活……。”",
+          "en": "Li and Bai walk in the park. Bai thinks there are…. Nearby older people all…; some…, some…and…, and others…. Their lives are…and make her…. Even when…, some keep…. His grandfather studies…weekly. He says, “I am already…, but still…online; life….”"
+        },
+        "answer": {
+          "zh": "李文和白家月在公园里散步。白家月觉得老年人很多，生活很丰富，让人羡慕。李文说，他们有的散步，有的唱歌、跳舞，还有的打太极拳。有些人即使年龄大了，也坚持学习。李文的爷爷每周去老年班学电脑。他都七八十岁了，还上网和网友聊天儿，生活一点儿都不无聊。",
+          "en": "Li and Bai walk in the park. Bai admires the many older people’s varied lives. Some walk, sing, dance or practise tai chi. Some keep learning despite their age. Li’s grandfather attends computer classes weekly and chats online in his seventies or eighties; he is never bored."
+        }
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 即使……也……",
+      "blocks": [
+        {
+          "zh": "有些人即使年龄大了，也坚持去老年班学习。",
+          "en": "Some people keep attending senior classes even when older."
+        },
+        {
+          "zh": "即使明天下大雨，我们也会按时出发。",
+          "en": "Even if it rains heavily tomorrow, we will leave on time."
+        },
+        {
+          "zh": "即使大家都说很难，我也要试一试。",
+          "en": "Even if everyone says it is difficult, I want to try."
+        },
+        {
+          "zh": "A：门前的花长得真不错！B：是的，即使缺水，____。",
+          "en": "A: The flowers are growing well! B: Yes, even without enough water,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "也能长得很好",
+              "en": "they can still grow well"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：即使不在一个学校了，____？B：当然！平时没时间，假期也要多聚聚。",
+          "en": "A: Even if we attend different schools, …? B: Of course! We can meet during holidays.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我们也会常联系吧",
+              "en": "we will keep in touch, right"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：任务这么重，你们能完成吗？B：____。",
+          "en": "A: Can you finish such a heavy task? B:….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "即使很难，我们也会认真完成",
+              "en": "Even if it is difficult, we will complete it carefully"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        7
+      ],
+      "intro": "即使 introduces an unfavourable or extreme hypothetical condition; 也 shows that the outcome or decision remains unchanged."
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "安妮：家月，我们今天的课是在数字教室上的，感觉挺不一样的。",
+          "en": "Annie: Jiayue, our class in a digital classroom felt very different today."
+        },
+        {
+          "zh": "白家月：是的，数字教室可以拍照点名，教授在线上点名，不用像线下那样一个个叫名字，特别节约时间。",
+          "en": "Bai: Yes, it takes a picture to check attendance. The professor need not call names individually, saving time."
+        },
+        {
+          "zh": "李文：最方便的是，课上没听明白时，课后还能在学校网站上找到视频记录看。",
+          "en": "Li: Most conveniently, if you miss something, you can watch the recorded video on the school website later."
+        },
+        {
+          "zh": "安妮：对，上课我都不用着急记笔记了。",
+          "en": "Annie: Right. I need not rush to take notes."
+        },
+        {
+          "zh": "李文：不仅数字教室很方便，现在网上到处是学习资料，想查什么都能查到，自学也更方便了。",
+          "en": "Li: Besides digital classrooms, learning materials are everywhere online, making information searches and self-study easier."
+        },
+        {
+          "zh": "白家月：是的，只要有手机或电脑，我就是不在教室，也可以学习中文，和同学一起练口语。",
+          "en": "Bai: With a phone or computer I can study Chinese and practise speaking with classmates even outside the classroom."
+        },
+        {
+          "zh": "安妮：科技真是让获取知识变得简单多了。",
+          "en": "Annie: Technology makes acquiring knowledge much simpler."
+        },
+        {
+          "zh": "李文说，线上上课时，如果没听懂，课后还可以怎么做？",
+          "en": "What can you do after an online class if you did not understand?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "可以在学校网站上找到视频记录看。",
+              "en": "Watch the recording on the school website."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "人们自学为什么变得越来越方便了？",
+          "en": "Why is self-study becoming easier?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为网上到处是学习资料，想查什么都能查到。",
+              "en": "Learning materials and information are widely available online."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "intro": "Role-play the dialogue."
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 就是……也……",
+      "blocks": [
+        {
+          "zh": "我就是不在教室，也可以学习中文，和同学一起练口语。",
+          "en": "Even outside the classroom I can study Chinese and practise speaking with classmates."
+        },
+        {
+          "zh": "锻炼身体很重要，就是再忙，也要坚持运动。",
+          "en": "Exercise matters; however busy you are, keep exercising."
+        },
+        {
+          "zh": "明天开会需要这份材料，我就是今晚不睡觉，也要把它改完。",
+          "en": "We need this document tomorrow; even if I stay awake all night, I must finish revising it."
+        },
+        {
+          "zh": "A：经理不来，我们怎么办呢？B：经理就是不来，____。",
+          "en": "A: What if the manager does not come? B: Even if the manager does not come,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我们也要按时开始",
+              "en": "we must start on time"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：外边下小雨呢，我们还去吗？B：____，我们也得去。",
+          "en": "A: It is drizzling. Are we still going? B: …, we must go.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "就是下大雨",
+              "en": "Even if it rains heavily"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：李教授不在北京，这个问题咱们怎么解决呢？B：____。咱们可以和他在线上交流。",
+          "en": "A: Professor Li is away. How can we solve this? B:…. We can talk online.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他就是不在北京，也可以帮助我们",
+              "en": "Even outside Beijing, he can help us"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        9,
+        10
+      ],
+      "intro": "就是……也…… expresses “even if” in spoken Chinese; the second clause stays true despite an extreme condition."
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "今天星期六，我们去了一雪姐姐家。姐姐家的两个孩子很有礼貌，我们一进门，就马上和我们打招呼。",
+          "en": "Today, Saturday, we visited Yixue. Her two children greeted us politely as soon as we entered."
+        },
+        {
+          "zh": "在姐姐家，我们也聊到了孩子的教育。姐姐说，以前他们和很多家长一样，觉得孩子上个好大学，人生才是成功的。所以，他们只关心孩子的分数，结果孩子压力特别大，每天都很不开心。后来，他们认识到，教育的目的不是让孩子考高分，而是帮助孩子养成好习惯。于是，他们做出改变，每天都给孩子留出时间外出锻炼身体，或者看些自己感兴趣的书。",
+          "en": "We discussed children’s education. Like many parents, they once thought success meant attending a good university. Focusing only on scores made the children stressed and unhappy. They later realised education should develop good habits rather than merely high marks. They changed, leaving time daily for exercise or books the children enjoyed."
+        },
+        {
+          "zh": "我觉得他们的做法真棒。",
+          "en": "I think their approach is excellent."
+        },
+        {
+          "zh": "以前，王一雪的孩子为什么不开心？",
+          "en": "Why were Wang’s children unhappy before?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为家长只关心分数，孩子压力很大。",
+              "en": "Their parents focused only on scores, causing great pressure."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "王一雪和刘明做出了什么样的改变？",
+          "en": "What changes did Wang and Liu make?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们每天给孩子留时间锻炼身体或看自己感兴趣的书。",
+              "en": "They left time each day for exercise or enjoyable reading."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "intro": "Read the text aloud.",
+      "retelling": {
+        "pages": [
+          11
+        ],
+        "prompt": {
+          "zh": "星期六，白家月和李文去了……。王一雪的两个孩子……，他们一进门，两个孩子就……。在王一雪家，他们也聊到了……。王一雪说，以前他们……，觉得孩子……，人生才是成功的。所以，他们只关心……，结果孩子……，每天都……。后来，他们认识到，教育的目的不是……，而是帮助孩子……。于是，他们……，每天都给孩子……外出锻炼身体，或者看些……。白家月觉得王一雪和刘明的做法……。",
+          "en": "On Saturday Bai and Li visited…. The children were…and greeted them…. They discussed…. The parents once thought…and focused on…, making the children…. They later realised education should not…but…. They changed by giving time for…and…. Bai thought their approach…."
+        },
+        "answer": {
+          "zh": "星期六，白家月和李文去了王一雪家。两个孩子很有礼貌，马上和他们打招呼。他们聊到了孩子的教育。以前王一雪和刘明只关心分数，觉得上好大学才是成功的，结果孩子压力很大。后来，他们认为教育不是让孩子考高分，而是帮助孩子养成好习惯。他们每天给孩子留时间运动或读喜欢的书。白家月觉得这个做法很棒。",
+          "en": "Bai and Li visited Wang on Saturday. The polite children greeted them. They discussed education: the parents had focused on scores and university success, causing stress. They later valued good habits, allowing time for exercise and enjoyable reading. Bai approved."
+        }
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 不是……而是……",
+      "blocks": [
+        {
+          "zh": "教育的目的不是让孩子考高分，而是帮助孩子养成好习惯。",
+          "en": "Education aims to develop good habits rather than just high scores."
+        },
+        {
+          "zh": "我不是想喝茶，而是想喝水。",
+          "en": "I want water, not tea."
+        },
+        {
+          "zh": "我放学后不是直接回家，而是先去超市买笔。",
+          "en": "After school I go to the supermarket for pens rather than straight home."
+        },
+        {
+          "zh": "他们不是在聊天儿，____。（线上会议）",
+          "en": "They are not chatting; … (online meeting).",
+          "input": true,
+          "answers": [
+            {
+              "zh": "而是在开线上会议",
+              "en": "they are having an online meeting"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "他____，而是在练口语。（游戏）",
+          "en": "He …; he is practising speaking. (game)",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不是在玩游戏",
+              "en": "is not playing games"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "____，而是____。（礼貌）",
+          "en": "… rather than…. (polite)",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他不是不喜欢你，而是希望你更有礼貌",
+              "en": "He does not dislike you; he hopes you will be more polite"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        11,
+        12
+      ],
+      "intro": "不是……而是…… denies the first possibility and affirms the second, emphasising their contrast."
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "“学而不厌”是两千多年前中国教育家孔子说过的话，意思是人要一直坚持学习，就是说，学习是人一生的事情，要活到老学到老。在世界快速变化的今天，“学而不厌”变得更加重要。",
+          "en": "Confucius spoke of tireless learning over two thousand years ago: learning is lifelong. In today’s rapidly changing world this matters even more."
+        },
+        {
+          "zh": "我有一位很优秀的律师朋友，他一直在学习新的法律知识。他说，这不仅是律师的要求和责任，也是提高自己能力的重要方法。",
+          "en": "An excellent lawyer friend continually studies new legal knowledge. It is both a professional responsibility and an important way to improve his abilities."
+        },
+        {
+          "zh": "同时我也认为，人就是不再工作了，坚持学习仍很重要。就像我爷爷，虽然七十多岁了，每天还准时去老年大学上课，学习做网页、弹钢琴。他说，重新当一回学生，生活更有意思了，也感觉自己变年轻了。",
+          "en": "I also think continued learning matters even after retirement. My grandfather, in his seventies, attends senior university punctually to study webpage creation and piano. Becoming a student again makes life more interesting and makes him feel younger."
+        },
+        {
+          "zh": "“活到老学到老”是什么意思？",
+          "en": "What does “never too old to learn” mean?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "学习是一生的事情，人要一直坚持学习。",
+              "en": "Learning is lifelong and we should keep learning."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "那位律师为什么一直坚持学习法律知识？",
+          "en": "Why does the lawyer keep studying law?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这是工作的要求和责任，也是提高能力的方法。",
+              "en": "It is a professional duty and a way to improve his abilities."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        12,
+        13
+      ],
+      "intro": "Read the text aloud."
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 就是说",
+      "blocks": [
+        {
+          "zh": "人要一直坚持学习，就是说，学习是人一生的事情，要活到老学到老。",
+          "en": "People should keep learning; in other words, learning is lifelong."
+        },
+        {
+          "zh": "别着急写，就是说，别着急动笔，想好后再写。",
+          "en": "Do not rush to write; think first and then begin."
+        },
+        {
+          "zh": "这份工作的工资是根据你工作的完成情况来发的，就是说，你完成得越多，工资越高。",
+          "en": "Pay depends on completed work; the more you finish, the more you earn."
+        },
+        {
+          "zh": "他想了想才回答，就是说，____。",
+          "en": "He thought before answering; in other words,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他没有马上回答",
+              "en": "he did not answer immediately"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "____，我们要注意学习方法。",
+          "en": "…, we should pay attention to study methods.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "就是说",
+              "en": "In other words"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "____，休息好，你的病才能快点儿好起来。",
+          "en": "…, only with good rest can you recover quickly.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "就是说，你要多休息",
+              "en": "In other words, you need more rest"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        13
+      ],
+      "intro": "就是说 restates or clarifies the preceding information: “that is” or “in other words”."
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "heading": "Word bank · Questions 1–6",
+          "zh": "一生　打招呼　丰富　留　弹　优秀",
+          "en": "whole life; greet; rich; leave; play; excellent"
+        },
+        {
+          "zh": "即使每天工作很忙，我也会____出时间读书。",
+          "en": "Even when busy, I … time to read.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "留",
+              "en": "leave"
+            }
+          ],
+          "heading": "Fill in the blank · 1"
+        },
+        {
+          "zh": "我刚坐下，她就过来和我____。",
+          "en": "As soon as I sat down, she came to … me.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "打招呼",
+              "en": "greet"
+            }
+          ],
+          "heading": "Fill in the blank · 2"
+        },
+        {
+          "zh": "他____只做了一件事，那就是研究数学，最后他成为了一位很有名的数学家。",
+          "en": "He spent his … studying mathematics and became a famous mathematician.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "一生",
+              "en": "whole life"
+            }
+          ],
+          "heading": "Fill in the blank · 3"
+        },
+        {
+          "zh": "小雪很喜欢____钢琴，每天都会练习至少两个小时。",
+          "en": "Xiaoxue likes … the piano and practises for at least two hours daily.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "弹",
+              "en": "playing"
+            }
+          ],
+          "heading": "Fill in the blank · 4"
+        },
+        {
+          "zh": "他非常____，把任务交给他，我很放心。",
+          "en": "He is very …; I trust him with the task.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "优秀",
+              "en": "excellent"
+            }
+          ],
+          "heading": "Fill in the blank · 5"
+        },
+        {
+          "zh": "老王工作三十年了，有很____的工作经验，这个问题他能解决。",
+          "en": "Old Wang has … experience from thirty years of work and can solve this.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "丰富",
+              "en": "rich"
+            }
+          ],
+          "heading": "Fill in the blank · 6"
+        },
+        {
+          "heading": "Word bank · Questions 7–12",
+          "zh": "羡慕　礼貌　律师　数字　继续　口语",
+          "en": "envy; courtesy; lawyer; digital; continue; speaking"
+        },
+        {
+          "zh": "A：你们还要____加班吗？B：对，今天必须要把这些货全部发出去。",
+          "en": "A: Must you … overtime? B: Yes, all goods must be sent today.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "继续",
+              "en": "continue"
+            }
+          ],
+          "heading": "Fill in the blank · 7"
+        },
+        {
+          "zh": "A：你觉得怎样才能学好外语？B：开始学习时要特别重视____，多听多说。",
+          "en": "A: How can one learn a language well? B: Focus on … initially; listen and speak more.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "口语",
+              "en": "speaking"
+            }
+          ],
+          "heading": "Fill in the blank · 8"
+        },
+        {
+          "zh": "A：你女儿真有____！B：谢谢，从小我们就教她要尊重别人。",
+          "en": "A: Your daughter is so …! B: Thank you; we teach her respect.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "礼貌",
+              "en": "polite"
+            }
+          ],
+          "heading": "Fill in the blank · 9"
+        },
+        {
+          "zh": "A：你们做____的，平时工作一定很忙吧？B：也不一定。",
+          "en": "A: You … must be very busy? B: Not always.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "律师",
+              "en": "lawyers"
+            }
+          ],
+          "heading": "Fill in the blank · 10"
+        },
+        {
+          "zh": "A：姐姐，我太____你的工作了！从来不加班，而且工资高。B：可是我们经常出差，很累的。",
+          "en": "A: I … your well-paid job without overtime! B: But frequent business trips are tiring.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "羡慕",
+              "en": "envy"
+            }
+          ],
+          "heading": "Fill in the blank · 11"
+        },
+        {
+          "zh": "A：真是____社会啊，我要的信息马上就查到了。B：现在很多事情都可以在网上解决了。",
+          "en": "A: What a … society! I found the information immediately. B: Much can be handled online.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "数字",
+              "en": "digital"
+            }
+          ],
+          "heading": "Fill in the blank · 12"
+        }
+      ],
+      "sourcePages": [
+        14
+      ]
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "heading": "Choose A–D",
+          "zh": "现在有了数字教室，上课方式和以前大不相同了。____，只要按下门口的“上课”，灯和空调就会自己打开，不用一个一个去开。____，用到的“黑板”是一块能上网的电子屏幕，老师不仅可以在上面写字，____。数字教室里的桌椅也分成几个小组，小组里的人聚在一起，都能互相看到对方，这样方便大家交流。这些变化让上课方式丰富了不少，____，所以数字教室很受欢迎。",
+          "en": "Digital classrooms differ greatly. ____, pressing “class” switches on lights and air conditioning. ____, the board is an internet-enabled screen; teachers can write and ____. Grouped desks help discussion. These changes enrich classes, ____, so they are popular."
+        },
+        {
+          "heading": "A",
+          "zh": "还可以直接给大家放视频",
+          "en": "can also play videos for everyone"
+        },
+        {
+          "heading": "B",
+          "zh": "第一个进教室的人",
+          "en": "the first person into the classroom"
+        },
+        {
+          "heading": "C",
+          "zh": "老师和学生都觉得方便",
+          "en": "teachers and students find it convenient"
+        },
+        {
+          "heading": "D",
+          "zh": "上课时",
+          "en": "during class"
+        },
+        {
+          "heading": "Gap 1",
+          "zh": "第1空：____",
+          "en": "Gap 1",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "第一个进教室的人",
+              "en": "B · the first person into the classroom"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 2",
+          "zh": "第2空：____",
+          "en": "Gap 2",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "上课时",
+              "en": "D · during class"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 3",
+          "zh": "第3空：____",
+          "en": "Gap 3",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "还可以直接给大家放视频",
+              "en": "A · can also play videos for everyone"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 4",
+          "zh": "第4空：____",
+          "en": "Gap 4",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "老师和学生都觉得方便",
+              "en": "C · teachers and students find it convenient"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c11-exercise.jpg",
+          "alt": "Three original picture-writing prompts for chapter 11"
+        },
+        {
+          "zh": "老年人",
+          "en": "Use 老年人 to describe picture 1.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这两位老年人很开心。",
+              "en": "These two older people look happy."
+            }
+          ]
+        },
+        {
+          "zh": "准时",
+          "en": "Use 准时 to describe picture 2.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "飞机准时起飞了。",
+              "en": "The plane took off on time."
+            }
+          ]
+        },
+        {
+          "zh": "散步",
+          "en": "Use 散步 to describe picture 3.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们在公园里散步。",
+              "en": "They are taking a walk in the park."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "zh": "三人一组，请以“网络给我们带来的影响”为题，从好的影响和坏的影响两方面进行讨论。讨论后，填写表格。",
+          "en": "In groups of three, discuss positive and negative effects of the internet, then complete the table.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "网络让我们查资料和学习更方便。",
+              "en": "The internet makes research and learning easier."
+            },
+            {
+              "zh": "我们可以和远方的朋友聊天儿。",
+              "en": "We can chat with friends far away."
+            },
+            {
+              "zh": "上网太久会影响休息，所以要注意时间。",
+              "en": "Too much time online affects rest, so manage your time."
+            }
+          ],
+          "heading": "Group discussion"
+        },
+        {
+          "heading": "Discussion table · Positive effects",
+          "zh": "好的影响",
+          "en": "Record the positive effects of the internet.",
+          "input": true
+        },
+        {
+          "heading": "Discussion table · Negative effects",
+          "zh": "坏的影响",
+          "en": "Record the negative effects of the internet.",
+          "input": true
+        },
+        {
+          "zh": "你喜欢老师怎样上课？请根据你的经历，写一篇短文，说说你喜欢的课堂教学方式，并说明理由，不少于140字。",
+          "en": "Describe your preferred teaching style and explain why, based on experience, in at least 140 Chinese characters.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我喜欢老师先介绍今天要学的内容，然后让我们一起练习。遇到不懂的地方，老师可以举一些生活中的例子，这样我更容易听明白。我也喜欢和同学一起讨论，因为大家的想法不一样，我能从他们那里学到很多东西。数字教室很方便，课后我可以再看视频记录，但是我仍然希望有机会在线下和老师交流。对我来说，好的课堂不是老师一直说、学生一直听，而是大家都有机会提问题、练口语。即使开始时说得不好，我也会认真参加。我觉得这样的学习更有意思，也能帮助我养成主动学习的好习惯。",
+              "en": "I like teachers to introduce the material and then let us practise. Everyday examples clarify difficult points. Class discussions expose me to different ideas. Digital recordings are convenient, but I still value in-person contact. A good class gives everyone opportunities to ask questions and speak rather than only listening. I participate even when my speaking is imperfect. This approach is engaging and develops active learning habits."
+            }
+          ],
+          "heading": "Writing · at least 140 characters",
+          "minChars": 140
+        }
+      ],
+      "sourcePages": [
+        15
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "Book self-assessment",
+      "blocks": [
+        {
+          "zh": "能使用本课词语谈论终身教育、线上教学等话题。",
+          "en": "I can discuss lifelong and online education using this chapter’s words.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        },
+        {
+          "zh": "能理解并运用本课的四个语言点。",
+          "en": "I can understand and use the four grammar points.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        },
+        {
+          "zh": "能介绍线上教学等信息。",
+          "en": "I can explain online teaching.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        },
+        {
+          "zh": "能表达对终身教育的看法。",
+          "en": "I can express views on lifelong learning.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        }
+      ],
+      "sourcePages": [
+        16
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1628 @@
+{
+  "id": 14,
+  "title": "合适才买",
+  "en": "Buy only what fits",
+  "page": 42,
+  "grammar": [
+    "究竟",
+    "首先……然后／其次……",
+    "加上",
+    "对于"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    42,
+    53
+  ],
+  "words": [
+    {
+      "zh": "茶叶",
+      "en": "tea leaves",
+      "example": {
+        "zh": "你究竟想买哪种茶叶？",
+        "en": "Which tea leaves exactly do you want to buy?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "究竟",
+      "en": "exactly; after all",
+      "example": {
+        "zh": "你究竟想买什么？",
+        "en": "What exactly do you want to buy?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "分为",
+      "en": "divide into",
+      "example": {
+        "zh": "这些东西究竟分为几种？",
+        "en": "How many kinds exactly are these things divided into?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "抱歉",
+      "en": "sorry",
+      "example": {
+        "zh": "你究竟为什么觉得抱歉？",
+        "en": "What exactly are you sorry about?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "暂时",
+      "en": "temporarily",
+      "example": {
+        "zh": "他究竟为什么暂时不来了？",
+        "en": "Why exactly is he not coming for now?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "满",
+      "en": "reach a limit; full",
+      "example": {
+        "zh": "这个班究竟满了没有？",
+        "en": "Is this class full or not?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "两",
+      "en": "liang; 50 grams",
+      "example": {
+        "zh": "你究竟要买几两茶？",
+        "en": "How many liang of tea exactly do you want?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "超过",
+      "en": "exceed",
+      "example": {
+        "zh": "人数究竟超过一百了没有？",
+        "en": "Has the number of people exceeded one hundred?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "盒子",
+      "en": "box",
+      "example": {
+        "zh": "你究竟把盒子放在哪里了？",
+        "en": "Where exactly did you put the box?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "装",
+      "en": "put into; pack",
+      "example": {
+        "zh": "你究竟把衣服装在哪里了？",
+        "en": "Where exactly did you pack the clothes?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "各位",
+      "en": "everyone; ladies and gentlemen",
+      "example": {
+        "zh": "各位究竟想先看什么？",
+        "en": "What exactly would everyone like to see first?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "顾客",
+      "en": "customer",
+      "example": {
+        "zh": "这位顾客究竟需要什么？",
+        "en": "What exactly does this customer need?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "本",
+      "en": "this; our own",
+      "example": {
+        "zh": "本店究竟几点关门？",
+        "en": "What time exactly does our shop close?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "假日",
+      "en": "holiday",
+      "example": {
+        "zh": "这个假日你究竟去不去？",
+        "en": "Are you going this holiday or not?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "低价",
+      "en": "low price",
+      "example": {
+        "zh": "这件低价的衣服究竟好不好？",
+        "en": "Is this low-priced item of clothing good or not?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "促销",
+      "en": "promote sales",
+      "example": {
+        "zh": "这次促销究竟到什么时候结束？",
+        "en": "When exactly does this promotion end?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "广播",
+      "en": "broadcast",
+      "example": {
+        "zh": "广播里究竟说了什么？",
+        "en": "What exactly did the broadcast say?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "减",
+      "en": "reduce; subtract",
+      "example": {
+        "zh": "价格究竟减了多少？",
+        "en": "How much exactly was the price reduced?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "广告",
+      "en": "advertisement",
+      "example": {
+        "zh": "这个广告究竟是什么意思？",
+        "en": "What exactly does this advertisement mean?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "首先",
+      "en": "first",
+      "example": {
+        "zh": "你究竟想首先做什么？",
+        "en": "What exactly would you like to do first?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "牌子",
+      "en": "brand",
+      "example": {
+        "zh": "你究竟喜欢哪个牌子？",
+        "en": "Which brand exactly do you like?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "降价",
+      "en": "reduce the price",
+      "example": {
+        "zh": "这件衣服究竟降价了没有？",
+        "en": "Has this item of clothing been reduced in price?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "样式",
+      "en": "style",
+      "example": {
+        "zh": "你究竟喜欢哪种样式？",
+        "en": "Which style exactly do you like?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "价钱",
+      "en": "price",
+      "example": {
+        "zh": "这个东西的价钱究竟是多少？",
+        "en": "What exactly is the price of this item?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "商业",
+      "en": "business; commerce",
+      "example": {
+        "zh": "商业区究竟在哪里？",
+        "en": "Where exactly is the business district?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "商品",
+      "en": "goods; product",
+      "example": {
+        "zh": "你究竟想看哪种商品？",
+        "en": "Which kind of product exactly do you want to see?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "种类",
+      "en": "type; kind",
+      "example": {
+        "zh": "这些东西究竟有多少种类？",
+        "en": "How many kinds of these things are there?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "盲盒",
+      "en": "blind box",
+      "example": {
+        "zh": "这个盲盒里究竟是什么？",
+        "en": "What exactly is inside this blind box?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "缺",
+      "en": "lack; be short of",
+      "example": {
+        "zh": "家里究竟缺什么东西？",
+        "en": "What exactly is missing at home?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "许多",
+      "en": "many",
+      "example": {
+        "zh": "许多人究竟为什么喜欢来这里？",
+        "en": "Why exactly do so many people like coming here?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "表示",
+      "en": "express; indicate",
+      "example": {
+        "zh": "他说的话究竟表示什么意思？",
+        "en": "What exactly do his words mean?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "加上",
+      "en": "in addition; plus",
+      "example": {
+        "zh": "加上车票，究竟要多少钱？",
+        "en": "Including the ticket, how much exactly does it cost?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "态度",
+      "en": "attitude",
+      "example": {
+        "zh": "他的态度究竟怎么样？",
+        "en": "What exactly is his attitude like?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "友好",
+      "en": "friendly",
+      "example": {
+        "zh": "他究竟对谁不友好？",
+        "en": "Who exactly is he unfriendly to?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "使得",
+      "en": "cause; make",
+      "example": {
+        "zh": "什么究竟使得他这么高兴？",
+        "en": "What exactly made him so happy?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "者",
+      "en": "person who; -er",
+      "example": {
+        "zh": "这位工作者究竟是谁？",
+        "en": "Who exactly is this worker?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "仔细",
+      "en": "careful",
+      "example": {
+        "zh": "你究竟仔细看过没有？",
+        "en": "Have you actually looked carefully?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "对于",
+      "en": "regarding",
+      "example": {
+        "zh": "对于这件事，你究竟怎么想？",
+        "en": "What exactly do you think about this matter?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "不光",
+      "en": "not only",
+      "example": {
+        "zh": "他不光会中文，究竟还会什么语言？",
+        "en": "Besides Chinese, what other languages exactly does he know?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "外套",
+      "en": "coat",
+      "example": {
+        "zh": "这件外套究竟是谁的？",
+        "en": "Whose coat exactly is this?"
+      },
+      "grammar": "究竟"
+    },
+    {
+      "zh": "袜子",
+      "en": "socks",
+      "example": {
+        "zh": "我的袜子究竟在哪里？",
+        "en": "Where exactly are my socks?"
+      },
+      "grammar": "究竟"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "盒子",
+      "en": "box"
+    },
+    {
+      "zh": "茶叶",
+      "en": "tea leaves"
+    },
+    {
+      "zh": "降价",
+      "en": "price reduction"
+    },
+    {
+      "zh": "外套",
+      "en": "coat"
+    },
+    {
+      "zh": "装",
+      "en": "pack"
+    },
+    {
+      "zh": "抱歉",
+      "en": "sorry"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c14-warm-0.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "这些茶叶闻起来很香。",
+        "en": "These tea leaves smell fragrant."
+      }
+    },
+    {
+      "image": "4b/c14-warm-1.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "这件衣服降价了。",
+        "en": "This item of clothing has been reduced in price."
+      }
+    },
+    {
+      "image": "4b/c14-warm-2.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "这里有一个空盒子。",
+        "en": "There is an empty box here."
+      }
+    },
+    {
+      "image": "4b/c14-warm-3.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "她对朋友说抱歉。",
+        "en": "She says sorry to her friend."
+      }
+    },
+    {
+      "image": "4b/c14-warm-4.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "他把食物装进袋子里。",
+        "en": "He puts the food in a bag."
+      }
+    },
+    {
+      "image": "4b/c14-warm-5.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "这件红色外套很好看。",
+        "en": "This red coat looks nice."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "当你想买一个东西时，会不会等它降价的时候才买？",
+      "en": "When you want something, do you wait until its price drops?",
+      "answers": [
+        {
+          "zh": "会，我想先等一等，这样能少花一点儿钱。",
+          "en": "Yes. I wait so I can spend less."
+        },
+        {
+          "zh": "如果现在就需要，我不会等。",
+          "en": "If I need it now, I will not wait."
+        },
+        {
+          "zh": "我会先比较价格，再决定什么时候买。",
+          "en": "I compare prices before deciding when to buy."
+        }
+      ]
+    },
+    {
+      "zh": "买东西时，你觉得质量和价格哪个更重要？",
+      "en": "When shopping, which matters more: quality or price?",
+      "answers": [
+        {
+          "zh": "我觉得质量更重要，因为好的东西可以用很久。",
+          "en": "Quality matters more because good things last longer."
+        },
+        {
+          "zh": "对我来说，价格也很重要，我没有很多钱。",
+          "en": "Price matters too because I do not have much money."
+        },
+        {
+          "zh": "两个都重要，我想买质量好、价格合适的东西。",
+          "en": "Both matter. I want good quality at a suitable price."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "安妮想知道什么？",
+          "en": "What does Annie want to know?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "红茶的价格",
+              "en": "the price of black tea"
+            },
+            {
+              "zh": "绿茶的价格",
+              "en": "the price of green tea"
+            },
+            {
+              "zh": "有没有红茶",
+              "en": "whether black tea is available"
+            },
+            {
+              "zh": "买哪种茶合适",
+              "en": "which tea to buy"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "买哪种茶合适",
+              "en": "D · which tea to buy"
+            }
+          ],
+          "input": true,
+          "solution": "D"
+        },
+        {
+          "zh": "安妮最后买了什么？",
+          "en": "What did Annie finally buy?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "半两绿茶",
+              "en": "half a liang of green tea"
+            },
+            {
+              "zh": "五两绿茶",
+              "en": "five liang of green tea"
+            },
+            {
+              "zh": "六两绿茶",
+              "en": "six liang of green tea"
+            },
+            {
+              "zh": "一斤绿茶",
+              "en": "one jin of green tea"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "六两绿茶",
+              "en": "C · six liang of green tea"
+            }
+          ],
+          "input": true,
+          "solution": "C"
+        },
+        {
+          "zh": "商场做的运动鞋促销活动是什么？",
+          "en": "What is the sports-shoe promotion?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "打一折",
+              "en": "90% off"
+            },
+            {
+              "zh": "打五折",
+              "en": "50% off"
+            },
+            {
+              "zh": "打七折",
+              "en": "30% off"
+            },
+            {
+              "zh": "打八五折",
+              "en": "15% off"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "打五折",
+              "en": "B · 50% off"
+            }
+          ],
+          "input": true,
+          "solution": "B"
+        },
+        {
+          "zh": "关于运动鞋，王一飞更重视什么？",
+          "en": "What does Wang Yifei care more about in sports shoes?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "价格高不高",
+              "en": "whether they are expensive"
+            },
+            {
+              "zh": "质量好不好",
+              "en": "whether quality is good"
+            },
+            {
+              "zh": "降价没降价",
+              "en": "whether the price fell"
+            },
+            {
+              "zh": "好看不好看",
+              "en": "whether they look nice"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "质量好不好",
+              "en": "B · whether quality is good"
+            }
+          ],
+          "input": true,
+          "solution": "B"
+        },
+        {
+          "zh": "徐前店里卖的东西怎么样？",
+          "en": "What are the goods in Xu Qian’s shop like?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "不是很多",
+              "en": "not many"
+            },
+            {
+              "zh": "都很便宜",
+              "en": "all cheap"
+            },
+            {
+              "zh": "种类很多",
+              "en": "many types"
+            },
+            {
+              "zh": "只有游戏机",
+              "en": "only game consoles"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "种类很多",
+              "en": "C · many types"
+            }
+          ],
+          "input": true,
+          "solution": "C"
+        },
+        {
+          "zh": "来徐前店里的顾客主要是谁？",
+          "en": "Who mainly shops at Xu Qian’s shop?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "小孩子",
+              "en": "children"
+            },
+            {
+              "zh": "年轻人",
+              "en": "young people"
+            },
+            {
+              "zh": "中年人",
+              "en": "middle-aged people"
+            },
+            {
+              "zh": "老年人",
+              "en": "older people"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "年轻人",
+              "en": "B · young people"
+            }
+          ],
+          "input": true,
+          "solution": "B"
+        },
+        {
+          "zh": "冷静购物者买东西时会怎么做？",
+          "en": "What do careful shoppers do?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "想买就买",
+              "en": "buy whenever they want"
+            },
+            {
+              "zh": "喜欢就买",
+              "en": "buy what they like"
+            },
+            {
+              "zh": "需要才买",
+              "en": "buy only when needed"
+            },
+            {
+              "zh": "很少买东西",
+              "en": "rarely shop"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "需要才买",
+              "en": "C · buy only when needed"
+            }
+          ],
+          "input": true,
+          "solution": "C"
+        },
+        {
+          "zh": "买东西时王一飞会怎么做？",
+          "en": "How does Wang Yifei shop?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "只看广告",
+              "en": "only look at adverts"
+            },
+            {
+              "zh": "问售货员",
+              "en": "ask sales staff"
+            },
+            {
+              "zh": "比较一下就买",
+              "en": "buy after a quick comparison"
+            },
+            {
+              "zh": "仔细比较后才买",
+              "en": "buy only after careful comparison"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "仔细比较后才买",
+              "en": "D · buy only after careful comparison"
+            }
+          ],
+          "input": true,
+          "solution": "D"
+        }
+      ],
+      "sourcePages": []
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "售货员：您要什么茶？",
+          "en": "Salesperson: What tea would you like?"
+        },
+        {
+          "zh": "安妮：我先看看。这里茶叶这么多，究竟买哪种好呢？",
+          "en": "Annie: I’ll look first. There is so much tea here—which kind should I buy?"
+        },
+        {
+          "zh": "售货员：茶叶主要分为红茶、绿茶等，看您喜欢喝哪种。",
+          "en": "Salesperson: Tea is mainly divided into black tea, green tea and so on. It depends on what you like."
+        },
+        {
+          "zh": "安妮：我想买一些自己喝，再买些送人。这种绿茶还有吗？",
+          "en": "Annie: I want some for myself and some as gifts. Do you still have this green tea?"
+        },
+        {
+          "zh": "售货员：抱歉，暂时没有。如果自己喝，可以买这个绿茶，今天满二两送半两，超过半斤再送小礼物；如果送人，可以买个盒子装进去。",
+          "en": "Salesperson: Sorry, it is temporarily unavailable. For yourself, you could buy this green tea: buy two liang today and get half a liang free, plus a gift for purchases over half a jin. For a gift, you can buy a box to pack it in."
+        },
+        {
+          "zh": "安妮：嗯。那就先买六两这种绿茶吧，再买一个盒子。请帮我分着装，盒子里装半斤，剩下的用纸包一下就行。",
+          "en": "Annie: Then I’ll buy six liang of this green tea and a box. Please pack them separately: half a jin in the box and the rest wrapped in paper."
+        },
+        {
+          "zh": "安妮为什么要买茶叶？",
+          "en": "Why does Annie buy tea?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她想买一些自己喝，再买些送人。",
+              "en": "She wants some for herself and some as gifts."
+            }
+          ]
+        },
+        {
+          "zh": "关于买茶叶送人，售货员有什么建议？",
+          "en": "What does the salesperson suggest for tea gifts?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "可以买个盒子把茶叶装进去。",
+              "en": "She can buy a box to put the tea in."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        43,
+        44
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          44
+        ],
+        "prompt": {
+          "zh": "安妮到茶叶店买茶叶，售货员问她……。她不知道究竟买……，售货员向她介绍了不同的茶叶。安妮想买一些茶……，再……。但她想买的一种绿茶……。售货员向她介绍说，自己喝的话，可以……，今天……，超过半斤再送……；送人的话，可以买个……。安妮最后买了……，盒子里……，……用纸包起来了。",
+          "en": "Annie went to buy tea. The assistant asked…. She was unsure which…. She wanted tea for … and…. The desired green tea was…. The assistant recommended … and explained the offer…. Annie bought …, put … in a box and wrapped … in paper."
+        },
+        "answer": {
+          "zh": "安妮到茶叶店买茶，想买一些自己喝，再买些送人。她想买的绿茶暂时没有。售货员推荐另一种绿茶，今天满二两送半两，超过半斤还有小礼物；送人的茶可以装进盒子。安妮最后买了六两绿茶和一个盒子，盒子里装半斤，剩下的用纸包起来。",
+          "en": "Annie wanted tea for herself and gifts. Her chosen tea was unavailable. The assistant recommended another green tea with a buy-two-liang, get-half-free offer and a gift for purchases over half a jin. Annie bought six liang and a box, packing half a jin in the box and wrapping the rest in paper."
+        }
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 究竟",
+      "blocks": [
+        {
+          "zh": "这里茶叶这么多，究竟买哪种好呢？",
+          "en": "There is so much tea here; which kind should I buy?"
+        },
+        {
+          "zh": "我一直没找到他，他究竟去哪里了呢？",
+          "en": "I still cannot find him. Where exactly has he gone?"
+        },
+        {
+          "zh": "究竟是对还是错？我现在也不清楚。",
+          "en": "Is it right or wrong? I am not sure either."
+        },
+        {
+          "zh": "A：这件衣服她究竟____呢？ B：她说她很喜欢。",
+          "en": "A: What does she really think of this clothing? B: She says she likes it.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "喜不喜欢",
+              "en": "whether she likes it"
+            }
+          ]
+        },
+        {
+          "zh": "A：你____？ B：我快写完了，请再等两天。",
+          "en": "A: Ask when the work will be finished. B: I have almost finished; please wait two more days.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "究竟什么时候能写完",
+              "en": "When exactly can you finish writing?"
+            }
+          ]
+        },
+        {
+          "zh": "A：____？ B：我还没决定，我再想想吧。",
+          "en": "A: Ask for a definite choice. B: I have not decided; let me think.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "你究竟想买哪一个",
+              "en": "Which one exactly do you want to buy?"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        44
+      ],
+      "intro": "究竟 is used in questions to press for the truth or a definite answer.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "广播员：各位顾客，本商场正在举办运动鞋假日低价促销活动，全场五折。",
+          "en": "Announcer: Dear customers, our mall is holding a holiday sports-shoe sale, with everything at half price."
+        },
+        {
+          "zh": "王一雪：一飞，广播里说价格减了一半呢，咱们过去看看？",
+          "en": "Wang Yixue: Yifei, the announcement says prices are halved. Shall we look?"
+        },
+        {
+          "zh": "王一飞：好的。不过咱们也不能只听广告说什么，还得看质量。",
+          "en": "Wang Yifei: Yes, but we cannot only listen to advertising; we must check quality."
+        },
+        {
+          "zh": "王一雪：对，首先看样子喜不喜欢，然后再看质量怎么样、价格合适不合适。",
+          "en": "Wang Yixue: Right. First see whether we like the style, then check quality and price."
+        },
+        {
+          "zh": "售货员：二位看看喜欢哪双？这个牌子质量很好，今天又降价，一双减300块。",
+          "en": "Salesperson: Which pair do you like? This brand is good quality and is reduced by 300 yuan per pair today."
+        },
+        {
+          "zh": "王一雪：嗯，我知道这个牌子。一飞，你喜欢吗？你看，这个鞋的样式很新，价钱也不高。",
+          "en": "Wang Yixue: I know this brand. Yifei, do you like it? The style is new and the price is not high."
+        },
+        {
+          "zh": "王一飞：你喜欢就买吧。我再看看别的。",
+          "en": "Wang Yifei: Buy it if you like it. I’ll look at others."
+        },
+        {
+          "zh": "王一雪：好的。请给我拿一双37号的吧。",
+          "en": "Wang Yixue: All right. Please bring me a size 37 pair."
+        },
+        {
+          "zh": "听了广播后，王一雪为什么要过去看看？",
+          "en": "Why does Wang Yixue want to look after hearing the announcement?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为运动鞋的价格减了一半。",
+              "en": "Because sports shoes are half price."
+            }
+          ]
+        },
+        {
+          "zh": "王一雪是怎么决定买那双运动鞋的？",
+          "en": "How does she decide to buy those shoes?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她知道这个牌子，觉得样式很新，质量好，价钱也不高。",
+              "en": "She knows the brand and finds the style new, quality good and price low."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        45,
+        46
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 首先……然后／其次……",
+      "blocks": [
+        {
+          "zh": "首先看样子喜不喜欢，然后再看质量怎么样、价格合适不合适。",
+          "en": "First consider the style, then the quality and price."
+        },
+        {
+          "zh": "遇到问题，首先想想问题为什么出现，然后再积极想办法解决。",
+          "en": "When problems arise, first consider their cause, then actively seek a solution."
+        },
+        {
+          "zh": "请大家首先读一遍课文，然后根据课文完成课后练习。",
+          "en": "First read the text once, then complete the exercises based on it."
+        },
+        {
+          "zh": "A：请说说你们的计划。 B：我们的计划是，首先去做市场调查，____。",
+          "en": "Explain the next step after market research.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "然后根据结果准备材料",
+              "en": "then prepare materials based on the results"
+            }
+          ]
+        },
+        {
+          "zh": "A：你们寒假是怎么安排的？ B：____；其次，____。",
+          "en": "Describe two winter-holiday arrangements.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "首先我们要复习功课；其次，我们想去看家人",
+              "en": "First we will review our lessons; then visit our families."
+            }
+          ]
+        },
+        {
+          "zh": "A：能谈谈你为什么觉得自己适合这份工作吗？ B：首先我的专业是儿童教育，____。",
+          "en": "Add a second reason for being suitable for the job.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "其次我很喜欢和孩子们在一起",
+              "en": "Second, I enjoy spending time with children."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        46
+      ],
+      "intro": "首先……然后／其次…… expresses sequence or the distinction between primary and secondary points.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "李文的朋友徐前在商业区开了家小店，专门卖年轻人喜欢的东西。他的店里商品种类不少，既有几十年前的老游戏机，也有最近流行的盲盒等等，很吸引年轻人。",
+          "en": "Li Wen’s friend Xu Qian opened a small shop in a business district selling things young people like. It offers many kinds of goods, from old game consoles to fashionable blind boxes, attracting young customers."
+        },
+        {
+          "zh": "徐前说，自己就是年轻人，知道年轻人喜欢什么。他也常和来店里的年轻顾客聊天儿，了解他们的兴趣爱好。前段时间刚进的盲盒很快就卖到了缺货。许多年轻人表示，在徐前的店里能感受到快乐。小店虽然小，但东西适合年轻人，加上店员态度友好，使得小店的生意越来越好。李文觉得自己的朋友真会做生意。",
+          "en": "Xu says that as a young person he knows young people’s tastes. He often talks with customers to learn their interests. Newly stocked blind boxes quickly sold out. Customers say the shop makes them happy. Suitable goods and friendly staff have made business increasingly successful. Li thinks his friend is good at business."
+        },
+        {
+          "zh": "年轻人为什么喜欢徐前店里的东西？",
+          "en": "Why do young people like the shop’s goods?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为商品种类多，适合年轻人的兴趣爱好。",
+              "en": "Because there is variety and the goods match young people’s interests."
+            }
+          ]
+        },
+        {
+          "zh": "徐前店里的生意做得怎么样？",
+          "en": "How is business at Xu’s shop?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "生意越来越好，盲盒很快就卖到了缺货。",
+              "en": "Business is improving; blind boxes quickly sold out."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        47,
+        48
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          48
+        ],
+        "prompt": {
+          "zh": "李文的朋友徐前在商业区……，专门卖……。他的店里商品……，既有几十年前的……，也有……等等，很吸引年轻人。徐前说，自己……，知道年轻人……。他也常和来店里的……，了解……。前段时间刚进的盲盒很快就……。许多年轻人表示，在徐前的店里能……。小店虽然小，但东西……，加上店员……，使得小店的生意……。李文觉得自己的朋友……。",
+          "en": "Complete the account of Xu’s shop: its location, products, customers, sold-out blind boxes, friendly staff and successful business."
+        },
+        "answer": {
+          "zh": "徐前在商业区开了家小店，专门卖年轻人喜欢的东西。店里既有老游戏机，也有流行的盲盒。他自己就是年轻人，也经常和顾客聊天儿，所以知道他们的兴趣爱好。盲盒很快就卖到了缺货。东西适合年轻人，加上店员态度友好，使得生意越来越好。李文觉得徐前很会做生意。",
+          "en": "Xu opened a shop in a business district for young customers, selling old game consoles and popular blind boxes. As a young person who talks with customers, he understands their interests. Blind boxes sold out quickly. Suitable products and friendly staff made business improve. Li thinks Xu is skilled at business."
+        }
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 加上",
+      "blocks": [
+        {
+          "zh": "小店虽然小，但东西适合年轻人，加上店员态度友好，使得小店的生意越来越好。",
+          "en": "The shop is small, but suitable goods and friendly staff make business improve."
+        },
+        {
+          "zh": "虽然这里是郊区，但周围交通很方便，加上房租便宜，所以很多年轻人都在这里租房子。",
+          "en": "Although it is outside the city, convenient transport and cheap rent attract young renters."
+        },
+        {
+          "zh": "他很聪明，加上一直非常努力，所以最后考上了理想的大学。",
+          "en": "He is intelligent and consistently hardworking, so he entered his ideal university."
+        },
+        {
+          "zh": "这些茶叶闻着很香，____，我一下就买了两斤。（促销）",
+          "en": "The tea smells fragrant; add a reason involving a promotion.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "加上商店正在促销",
+              "en": "and the shop was running a promotion"
+            }
+          ]
+        },
+        {
+          "zh": "这个话剧很有名，____，来剧院看演出的观众____。（超过）",
+          "en": "Add a reason and a result using “exceed”.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "加上票价不高；超过了一千人",
+              "en": "and tickets are inexpensive; exceeded one thousand"
+            }
+          ]
+        },
+        {
+          "zh": "这位售货员很专业，____，很快就卖出去了好几个手机。（态度）",
+          "en": "Add a reason about attitude.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "加上态度友好",
+              "en": "and has a friendly attitude"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        48
+      ],
+      "intro": "加上 adds another factor to the previous clause, leading to a result.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "关于购物，你是一位冷静购物者，还是不冷静购物者？一般来说，冷静购物者往往是真正需要一件东西时才买。购买时，还会从质量、价格等各方面仔细比较。不冷静购物者看见一个东西时，只要感觉喜欢就买，不管需要不需要，结果常常买完就后悔，买的东西也成了“垃圾”，还不环保。王一飞说，她从来不随便买东西。对于想买的东西，她不光看质量，还看价格。无论是一件外套，还是一条裤子，甚至一双袜子，都是仔细比较后才决定买不买。",
+          "en": "Are you a careful or impulsive shopper? Careful shoppers buy only when something is genuinely needed and compare quality, price and other factors. Impulsive shoppers buy what they like regardless of need, often regretting it and creating waste. Wang Yifei never buys casually. She checks both quality and price, carefully comparing even coats, trousers and socks before deciding."
+        },
+        {
+          "zh": "其实，不仅是买东西，人生的很多事情都一样，选择合适的才是最好的。",
+          "en": "This applies not only to shopping but to many things in life: choosing what suits you is best."
+        },
+        {
+          "zh": "冷静购物者和不冷静购物者最大的不同是什么？",
+          "en": "What is the main difference between careful and impulsive shoppers?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "冷静购物者需要才买，不冷静购物者喜欢就买。",
+              "en": "Careful shoppers buy when needed; impulsive shoppers buy when they like something."
+            }
+          ]
+        },
+        {
+          "zh": "王一飞是冷静购物者吗？为什么？",
+          "en": "Is Wang Yifei a careful shopper? Why?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "是，她仔细比较质量和价格后才决定买不买。",
+              "en": "Yes. She compares quality and price before deciding."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        49,
+        50
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 对于",
+      "blocks": [
+        {
+          "zh": "对于想买的东西，她不光看质量，还看价格。",
+          "en": "For things she wants to buy, she checks both quality and price."
+        },
+        {
+          "zh": "对于他的做法，大家都很支持。",
+          "en": "Everyone supports his approach."
+        },
+        {
+          "zh": "对于你们提的这个建议，我们一定好好研究。",
+          "en": "We will carefully study your suggestion."
+        },
+        {
+          "zh": "对于这份工作，____。",
+          "en": "Complete your view of this job.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我很感兴趣",
+              "en": "I am very interested"
+            }
+          ]
+        },
+        {
+          "zh": "____，你们觉得怎么样？",
+          "en": "Introduce a matter to ask about.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "对于这个计划",
+              "en": "Regarding this plan"
+            }
+          ]
+        },
+        {
+          "zh": "____购物，你是想____还是____？",
+          "en": "Ask about shopping preferences using 对于.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "对于；去商场买；在网上买",
+              "en": "Regarding shopping, would you like to shop at a mall or online?"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        50
+      ],
+      "intro": "对于 introduces the specific person, matter or object that an action or opinion concerns.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "zh": "A 暂时　B 表示　C 减　D 态度　E 两　F 缺",
+          "en": "A temporarily · B state · C reduce · D attitude · E liang; 50 grams · F be short of",
+          "heading": "Word bank · questions 1–6"
+        },
+        {
+          "zh": "这家饭馆不仅菜好吃，服务员服务____也特别好，所以我们经常来。",
+          "en": "This restaurant has delicious food and excellent service ____, so we come often.",
+          "heading": "Fill in the blank · 1",
+          "input": true,
+          "solution": "态度",
+          "answers": [
+            {
+              "zh": "态度",
+              "en": "attitude"
+            }
+          ]
+        },
+        {
+          "zh": "茶叶一次不用买太多，买六____就够喝一段时间了。",
+          "en": "There is no need to buy too much tea; six ____ will last a while.",
+          "heading": "Fill in the blank · 2",
+          "input": true,
+          "solution": "两",
+          "answers": [
+            {
+              "zh": "两",
+              "en": "liang; 50-gram units"
+            }
+          ]
+        },
+        {
+          "zh": "马上到景区了，大家准备下车，不需要的东西可以____放在车上。",
+          "en": "We are arriving at the scenic area. Prepare to get off; unneeded items can be left on the bus ____.",
+          "heading": "Fill in the blank · 3",
+          "input": true,
+          "solution": "暂时",
+          "answers": [
+            {
+              "zh": "暂时",
+              "en": "temporarily"
+            }
+          ]
+        },
+        {
+          "zh": "网上商店正在做活动，除了直接降价外，还有满100____30的活动，挺值的。",
+          "en": "The online shop has price reductions and a spend-100, take-30-____ offer; it is good value.",
+          "heading": "Fill in the blank · 4",
+          "input": true,
+          "solution": "减",
+          "answers": [
+            {
+              "zh": "减",
+              "en": "off; reduced"
+            }
+          ]
+        },
+        {
+          "zh": "我要买的那个手机现在____货，过几天再去看看来没来货。",
+          "en": "The phone I want is out of ____; I will check again in a few days.",
+          "heading": "Fill in the blank · 5",
+          "input": true,
+          "solution": "缺",
+          "answers": [
+            {
+              "zh": "缺",
+              "en": "lack; be short of"
+            }
+          ]
+        },
+        {
+          "zh": "高医生____，病人过几天如果没什么问题就可以出院了。",
+          "en": "Dr Gao ____ that the patient can leave hospital in a few days if there are no problems.",
+          "heading": "Fill in the blank · 6",
+          "input": true,
+          "solution": "表示",
+          "answers": [
+            {
+              "zh": "表示",
+              "en": "stated"
+            }
+          ]
+        },
+        {
+          "zh": "A 许多　B 者　C 不光　D 分为　E 友好　F 顾客",
+          "en": "A many · B person; suffix · C not only · D divide into · E friendly · F customer",
+          "heading": "Word bank · questions 7–12"
+        },
+        {
+          "zh": "A：您的学生学习都很好！B：是的，他们____学习成绩优秀，还经常帮助别人。",
+          "en": "A: Your students all study well! B: Yes, they ____ get excellent grades but also often help others.",
+          "heading": "Fill in the blank · 7",
+          "input": true,
+          "solution": "不光",
+          "answers": [
+            {
+              "zh": "不光",
+              "en": "not only"
+            }
+          ]
+        },
+        {
+          "zh": "A：这家店人真多！B：嗯，他们的商品种类多、价格合适，服务还特别好，所以很多____都喜欢来这里买东西。",
+          "en": "A: This shop is crowded! B: It offers variety, suitable prices and excellent service, so many ____ enjoy shopping here.",
+          "heading": "Fill in the blank · 8",
+          "input": true,
+          "solution": "顾客",
+          "answers": [
+            {
+              "zh": "顾客",
+              "en": "customers"
+            }
+          ]
+        },
+        {
+          "zh": "A：您能简单介绍一下武汉长江大桥吗？B：这座桥全长1670米，____上下两层，是长江上的第一座大桥。",
+          "en": "A: Could you introduce the Wuhan Yangtze River Bridge? B: It is 1,670 metres long, ____ two levels, and was the first bridge over the Yangtze.",
+          "heading": "Fill in the blank · 9",
+          "input": true,
+          "solution": "分为",
+          "answers": [
+            {
+              "zh": "分为",
+              "en": "divided into"
+            }
+          ]
+        },
+        {
+          "zh": "A：这个动物园虽然比较远，但动物特别多，有____我以前没见过的动物。B：是吗？有机会我也去看看。",
+          "en": "A: This zoo is far away but has many animals, including ____ I have never seen. B: Really? I will visit when I can.",
+          "heading": "Fill in the blank · 10",
+          "input": true,
+          "solution": "许多",
+          "answers": [
+            {
+              "zh": "许多",
+              "en": "many"
+            }
+          ]
+        },
+        {
+          "zh": "A：你这次去那儿玩感觉怎么样？B：挺不错的，那里的人都很热情、____，也给了我们很多帮助。",
+          "en": "A: How was your visit? B: Good; the people were welcoming and ____, and helped us a lot.",
+          "heading": "Fill in the blank · 11",
+          "input": true,
+          "solution": "友好",
+          "answers": [
+            {
+              "zh": "友好",
+              "en": "friendly"
+            }
+          ]
+        },
+        {
+          "zh": "A：电子邮件发出后，我才发现会议时间写错了。B：那你快给参会____重新发邮件，向他们道歉，并告诉他们正确的时间。",
+          "en": "A: After sending the email, I noticed the meeting time was wrong. B: Email the meeting particip____ again, apologise and give the correct time.",
+          "heading": "Fill in the blank · 12",
+          "input": true,
+          "solution": "者",
+          "answers": [
+            {
+              "zh": "者",
+              "en": "participant suffix"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        50,
+        51
+      ],
+      "intro": "Choose from the word banks in the original exercise. Each word is used once in its group."
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "吴红在一家公司上班，工资挺高的。和许多女孩子一样，她喜欢买衣服。____，她的想法是：不需要的就不买，只买对的，不买贵的。以前，吴红喜欢去商场买衣服，____。网上的选择多，每次看到喜欢的，____，看颜色、大小、样子是不是自己满意的，都看好了才付钱。这样买东西，____，又能买到自己喜欢的。每次穿上新衣服，她都挺开心的。",
+          "en": "Wu Hong earns a good salary and enjoys buying clothes. ____, she buys only what she needs and what suits her. She used to shop at malls, ____. Online there is more choice; when she sees something she likes, ____ to check its colour, size and style before paying. This way she ____ and buys what she likes. New clothes make her happy."
+        },
+        {
+          "zh": "对于买衣服这件事",
+          "en": "Regarding buying clothes",
+          "heading": "A"
+        },
+        {
+          "zh": "但现在她更喜欢在网上买",
+          "en": "but now she prefers shopping online",
+          "heading": "B"
+        },
+        {
+          "zh": "她都会仔细看商品介绍",
+          "en": "she carefully reads the product description",
+          "heading": "C"
+        },
+        {
+          "zh": "既不浪费钱",
+          "en": "neither wastes money",
+          "heading": "D"
+        },
+        {
+          "zh": "第1空：____",
+          "en": "Gap 1: choose A, B, C or D.",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "对于买衣服这件事",
+              "en": "Regarding buying clothes"
+            }
+          ]
+        },
+        {
+          "zh": "第2空：____",
+          "en": "Gap 2: choose A, B, C or D.",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "但现在她更喜欢在网上买",
+              "en": "but now she prefers shopping online"
+            }
+          ]
+        },
+        {
+          "zh": "第3空：____",
+          "en": "Gap 3: choose A, B, C or D.",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "她都会仔细看商品介绍",
+              "en": "she carefully reads the product description"
+            }
+          ]
+        },
+        {
+          "zh": "第4空：____",
+          "en": "Gap 4: choose A, B, C or D.",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "既不浪费钱",
+              "en": "neither wastes money"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        51
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c14-exercise.jpg",
+          "alt": "Original chapter 14 picture-writing exercise"
+        },
+        {
+          "zh": "商品",
+          "en": "goods",
+          "heading": "Picture 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "商店里有很多商品。",
+              "en": "There are many products in the shop."
+            }
+          ]
+        },
+        {
+          "zh": "仔细",
+          "en": "careful",
+          "heading": "Picture 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他仔细地看着这里的东西。",
+              "en": "He looks carefully at the things here."
+            }
+          ]
+        },
+        {
+          "zh": "友好",
+          "en": "friendly",
+          "heading": "Picture 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她对老人很友好。",
+              "en": "She is friendly to the older woman."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        52
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "zh": "两人一组，一人扮演顾客，一人扮演售货员。顾客想买一个手机，售货员向顾客做介绍，最后顾客觉得合适，买下了这个手机。",
+          "en": "Work in pairs as a customer and salesperson. Recommend a phone, compare it and complete a suitable purchase.",
+          "heading": "Speak together",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我想买一个价格合适、质量好的手机。",
+              "en": "I want a reasonably priced, good-quality phone."
+            },
+            {
+              "zh": "这个牌子质量不错，今天还降价了。",
+              "en": "This brand is good quality and discounted today."
+            },
+            {
+              "zh": "我先比较一下，如果合适就买。",
+              "en": "I will compare first and buy if it suits me."
+            }
+          ]
+        },
+        {
+          "zh": "你平时一般怎么购物？请根据你去超市或商场买东西的经历，写一篇短文，不少于140字。",
+          "en": "Describe how you usually shop, using a supermarket or mall experience. Write at least 140 Chinese characters.",
+          "heading": "Writing · at least 140 characters",
+          "input": true,
+          "minChars": 140,
+          "answers": [
+            {
+              "zh": "我平时买东西以前，首先想一想自己究竟需要什么，然后再去商场比较。有一次，我想买一件外套。商场里很多商品都在促销，一件红色外套的价格减了一半。我没有马上买，而是先看质量，再试一试大小。售货员的态度很友好，也给我介绍了别的样式。最后我发现另一件外套更适合我，虽然贵一点儿，但是可以穿很久。我觉得购物时不光要看价格，还要看自己需不需要。只买合适的东西，既能少花钱，也不会让家里放满没有用的商品。",
+              "en": "Before shopping I consider what I need and compare products. Once I needed a coat and saw a red one at half price. I checked quality and fit instead of buying immediately. A friendly salesperson showed other styles. Another coat suited me better and would last longer despite costing more. Shopping means considering need as well as price; buying suitable things saves money and avoids clutter."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        52
+      ]
+    },
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流线下购物时打折、商品比较等相关信息。",
+          "en": "Understand and discuss discounts and product comparisons in shops."
+        },
+        {
+          "zh": "能够口头或书面表达购买意愿。",
+          "en": "Express purchase intentions orally and in writing."
+        },
+        {
+          "zh": "了解中国人的消费观。",
+          "en": "Understand Chinese views on spending."
+        }
+      ],
+      "sourcePages": [
+        42
+      ]
+    },
+    {
+      "id": "self-assessment",
+      "title": "Book learning summary",
+      "blocks": [
+        {
+          "zh": "我能使用“顾客、促销、减、牌子、降价、商品”等词语谈论购物。",
+          "en": "I can discuss shopping with the chapter vocabulary."
+        },
+        {
+          "zh": "我能理解并运用本课四个语言点。",
+          "en": "I can understand and use the four grammar points."
+        },
+        {
+          "zh": "我能讲述“合适的才是最好的”故事，表达自己的看法。",
+          "en": "I can tell a story illustrating that what suits you is best and express my opinion."
+        }
+      ],
+      "sourcePages": [
+        53
+      ]
+    }
+  ]
+}

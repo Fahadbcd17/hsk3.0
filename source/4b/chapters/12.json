@@ -1,0 +1,1684 @@
+{
+  "id": 12,
+  "title": "幸福的家庭",
+  "en": "Happy families",
+  "page": 17,
+  "grammar": [
+    "不怎么",
+    "双重否定",
+    "无论……都／也……",
+    "为了……而……"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    17,
+    28
+  ],
+  "words": [
+    {
+      "zh": "毛衣",
+      "en": "sweater",
+      "example": {
+        "zh": "这件毛衣不怎么贵。",
+        "en": "This sweater is not very expensive."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "样子",
+      "en": "appearance; style",
+      "example": {
+        "zh": "我不怎么喜欢这个样子。",
+        "en": "I do not much like this style."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "适合",
+      "en": "suit; be suitable",
+      "example": {
+        "zh": "这件衣服不怎么适合我。",
+        "en": "These clothes do not really suit me."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "售货员",
+      "en": "shop assistant",
+      "example": {
+        "zh": "无论客人买不买，售货员都很热情。",
+        "en": "The assistant is friendly whether customers buy or not."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "质量",
+      "en": "quality",
+      "example": {
+        "zh": "这件衣服的质量不怎么好。",
+        "en": "The quality of these clothes is not very good."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "强",
+      "en": "better; strong",
+      "example": {
+        "zh": "无论谁更强，我们都要认真比赛。",
+        "en": "Whoever is stronger, we must compete seriously."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "年底",
+      "en": "end of the year",
+      "example": {
+        "zh": "无论工作多忙，年底我都会回家。",
+        "en": "However busy work is, I go home at year-end."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "全",
+      "en": "whole; all",
+      "example": {
+        "zh": "为了全家高兴而认真准备吧。",
+        "en": "Prepare carefully for the whole family’s happiness."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "打折",
+      "en": "give a discount",
+      "example": {
+        "zh": "这家店不怎么打折。",
+        "en": "This shop seldom gives discounts."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "值",
+      "en": "worth; be worth",
+      "example": {
+        "zh": "为了家人高兴而花这些钱很值。",
+        "en": "Spending this money for the family’s happiness is worthwhile."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "估计",
+      "en": "estimate; guess",
+      "example": {
+        "zh": "我不是不知道，我估计他明天来。",
+        "en": "It is not that I do not know; I think he comes tomorrow."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "期",
+      "en": "session; issue",
+      "example": {
+        "zh": "无论哪一期活动，我都想参加。",
+        "en": "Whichever session it is, I want to join."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "听力",
+      "en": "hearing; listening ability",
+      "example": {
+        "zh": "为了提高听力而每天练习。",
+        "en": "Practise daily to improve listening."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "烦",
+      "en": "annoyed; bothered",
+      "example": {
+        "zh": "无论多烦，都要好好说话。",
+        "en": "However annoyed you are, speak kindly."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "脱",
+      "en": "take off",
+      "example": {
+        "zh": "为了不弄湿衣服，他不得不脱下外衣。",
+        "en": "To keep his clothes dry, he had to take off his coat."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "挂",
+      "en": "hang",
+      "example": {
+        "zh": "我不得不把衣服挂在房间里。",
+        "en": "I have to hang the clothes in the room."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "脾气",
+      "en": "temper",
+      "example": {
+        "zh": "他不怎么发脾气。",
+        "en": "He seldom loses his temper."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "伤心",
+      "en": "sad",
+      "example": {
+        "zh": "无论多伤心，我都会陪着你。",
+        "en": "However sad you are, I will stay with you."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "批评",
+      "en": "criticise",
+      "example": {
+        "zh": "老师不怎么批评他。",
+        "en": "The teacher seldom criticises him."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "道歉",
+      "en": "apologise",
+      "example": {
+        "zh": "做错了事，不能不道歉。",
+        "en": "If you do wrong, you must apologise."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "老家",
+      "en": "hometown",
+      "example": {
+        "zh": "无论走多远，我都会想起老家。",
+        "en": "However far I travel, I think of my hometown."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "自",
+      "en": "since; from",
+      "example": {
+        "zh": "自毕业后，我就不怎么回学校了。",
+        "en": "Since graduating I rarely return to school."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "父母",
+      "en": "parents",
+      "example": {
+        "zh": "无论我做什么，父母都关心我。",
+        "en": "Whatever I do, my parents care about me."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "父子",
+      "en": "father and son",
+      "example": {
+        "zh": "这对父子不怎么一起出去。",
+        "en": "This father and son seldom go out together."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "母子",
+      "en": "mother and son",
+      "example": {
+        "zh": "无论住在哪里，这对母子都常联系。",
+        "en": "Wherever they live, this mother and son stay in touch."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "无论",
+      "en": "no matter; regardless",
+      "example": {
+        "zh": "无论下不下雨，我都会来。",
+        "en": "Whether it rains or not, I will come."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "条件",
+      "en": "condition",
+      "example": {
+        "zh": "无论条件怎么样，我们都要努力。",
+        "en": "Whatever the conditions, we must work hard."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "允许",
+      "en": "allow",
+      "example": {
+        "zh": "学校不允许我们这样做，我们不得不改变计划。",
+        "en": "The school does not allow this, so we must change plans."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "另外",
+      "en": "in addition; separately",
+      "example": {
+        "zh": "为了大家吃得好，我另外买了一些水果。",
+        "en": "To help everyone eat well, I bought extra fruit."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "卫生",
+      "en": "hygiene; cleanliness",
+      "example": {
+        "zh": "无论多忙，都要注意卫生。",
+        "en": "However busy you are, pay attention to hygiene."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "母亲",
+      "en": "mother",
+      "example": {
+        "zh": "无论我去哪里，母亲都很关心我。",
+        "en": "Wherever I go, my mother cares about me."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "待",
+      "en": "stay",
+      "example": {
+        "zh": "我不怎么待在家里。",
+        "en": "I do not often stay home."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "将",
+      "en": "object-marking preposition, like 把",
+      "example": {
+        "zh": "为了让妈妈高兴，他将房间打扫干净了。",
+        "en": "To please his mother, he cleaned the room."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "闻",
+      "en": "smell",
+      "example": {
+        "zh": "我不怎么闻得到花香。",
+        "en": "I can hardly smell the flowers."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "味道",
+      "en": "taste; smell",
+      "example": {
+        "zh": "这个味道不怎么好。",
+        "en": "This does not taste very good."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "冷静",
+      "en": "calm",
+      "example": {
+        "zh": "无论发生什么，都要冷静。",
+        "en": "Whatever happens, stay calm."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "鼻子",
+      "en": "nose",
+      "example": {
+        "zh": "我的鼻子不怎么舒服。",
+        "en": "My nose feels rather uncomfortable."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "父亲",
+      "en": "father",
+      "example": {
+        "zh": "无论多晚，父亲都会等我回来。",
+        "en": "However late it is, my father waits for me."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "城",
+      "en": "city",
+      "example": {
+        "zh": "这座城不怎么大。",
+        "en": "This city is not very large."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "鲜",
+      "en": "fresh; delicious",
+      "example": {
+        "zh": "这碗汤不怎么鲜。",
+        "en": "This soup is not particularly tasty."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "暖",
+      "en": "warm",
+      "example": {
+        "zh": "为了让房间更暖，他关上了窗户。",
+        "en": "To make the room warmer, he closed the window."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "勇敢",
+      "en": "brave",
+      "example": {
+        "zh": "无论有多难，我们都要勇敢面对。",
+        "en": "However difficult it is, face it bravely."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    },
+    {
+      "zh": "商量",
+      "en": "discuss; consult",
+      "example": {
+        "zh": "遇到重要的事，不能不和家人商量。",
+        "en": "For important matters, you must consult your family."
+      },
+      "grammar": "不怎么／无论……都……／为了……而……"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "打折",
+      "en": "discount"
+    },
+    {
+      "zh": "毛衣",
+      "en": "sweater"
+    },
+    {
+      "zh": "鼻子",
+      "en": "nose"
+    },
+    {
+      "zh": "勇敢",
+      "en": "brave"
+    },
+    {
+      "zh": "脱",
+      "en": "take off"
+    },
+    {
+      "zh": "伤心",
+      "en": "sad"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c12-warm-0.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "这是我的鼻子。",
+        "en": "This is my nose."
+      }
+    },
+    {
+      "image": "4b/c12-warm-1.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "他很勇敢。",
+        "en": "He is brave."
+      }
+    },
+    {
+      "image": "4b/c12-warm-2.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "她正在脱衣服。",
+        "en": "She is taking off her clothes."
+      }
+    },
+    {
+      "image": "4b/c12-warm-3.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "这家店的东西打折了。",
+        "en": "The goods in this shop are discounted."
+      }
+    },
+    {
+      "image": "4b/c12-warm-4.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "这件毛衣很好看。",
+        "en": "This sweater looks nice."
+      }
+    },
+    {
+      "image": "4b/c12-warm-5.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "她很伤心。",
+        "en": "She is very sad."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "过节时，你会给家人买什么礼物？",
+      "en": "What gifts do you buy your family for festivals?",
+      "input": true,
+      "answers": [
+        {
+          "zh": "我会买他们爱吃的东西。",
+          "en": "I buy food they enjoy."
+        },
+        {
+          "zh": "我想给妈妈买一件衣服。",
+          "en": "I want to buy my mother some clothes."
+        },
+        {
+          "zh": "我会先问问他们需要什么。",
+          "en": "I ask what they need first."
+        }
+      ]
+    },
+    {
+      "zh": "你的家人因为一些事情伤心时，你会怎么办？",
+      "en": "What do you do when a family member is upset?",
+      "input": true,
+      "answers": [
+        {
+          "zh": "我会陪他聊聊天儿。",
+          "en": "I chat with them."
+        },
+        {
+          "zh": "我会听他说，不急着提建议。",
+          "en": "I listen without rushing to advise."
+        },
+        {
+          "zh": "我会和他一起想办法。",
+          "en": "I help them think of a solution."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流关于幸福家庭的话题。",
+          "en": "Understand and discuss happy families."
+        },
+        {
+          "zh": "能够口头或书面讲述幸福家庭的生活故事。",
+          "en": "Tell stories of happy family life orally and in writing."
+        },
+        {
+          "zh": "了解中国人的亲情文化特点。",
+          "en": "Understand Chinese family and kinship culture."
+        }
+      ],
+      "sourcePages": [
+        17
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "杨同乐认为毛衣的颜色怎么样？",
+          "en": "What does Yang think of the sweater’s colour?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "很合适",
+              "en": "Very suitable"
+            },
+            {
+              "zh": "不合适",
+              "en": "Unsuitable"
+            },
+            {
+              "zh": "正流行",
+              "en": "Fashionable"
+            },
+            {
+              "zh": "太深了",
+              "en": "Too dark"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "不合适",
+              "en": "B · Unsuitable"
+            }
+          ]
+        },
+        {
+          "zh": "商场年底有什么活动？",
+          "en": "What year-end offer does the shop have?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "买一送一",
+              "en": "Buy one get one free"
+            },
+            {
+              "zh": "买二送一",
+              "en": "Buy two get one free"
+            },
+            {
+              "zh": "全场七折",
+              "en": "30 percent off everything"
+            },
+            {
+              "zh": "免费送货",
+              "en": "Free delivery"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "全场七折",
+              "en": "C · 30 percent off everything"
+            }
+          ]
+        },
+        {
+          "zh": "爷爷、奶奶下午去做什么了？",
+          "en": "What did the grandparents do in the afternoon?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "打扫卫生",
+              "en": "Clean"
+            },
+            {
+              "zh": "在家睡觉",
+              "en": "Sleep at home"
+            },
+            {
+              "zh": "接小明放学",
+              "en": "Collect Xiaoming"
+            },
+            {
+              "zh": "参加老年班活动",
+              "en": "Attend a senior-class activity"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "参加老年班活动",
+              "en": "D · Attend a senior-class activity"
+            }
+          ]
+        },
+        {
+          "zh": "王一雪批评小明，是因为他：",
+          "en": "Why did Wang criticise Xiaoming?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "总是迟到",
+              "en": "Always late"
+            },
+            {
+              "zh": "不打扫房间",
+              "en": "Does not clean"
+            },
+            {
+              "zh": "对奶奶发脾气",
+              "en": "Lost his temper with grandmother"
+            },
+            {
+              "zh": "考试前不复习",
+              "en": "Does not revise"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "对奶奶发脾气",
+              "en": "C · Lost his temper with grandmother"
+            }
+          ]
+        },
+        {
+          "zh": "杨同乐每个周末都会做什么？",
+          "en": "What does Yang do every weekend?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "回上海",
+              "en": "Return to Shanghai"
+            },
+            {
+              "zh": "去北京出差",
+              "en": "Visit Beijing for work"
+            },
+            {
+              "zh": "带父母旅游",
+              "en": "Travel with parents"
+            },
+            {
+              "zh": "给父母打电话",
+              "en": "Phone his parents"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "给父母打电话",
+              "en": "D · Phone his parents"
+            }
+          ]
+        },
+        {
+          "zh": "刘明的母亲身体变差后，刘明和王一雪：",
+          "en": "What did Liu and Wang do when his mother’s health declined?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "不再工作了",
+              "en": "Stopped working"
+            },
+            {
+              "zh": "请别人帮忙照顾",
+              "en": "Hired care"
+            },
+            {
+              "zh": "带父母回了老家",
+              "en": "Took parents home"
+            },
+            {
+              "zh": "把父母接到了自己家",
+              "en": "Brought parents to live with them"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "把父母接到了自己家",
+              "en": "D · Brought parents to live with them"
+            }
+          ]
+        },
+        {
+          "zh": "林静静下班回家后热的是：",
+          "en": "What did Lin heat after work?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "奶茶",
+              "en": "Milk tea"
+            },
+            {
+              "zh": "鸡汤",
+              "en": "Chicken soup"
+            },
+            {
+              "zh": "包子",
+              "en": "Steamed buns"
+            },
+            {
+              "zh": "米饭",
+              "en": "Rice"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "鸡汤",
+              "en": "B · Chicken soup"
+            }
+          ]
+        },
+        {
+          "zh": "父母给林静静寄了什么？",
+          "en": "What did Lin’s parents send?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "好用的",
+              "en": "Useful things"
+            },
+            {
+              "zh": "好吃的",
+              "en": "Good food"
+            },
+            {
+              "zh": "好玩的",
+              "en": "Fun things"
+            },
+            {
+              "zh": "好看的",
+              "en": "Pretty things"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "好吃的",
+              "en": "B · Good food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "王一飞：你觉得老妈穿这件毛衣怎么样？",
+          "en": "Wang: How would this sweater look on Mum?"
+        },
+        {
+          "zh": "杨同乐：样子不错，就是颜色好像不怎么适合她。",
+          "en": "Yang: The style is nice, but the colour may not suit her."
+        },
+        {
+          "zh": "售货员：老年人穿这种颜色的衣服正合适，颜色不深，质量还特别好。您看那位阿姨正试着呢，是不是很好看？",
+          "en": "Assistant: This colour suits older people. It is not dark, and the quality is excellent. Look at that lady trying it; doesn’t it look good?"
+        },
+        {
+          "zh": "王一飞：嗯，是挺不错的。同乐，我印象中，老妈也常穿这种颜色的衣服，她应该会喜欢的，买一件吧。",
+          "en": "Wang: Yes. I remember Mum wearing this colour often. She should like it; let’s buy one."
+        },
+        {
+          "zh": "杨同乐：好的，老妈高兴比什么都强。",
+          "en": "Yang: All right. Mum’s happiness matters most."
+        },
+        {
+          "zh": "售货员：就是，老人开心最重要。我们店正好年底有活动，全场打七折呢，挺值的。",
+          "en": "Assistant: Exactly. We have a year-end offer: thirty percent off everything, excellent value."
+        },
+        {
+          "zh": "售货员认为老人穿那件毛衣怎么样？",
+          "en": "What does the assistant think of the sweater for an older person?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "颜色正合适，不深，质量也好。",
+              "en": "The colour suits them, is not dark, and the quality is good."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "杨同乐最后为什么愿意买那件毛衣了？",
+          "en": "Why does Yang agree to buy it?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为母亲应该会喜欢，母亲高兴最重要。",
+              "en": "His mother should like it, and her happiness matters most."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        18,
+        19
+      ],
+      "intro": "Role-play the dialogue.",
+      "retelling": {
+        "pages": [
+          19
+        ],
+        "prompt": {
+          "zh": "杨同乐和王一飞去商场给父母买衣服。王一飞选了一件毛衣后问杨同乐……，杨同乐觉得样子还可以，但是颜色……。售货员说老年人穿这种颜色……，……，质量也好。王一飞也觉得不错，认为老妈也常穿……，她会……。杨同乐说，老妈高兴……。售货员告诉他们，现在店里正好……，全场……，挺值的。",
+          "en": "They shop for their parents. Wang asks…. Yang likes the style but…. The assistant says the colour…and quality…. Mum often wears…and should…. Her happiness…. The shop has…and everything is…."
+        },
+        "answer": {
+          "zh": "杨同乐和王一飞给母亲买毛衣。杨同乐觉得样子不错，但颜色不怎么适合母亲。售货员说颜色正合适，不深，质量很好。王一飞说母亲常穿这种颜色，应该会喜欢。杨同乐觉得母亲高兴最重要。商场年底全场打七折，所以很值。",
+          "en": "Yang and Wang buy a sweater for Mum. He doubts the colour, but the assistant says it suits older people and has good quality. Wang remembers Mum wearing that colour. Yang agrees her happiness matters most. The year-end thirty-percent discount makes it good value."
+        }
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 不怎么",
+      "blocks": [
+        {
+          "zh": "样子不错，就是颜色好像不怎么适合她。",
+          "en": "The style is nice, but the colour does not really suit her."
+        },
+        {
+          "zh": "他总是在图书馆看书，不怎么出去玩。",
+          "en": "He reads at the library and seldom goes out for fun."
+        },
+        {
+          "zh": "我爱吃饺子、包子，不怎么喜欢吃米饭。",
+          "en": "I love dumplings and buns but do not much like rice."
+        },
+        {
+          "zh": "A：今天天气怎么样了？B：挺不错的，____。",
+          "en": "How is today’s weather? Quite good,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不怎么冷",
+              "en": "not very cold"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：你看起来好像____。B：是的，____。",
+          "en": "You seem…. Yes,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不怎么高兴。是的，我今天不怎么想说话",
+              "en": "not very happy. Yes, I do not feel like talking today"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：你常去体育馆打球吗？B：____。",
+          "en": "Do you often play ball at the gym?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我不怎么去",
+              "en": "I seldom go"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        19
+      ],
+      "intro": "不怎么 means “not very” or “not often”, expressing a low degree or frequency."
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "刘明：爷爷、奶奶还没回来呢？",
+          "en": "Liu: Haven’t Grandpa and Grandma returned?"
+        },
+        {
+          "zh": "王一雪：没呢，估计快了。下午老年班举办一期听力保护活动，他们去参加活动了。",
+          "en": "Wang: Not yet, probably soon. They attended a hearing-protection activity at the senior class this afternoon."
+        },
+        {
+          "zh": "刘明：他们的活动还挺丰富的！",
+          "en": "Liu: Their activities are quite varied!"
+        },
+        {
+          "zh": "王一雪：嗯。小明最近要考试，心里有点儿烦，昨天因为脱、挂衣服这点儿小事，就对奶奶发脾气了。",
+          "en": "Wang: Xiaoming is bothered about his exams. Yesterday he lost his temper with Grandma over taking off and hanging up clothes."
+        },
+        {
+          "zh": "刘明：是吗？他这样做老人该伤心了。",
+          "en": "Liu: Really? That must have upset her."
+        },
+        {
+          "zh": "王一雪：就是啊。他也不是不知道自己错了，我批评他以后，他马上说放学回来就向奶奶道歉。",
+          "en": "Wang: Yes. He knows he was wrong. After I criticised him, he promised to apologise after school."
+        },
+        {
+          "zh": "刘明：好的，我也再跟他聊聊。",
+          "en": "Liu: I will talk to him too."
+        },
+        {
+          "zh": "王一雪：那就更好了。",
+          "en": "Wang: That would be even better."
+        },
+        {
+          "zh": "小明因为什么对奶奶发了脾气？",
+          "en": "Why did Xiaoming lose his temper?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为脱、挂衣服的小事，也因为考试前心里烦。",
+              "en": "Over taking off and hanging clothes, while stressed about exams."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "小明发脾气后，王一雪和小明都做了什么？",
+          "en": "What did Wang and Xiaoming do afterward?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "王一雪批评他，他答应放学后向奶奶道歉。",
+              "en": "She criticised him; he promised to apologise after school."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "intro": "Role-play the dialogue."
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 双重否定",
+      "blocks": [
+        {
+          "zh": "他也不是不知道自己错了。",
+          "en": "It is not that he does not know he was wrong."
+        },
+        {
+          "zh": "今天是我们毕业后第一次同学聚餐，你又是班长，不能不来啊！",
+          "en": "This is our first reunion and you were class monitor; you must come!"
+        },
+        {
+          "zh": "由于天气不好，飞机不能起飞，爸爸不得不改变计划，明天再去上海。",
+          "en": "Bad weather grounded the plane, so Dad had to postpone Shanghai until tomorrow."
+        },
+        {
+          "zh": "A：家里的东西太多了，____。B：是啊，搬家是很不容易。",
+          "en": "There are too many things at home,…. Yes, moving is hard.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不得不请朋友帮忙",
+              "en": "we have to ask friends for help"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：这么重要的活动你不参加吗？B：____，是实在没有时间。",
+          "en": "Are you missing such an important event? …, I truly have no time.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我不是不想参加",
+              "en": "It is not that I do not want to join"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：你们学校真大啊！B：为了能准时上课，____。",
+          "en": "Your campus is huge! To reach class on time,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我们不得不早点儿出门",
+              "en": "we have to leave earlier"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        21,
+        22
+      ],
+      "intro": "Double negatives affirm more strongly: 不是不 = it is not that…not; 不能不 = must; 不得不 = have no choice but."
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "杨同乐的老家在上海，他自毕业后一直在北京工作。虽然没和父母生活在一起，但父子、母子关系特别好。杨同乐很关心父母，无论平时工作有多忙，他每个周末都会给父母打电话。条件允许时，他会回上海看父母。",
+          "en": "Yang’s hometown is Shanghai, but he has worked in Beijing since graduation. Though living apart, he is very close to his parents. However busy he is, he calls every weekend and visits Shanghai when possible."
+        },
+        {
+          "zh": "刘明和王一雪结婚后，一直没有和父母生活在一起，他们平时会另外找时间去看父母，帮父母做做饭，打扫打扫卫生。这两年，刘明的母亲身体不太好，他们很担心，就把父母接到了自己家里照顾。父母待在他们身边，他们也终于能放心地去工作了。",
+          "en": "After marriage, Liu and Wang lived separately from their parents but visited to cook and clean. When Liu’s mother’s health declined over the past two years, they brought the parents into their home. Having them nearby allowed them to work with peace of mind."
+        },
+        {
+          "zh": "杨同乐是怎么关心父母的？",
+          "en": "How does Yang care for his parents?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "每个周末给他们打电话，条件允许时回上海看他们。",
+              "en": "He calls every weekend and visits Shanghai when possible."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "刘明和王一雪为什么要把父母接到自己家里？",
+          "en": "Why did Liu and Wang bring their parents home?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为母亲身体不好，他们想照顾父母。",
+              "en": "His mother was unwell and they wanted to care for them."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        22,
+        23
+      ],
+      "intro": "Read the text aloud.",
+      "retelling": {
+        "pages": [
+          23
+        ],
+        "prompt": {
+          "zh": "杨同乐的老家……，他自毕业后一直在……。虽然没和父母……，但……特别好。杨同乐很关心父母，无论……，他每个周末都会……。条件允许时，他会……。刘明和王一雪结婚后，一直没有和父母……，他们平时会……去看父母，帮父母……，……。这两年，刘明的……，他们……，就把父母……。父母待在他们身边，他们也终于能……。",
+          "en": "Yang’s hometown is…and he works…. Although living apart, their relationship…. Regardless of…, he calls…. When possible he…. Liu and Wang visited their parents to…and…. When his mother…, they brought them…. Now they can…."
+        },
+        "answer": {
+          "zh": "杨同乐的老家在上海，毕业后一直在北京工作。他和父母关系很好，无论多忙，每周末都打电话，条件允许时就回上海看父母。刘明和王一雪原来另外找时间看父母，帮他们做饭、打扫卫生。后来刘明的母亲身体不好，他们把父母接到家里照顾，这样终于可以放心地工作。",
+          "en": "Yang works in Beijing and keeps close contact with his parents in Shanghai through calls and visits. Liu and Wang used to visit to cook and clean; when his mother became unwell, they brought both parents home and could work reassured."
+        }
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 无论……都／也……",
+      "blocks": [
+        {
+          "zh": "无论平时工作有多忙，他每个周末都会给父母打电话。",
+          "en": "However busy he is, he calls his parents every weekend."
+        },
+        {
+          "zh": "只要你努力了，无论你考多少分，你在我们眼里都是最优秀的。",
+          "en": "If you tried, whatever your score, you are the best in our eyes."
+        },
+        {
+          "zh": "无论你遇到什么困难，我都会在你身边。",
+          "en": "Whatever difficulties you face, I will be beside you."
+        },
+        {
+          "zh": "她很爱读书，____，都要带上一本书。（待）",
+          "en": "She loves reading and takes a book wherever…. (stay)",
+          "input": true,
+          "answers": [
+            {
+              "zh": "无论在哪里待",
+              "en": "wherever she stays"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "父亲无论多忙，周末____。（陪）",
+          "en": "However busy Dad is, on weekends…. (accompany)",
+          "input": true,
+          "answers": [
+            {
+              "zh": "都会陪我们",
+              "en": "he always spends time with us"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "____，我都相信我们能成功。（条件）",
+          "en": "…, I believe we can succeed. (conditions)",
+          "input": true,
+          "answers": [
+            {
+              "zh": "无论条件怎么样",
+              "en": "Whatever the conditions"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        23,
+        24
+      ],
+      "intro": "无论……都／也…… indicates that the result stays the same under any circumstances."
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "下班回家，林静静将父母从老家寄来的鸡汤热了热，当闻到从小就熟悉的味道时，平时冷静的她鼻子还是酸了。",
+          "en": "After work, Lin Jingjing heated chicken soup sent by her parents. Its familiar childhood aroma brought tears to the usually composed woman."
+        },
+        {
+          "zh": "林静静一个人来北京工作三年了，父母总是担心她为了节约时间而不好好吃饭，所以每个月都给她寄各种好吃的。这次母亲专门做了林静静最爱喝的鸡汤，为了让食物新鲜，父亲选择了城里最快的快递，上午寄出，下午就能收到。",
+          "en": "She has worked alone in Beijing for three years. Worried she neglects meals to save time, her parents send food monthly. Her mother made her favourite soup; her father chose the fastest courier so it arrived the same afternoon, fresh."
+        },
+        {
+          "zh": "鸡汤很鲜，林静静心里更暖，她觉得父母好像就在身边。都说“儿行千里母担忧”，父母总对她说：“遇到困难别害怕，要勇敢面对，任何时候都可以和父母商量。”尽管在大城市生活压力有些大，但每当想到父母的这些话，尝到来自老家熟悉的味道，她就觉得又能笑着面对生活了。",
+          "en": "The tasty soup warmed her heart, as though her parents were beside her. Parents worry when children travel far. They tell her to face difficulties bravely and consult them anytime. Despite city pressures, their words and familiar food restore her ability to face life with a smile."
+        },
+        {
+          "zh": "父亲为什么选择最快的快递？",
+          "en": "Why did her father choose the fastest courier?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "为了让食物新鲜，下午就能收到。",
+              "en": "To keep food fresh and have it arrive that afternoon."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "是什么让林静静能“笑着面对生活”？",
+          "en": "What helps Lin face life with a smile?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "父母关心她的话和老家熟悉的味道。",
+              "en": "Her parents’ caring words and familiar tastes from home."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "intro": "Read the text aloud."
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 为了……而……",
+      "blocks": [
+        {
+          "zh": "父母总是担心她为了节约时间而不好好吃饭。",
+          "en": "Her parents worry she neglects meals to save time."
+        },
+        {
+          "zh": "我们都在为了生活幸福而努力工作着。",
+          "en": "We all work hard for a happy life."
+        },
+        {
+          "zh": "他们为了保护环境而拒绝使用纸杯。",
+          "en": "They refuse paper cups to protect the environment."
+        },
+        {
+          "zh": "我为了这次比赛____。",
+          "en": "For this competition I….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "而认真准备了很久",
+              "en": "prepared carefully for a long time"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "他____而努力学中文。",
+          "en": "He studies Chinese hard in order to….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "为了在中国工作",
+              "en": "work in China"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "____努力练习。",
+          "en": "…practises hard.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她为了提高成绩而",
+              "en": "She, to improve her results,"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        25
+      ],
+      "intro": "为了 introduces a purpose; 而 introduces the action taken to achieve it."
+    },
+    {
+      "id": "tips",
+      "title": "Xiaoyu’s Tips",
+      "blocks": [
+        {
+          "zh": "“老妈”是口语中对母亲的一种亲切、亲昵的称呼。",
+          "en": "老妈 is an affectionate informal term for one’s mother."
+        },
+        {
+          "zh": "在中国家庭中，常常会按照孩子的辈分来称呼家庭成员，这样更亲切，也方便孩子理解家庭关系。",
+          "en": "Chinese families often use the child’s perspective when addressing relatives, making relationships clearer and warmer."
+        },
+        {
+          "zh": "“儿行千里母担忧”的意思是孩子长大后无论去哪里，父母都担心、牵挂着。",
+          "en": "“A mother worries when her child travels far” means parents care about their grown children wherever they go."
+        }
+      ],
+      "sourcePages": [
+        18,
+        20,
+        24
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "heading": "Word bank · Questions 1–6",
+          "zh": "自　无论　允许　冷静　值　鲜",
+          "en": "since; regardless; allow; calm; worth; tasty"
+        },
+        {
+          "zh": "这位护士工作认真，最大的优点是遇到任何事情都很____。",
+          "en": "This diligent nurse’s strength is remaining … in any situation.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "冷静",
+              "en": "calm"
+            }
+          ],
+          "heading": "Fill in the blank · 1"
+        },
+        {
+          "zh": "这家饭馆的汤味道特别____，每次来我都要点。",
+          "en": "This restaurant’s soup is particularly …; I order it each time.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "鲜",
+              "en": "tasty"
+            }
+          ],
+          "heading": "Fill in the blank · 2"
+        },
+        {
+          "zh": "____你多大，在父母眼里，你一直都是那个需要被照顾的孩子。",
+          "en": "…your age, to your parents you remain a child needing care.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "无论",
+              "en": "Regardless of"
+            }
+          ],
+          "heading": "Fill in the blank · 3"
+        },
+        {
+          "zh": "看到母亲那么喜欢这件毛衣，我觉得花多少钱都____了。",
+          "en": "Seeing Mum love the sweater makes any price….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "值",
+              "en": "worthwhile"
+            }
+          ],
+          "heading": "Fill in the blank · 4"
+        },
+        {
+          "zh": "小徐____2006年就离开了老家，在上海读大学，毕业后又在那儿工作了。",
+          "en": "Xiao Xu has been away …2006, studying and working in Shanghai.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "自",
+              "en": "since"
+            }
+          ],
+          "heading": "Fill in the blank · 5"
+        },
+        {
+          "zh": "我们换条路走吧，前面那个路口不____右转。",
+          "en": "Let’s change routes; that junction does not … right turns.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "允许",
+              "en": "allow"
+            }
+          ],
+          "heading": "Fill in the blank · 6"
+        },
+        {
+          "heading": "Word bank · Questions 7–12",
+          "zh": "估计　另外　待　烦　质量　脾气",
+          "en": "guess; additionally; stay; annoyed; quality; temper"
+        },
+        {
+          "zh": "A：我想买这条裤子送给妈妈。B：颜色很适合她，____也不错。",
+          "en": "I want these trousers for Mum. The colour suits her and the … is good.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "质量",
+              "en": "quality"
+            }
+          ],
+          "heading": "Fill in the blank · 7"
+        },
+        {
+          "zh": "A：你好像不太开心。B：昨天我的银行卡丢了，我现在心里很____。",
+          "en": "You seem unhappy. I lost my bank card and feel….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "烦",
+              "en": "annoyed"
+            }
+          ],
+          "heading": "Fill in the blank · 8"
+        },
+        {
+          "zh": "A：排队的人这么多，____得等很长时间。B：他家的包子好吃又便宜。",
+          "en": "So many people; I …we will wait a long time. Their buns are good and cheap.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "估计",
+              "en": "guess"
+            }
+          ],
+          "heading": "Fill in the blank · 9"
+        },
+        {
+          "zh": "A：对不起，我刚刚不应该对你发____。B：没关系。",
+          "en": "Sorry, I should not have lost my …with you. It’s all right.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "脾气",
+              "en": "temper"
+            }
+          ],
+          "heading": "Fill in the blank · 10"
+        },
+        {
+          "zh": "A：请加一碗米饭，____再加一双筷子。B：好的。",
+          "en": "Please add rice and …a pair of chopsticks. Sure.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "另外",
+              "en": "also"
+            }
+          ],
+          "heading": "Fill in the blank · 11"
+        },
+        {
+          "zh": "A：周末时我喜欢去公园散步，不喜欢在家____着。B：我也喜欢出去活动。",
+          "en": "I like park walks rather than …at home. I also enjoy going out.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "待",
+              "en": "staying"
+            }
+          ],
+          "heading": "Fill in the blank · 12"
+        }
+      ],
+      "sourcePages": [
+        26
+      ]
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "中午，一个外卖员到奶茶店取餐，拿到后一看，____，上面还写着：“爸爸，生日快乐！天气很热，____。”原来，外卖员忙着工作，____，但他的女儿没有忘。看着这份生日礼物，____。他喝了奶茶，又继续努力工作。",
+          "en": "At noon a delivery worker collected milk tea and saw ____. The note read: “Happy birthday, Dad! It is hot; ____.” Busy with work, he ____, but his daughter remembered. Seeing the gift, ____. He drank it and continued working."
+        },
+        {
+          "heading": "A",
+          "zh": "忘记了今天是自己的生日",
+          "en": "forgot it was his birthday"
+        },
+        {
+          "heading": "B",
+          "zh": "没想到送餐地址是自己家",
+          "en": "did not expect the delivery address to be his home"
+        },
+        {
+          "heading": "C",
+          "zh": "外卖员的眼睛红了",
+          "en": "the delivery worker’s eyes reddened"
+        },
+        {
+          "heading": "D",
+          "zh": "要注意身体",
+          "en": "take care of your health"
+        },
+        {
+          "heading": "Gap 1",
+          "zh": "第1空：____",
+          "en": "Gap 1",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "没想到送餐地址是自己家",
+              "en": "B · did not expect the delivery address to be his home"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 2",
+          "zh": "第2空：____",
+          "en": "Gap 2",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "要注意身体",
+              "en": "D · take care of your health"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 3",
+          "zh": "第3空：____",
+          "en": "Gap 3",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "忘记了今天是自己的生日",
+              "en": "A · forgot it was his birthday"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 4",
+          "zh": "第4空：____",
+          "en": "Gap 4",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "外卖员的眼睛红了",
+              "en": "C · the delivery worker’s eyes reddened"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        26
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c12-exercise.jpg",
+          "alt": "Original chapter 12 picture-writing prompts"
+        },
+        {
+          "zh": "老家",
+          "en": "Use 老家 to describe picture 1.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我的老家有一条河。",
+              "en": "There is a river in my hometown."
+            }
+          ]
+        },
+        {
+          "zh": "烦",
+          "en": "Use 烦 to describe picture 2.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她听到这些声音，觉得很烦。",
+              "en": "She feels annoyed by these sounds."
+            }
+          ]
+        },
+        {
+          "zh": "商量",
+          "en": "Use 商量 to describe picture 3.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们正在商量一件事。",
+              "en": "They are discussing something."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "zh": "三人一组，一人扮演杨同乐，两人扮演他的父母。周末晚上，杨同乐给父母打电话聊天儿。",
+          "en": "In groups of three, role-play Yang phoning his parents on a weekend evening.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "爸爸、妈妈，你们最近身体怎么样？",
+              "en": "Dad and Mum, how have you been feeling?"
+            },
+            {
+              "zh": "我们很好，你工作再忙也要好好吃饭。",
+              "en": "We are well. Eat properly however busy work gets."
+            },
+            {
+              "zh": "好的，我有时间就回去看你们。",
+              "en": "I will visit when I have time."
+            }
+          ],
+          "heading": "Role-play"
+        },
+        {
+          "zh": "你喜欢大家庭，还是小家庭？请写一篇短文说明理由，不少于140字。",
+          "en": "Do you prefer an extended or nuclear family? Explain why in at least 140 Chinese characters.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我比较喜欢大家庭，因为一家人住在一起，可以互相照顾。爷爷、奶奶有很多生活经验，我遇到问题时，喜欢听听他们的想法。父母工作忙的时候，家里其他人也能帮忙。晚上大家一起吃饭，聊聊一天发生的事，我觉得很幸福。当然，住在一起也可能有不同的意见。无论谁不开心，我们都应该先冷静下来，好好商量，不能因为一点儿小事就发脾气。如果自己做错了，就要勇敢道歉。我认为幸福的家庭不是从来没有问题，而是每个人都愿意关心别人，为了全家的幸福而一起努力。",
+              "en": "I prefer an extended family because we can care for one another. Grandparents offer experience and others help when parents are busy. Shared dinners make me happy. Differences still arise, so we should stay calm, discuss them and apologise for mistakes. A happy family is not problem-free; its members care for others and work together."
+            }
+          ],
+          "heading": "Writing · at least 140 characters",
+          "minChars": 140
+        }
+      ],
+      "sourcePages": [
+        27
+      ]
+    },
+    {
+      "id": "bonus",
+      "title": "Xiaoyu’s bonus content",
+      "blocks": [
+        {
+          "zh": "中国人的家庭观念",
+          "en": "The Chinese concept of family"
+        }
+      ],
+      "note": "My notes after watching",
+      "sourcePages": [
+        27
+      ],
+      "intro": "The companion-video topic is provided in the book. Watch using the book’s digital resources, then save your notes."
+    },
+    {
+      "id": "summary",
+      "title": "Book self-assessment",
+      "blocks": [
+        {
+          "zh": "能使用本课词语谈论幸福家庭。",
+          "en": "I can discuss happy families using this chapter’s words.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        },
+        {
+          "zh": "能理解并运用本课语言点。",
+          "en": "I can use the chapter grammar.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        },
+        {
+          "zh": "能表达幸福的家庭应该是什么样子的，能讲述幸福家庭的故事。",
+          "en": "I can describe a happy family and tell family stories.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        }
+      ],
+      "sourcePages": [
+        28
+      ]
+    }
+  ]
+}

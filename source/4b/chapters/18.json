@@ -1,0 +1,1661 @@
+{
+  "id": 18,
+  "title": "科技改变生活",
+  "en": "Technology changes life",
+  "page": 90,
+  "grammar": [
+    "数词＋形容词＋量词",
+    "让／叫＋宾语＋动词",
+    "到底",
+    "然而"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    90,
+    102
+  ],
+  "words": [
+    {
+      "zh": "猜",
+      "en": "guess",
+      "example": {
+        "zh": "你到底在猜什么？",
+        "en": "What exactly are you guessing?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "共享单车",
+      "en": "shared bicycle",
+      "example": {
+        "zh": "这辆共享单车让他骑走了。",
+        "en": "He rode this shared bicycle away."
+      },
+      "grammar": "让／叫＋宾语＋动词"
+    },
+    {
+      "zh": "出口",
+      "en": "exit",
+      "example": {
+        "zh": "出口到底在哪儿？",
+        "en": "Where exactly is the exit?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "推",
+      "en": "push",
+      "example": {
+        "zh": "我推着车走了一小段路。",
+        "en": "I pushed the bicycle for a short stretch."
+      },
+      "grammar": "数词＋形容词＋量词"
+    },
+    {
+      "zh": "对",
+      "en": "direct at; towards",
+      "example": {
+        "zh": "你到底对着谁说话？",
+        "en": "Who exactly are you talking towards?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "二维码",
+      "en": "QR code",
+      "example": {
+        "zh": "这个二维码到底怎么用？",
+        "en": "How exactly do we use this QR code?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "注册",
+      "en": "register",
+      "example": {
+        "zh": "你到底注册了没有？",
+        "en": "Have you registered or not?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "费用",
+      "en": "cost; expense",
+      "example": {
+        "zh": "这次旅行的费用到底是多少？",
+        "en": "Exactly how much does this trip cost?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "说明",
+      "en": "instructions; explain",
+      "example": {
+        "zh": "使用说明让他拿走了。",
+        "en": "He took the instructions away."
+      },
+      "grammar": "让／叫＋宾语＋动词"
+    },
+    {
+      "zh": "办事",
+      "en": "run errands; handle affairs",
+      "example": {
+        "zh": "我想出去办事，然而外面下大雨了。",
+        "en": "I wanted to go out on errands, but it started raining heavily."
+      },
+      "grammar": "然而"
+    },
+    {
+      "zh": "差点儿",
+      "en": "almost",
+      "example": {
+        "zh": "我差点儿忘了一大包衣服。",
+        "en": "I almost forgot a large bag of clothes."
+      },
+      "grammar": "数词＋形容词＋量词"
+    },
+    {
+      "zh": "拍",
+      "en": "shoot; photograph",
+      "example": {
+        "zh": "这个视频到底是谁拍的？",
+        "en": "Who exactly shot this video?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "各个",
+      "en": "each; every",
+      "example": {
+        "zh": "各个班到底准备得怎么样了？",
+        "en": "How well has each class prepared?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "小组",
+      "en": "small group",
+      "example": {
+        "zh": "我们小组到底有几个人？",
+        "en": "Exactly how many people are in our group?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "讨论",
+      "en": "discuss",
+      "example": {
+        "zh": "你们到底在讨论什么？",
+        "en": "What exactly are you discussing?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "演",
+      "en": "play a role; perform",
+      "example": {
+        "zh": "这位老师到底演谁？",
+        "en": "Who exactly is this teacher playing?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "厨师",
+      "en": "cook; chef",
+      "example": {
+        "zh": "厨师做了一大碗面条。",
+        "en": "The chef made a large bowl of noodles."
+      },
+      "grammar": "数词＋形容词＋量词"
+    },
+    {
+      "zh": "各地",
+      "en": "various places",
+      "example": {
+        "zh": "各地的天气到底有什么不同？",
+        "en": "How exactly does the weather differ across places?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "著名",
+      "en": "famous",
+      "example": {
+        "zh": "这家饭馆很著名，然而我没去过。",
+        "en": "This restaurant is famous, but I have never been there."
+      },
+      "grammar": "然而"
+    },
+    {
+      "zh": "小吃",
+      "en": "snack; local delicacy",
+      "example": {
+        "zh": "他买了一大包小吃。",
+        "en": "He bought a large bag of snacks."
+      },
+      "grammar": "数词＋形容词＋量词"
+    },
+    {
+      "zh": "互联网",
+      "en": "internet",
+      "example": {
+        "zh": "互联网到底给我们带来了什么？",
+        "en": "What exactly has the internet brought us?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "点赞",
+      "en": "click Like",
+      "example": {
+        "zh": "你到底给谁点赞了？",
+        "en": "Whose post exactly did you like?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "AI眼镜",
+      "en": "AI glasses",
+      "example": {
+        "zh": "这副AI眼镜到底怎么用？",
+        "en": "How exactly do these AI glasses work?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "3D打印机",
+      "en": "3D printer",
+      "example": {
+        "zh": "这台3D打印机让老师搬走了。",
+        "en": "The teacher moved this 3D printer away."
+      },
+      "grammar": "让／叫＋宾语＋动词"
+    },
+    {
+      "zh": "上门",
+      "en": "visit someone at home",
+      "example": {
+        "zh": "他到底什么时候上门服务？",
+        "en": "Exactly when will he come to provide the home service?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "到底",
+      "en": "exactly; after all (emphasis in questions)",
+      "example": {
+        "zh": "你到底想买什么？",
+        "en": "What exactly do you want to buy?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "仅",
+      "en": "only",
+      "example": {
+        "zh": "我们仅走了一小段路。",
+        "en": "We walked only a short stretch."
+      },
+      "grammar": "数词＋形容词＋量词"
+    },
+    {
+      "zh": "多样",
+      "en": "varied; diverse",
+      "example": {
+        "zh": "这里的水果丰富多样，然而我只想买苹果。",
+        "en": "There are many kinds of fruit here, but I only want to buy apples."
+      },
+      "grammar": "然而"
+    },
+    {
+      "zh": "推出",
+      "en": "release; introduce",
+      "example": {
+        "zh": "这个新计划到底什么时候推出？",
+        "en": "Exactly when will this new plan be introduced?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "预约",
+      "en": "make an appointment",
+      "example": {
+        "zh": "我想预约，然而今天已经没有时间了。",
+        "en": "I wanted to make an appointment, but there were no times left today."
+      },
+      "grammar": "然而"
+    },
+    {
+      "zh": "取",
+      "en": "fetch; collect",
+      "example": {
+        "zh": "快递让妈妈取走了。",
+        "en": "Mother collected the parcel."
+      },
+      "grammar": "让／叫＋宾语＋动词"
+    },
+    {
+      "zh": "原因",
+      "en": "reason",
+      "example": {
+        "zh": "他不来的原因到底是什么？",
+        "en": "What exactly is the reason he is not coming?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "然而",
+      "en": "however",
+      "example": {
+        "zh": "我想去旅行，然而没有时间。",
+        "en": "I want to travel, but I have no time."
+      },
+      "grammar": "然而"
+    },
+    {
+      "zh": "不必",
+      "en": "need not",
+      "example": {
+        "zh": "你不必买了，面包都让他买回来了。",
+        "en": "You need not buy any; he has already brought the bread home."
+      },
+      "grammar": "让／叫＋宾语＋动词"
+    },
+    {
+      "zh": "亲戚",
+      "en": "relative",
+      "example": {
+        "zh": "我的亲戚送来了一大包水果。",
+        "en": "My relatives brought a large bag of fruit."
+      },
+      "grammar": "数词＋形容词＋量词"
+    },
+    {
+      "zh": "按",
+      "en": "according to; press",
+      "example": {
+        "zh": "你到底有没有按老师说的做？",
+        "en": "Did you actually do what the teacher said?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "提出",
+      "en": "propose; raise",
+      "example": {
+        "zh": "这个问题到底是谁提出的？",
+        "en": "Who exactly raised this question?"
+      },
+      "grammar": "到底"
+    },
+    {
+      "zh": "大大",
+      "en": "greatly",
+      "example": {
+        "zh": "这大大方便了大家，然而还有一些问题。",
+        "en": "This made things much more convenient, but some problems remain."
+      },
+      "grammar": "然而"
+    },
+    {
+      "zh": "现有",
+      "en": "existing; currently available",
+      "example": {
+        "zh": "现有的东西到底够不够？",
+        "en": "Are the things currently available enough or not?"
+      },
+      "grammar": "到底"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "厨师",
+      "en": "chef"
+    },
+    {
+      "zh": "推",
+      "en": "push"
+    },
+    {
+      "zh": "小吃",
+      "en": "snack"
+    },
+    {
+      "zh": "拍",
+      "en": "shoot a video"
+    },
+    {
+      "zh": "取",
+      "en": "fetch"
+    },
+    {
+      "zh": "3D打印机",
+      "en": "3D printer"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c18-warm-0.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "他在取东西。",
+        "en": "He is collecting something."
+      }
+    },
+    {
+      "image": "4b/c18-warm-1.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "这里有很多好吃的小吃。",
+        "en": "There are many delicious snacks here."
+      }
+    },
+    {
+      "image": "4b/c18-warm-2.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "这位厨师正在做饭。",
+        "en": "This chef is cooking."
+      }
+    },
+    {
+      "image": "4b/c18-warm-3.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "他推着车往前走。",
+        "en": "He is pushing the cart forward."
+      }
+    },
+    {
+      "image": "4b/c18-warm-4.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "这是一台3D打印机。",
+        "en": "This is a 3D printer."
+      }
+    },
+    {
+      "image": "4b/c18-warm-5.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "他用手机拍视频。",
+        "en": "He is shooting a video with his phone."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "你喜欢看什么样的短视频？",
+      "en": "What kinds of short videos do you like watching?",
+      "answers": [
+        {
+          "zh": "我喜欢看做饭的视频。",
+          "en": "I like cooking videos."
+        },
+        {
+          "zh": "我喜欢看中国各地的风景。",
+          "en": "I like seeing scenery from different places in China."
+        },
+        {
+          "zh": "我喜欢看教中文的视频，可以一边看一边学。",
+          "en": "I like Chinese teaching videos because I can learn while watching."
+        }
+      ]
+    },
+    {
+      "zh": "你拍过短视频吗？如果拍过，请介绍一下你拍的短视频；如果没拍过，你想不想试试拍短视频？",
+      "en": "Have you made a short video? If so, describe it; if not, would you like to try?",
+      "answers": [
+        {
+          "zh": "我拍过一次，是和朋友一起吃饭的时候拍的。",
+          "en": "I made one once while eating with friends."
+        },
+        {
+          "zh": "我还没拍过，但是想介绍一下我的学校。",
+          "en": "I have not yet, but I want to introduce my school."
+        },
+        {
+          "zh": "我喜欢看视频，不过现在还不想自己拍。",
+          "en": "I enjoy watching videos, but I do not want to make my own yet."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流新技术应用、科技进步改变生活等方面的话题。",
+          "en": "Understand and discuss new technologies and how technological progress changes life."
+        },
+        {
+          "zh": "能够口头或书面表达怎样拍摄短视频、对短视频的看法等。",
+          "en": "Explain how to make short videos and express opinions about them orally or in writing."
+        },
+        {
+          "zh": "了解中国的共享单车、短视频、上门经济等新经济形态。",
+          "en": "Understand China's bike-sharing, short videos and on-demand home-service economy."
+        }
+      ],
+      "sourcePages": [
+        90
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "安妮是怎么到白家月的学校的？",
+          "en": "How did Annie reach Bai's university?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "先骑车后坐地铁",
+              "en": "Bicycle then subway"
+            },
+            {
+              "zh": "先坐地铁后骑车",
+              "en": "Subway then bicycle"
+            },
+            {
+              "zh": "先骑车后坐公交车",
+              "en": "Bicycle then bus"
+            },
+            {
+              "zh": "先坐公交车后骑车",
+              "en": "Bus then bicycle"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "先坐公交车后骑车",
+              "en": "D · Bus then bicycle"
+            }
+          ]
+        },
+        {
+          "zh": "第一次骑共享单车，需要扫码后再在App上：",
+          "en": "After scanning the code for a first shared-bike ride, what must you do in the app?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "进行支付",
+              "en": "Pay"
+            },
+            {
+              "zh": "完成注册",
+              "en": "Register"
+            },
+            {
+              "zh": "查看信息",
+              "en": "View information"
+            },
+            {
+              "zh": "找回密码",
+              "en": "Recover a password"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "完成注册",
+              "en": "B · Register"
+            }
+          ]
+        },
+        {
+          "zh": "老师留的短视频作业是关于什么的？",
+          "en": "What was the assigned short video about?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "中国美食",
+              "en": "Chinese food"
+            },
+            {
+              "zh": "饮料广告",
+              "en": "Drink advertising"
+            },
+            {
+              "zh": "校园生活",
+              "en": "Campus life"
+            },
+            {
+              "zh": "著名景点",
+              "en": "Famous sights"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "中国美食",
+              "en": "A · Chinese food"
+            }
+          ]
+        },
+        {
+          "zh": "大家觉得安妮他们小组拍的短视频怎么样？",
+          "en": "What did people think of Annie's group video?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "有些无聊",
+              "en": "A little boring"
+            },
+            {
+              "zh": "效果一般",
+              "en": "Average"
+            },
+            {
+              "zh": "非常精彩",
+              "en": "Excellent"
+            },
+            {
+              "zh": "让人感动",
+              "en": "Moving"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "非常精彩",
+              "en": "C · Excellent"
+            }
+          ]
+        },
+        {
+          "zh": "安妮和朋友们怎么看科技的发展？",
+          "en": "What do Annie and her friends think about technological development?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "科技发展很快",
+              "en": "Technology develops quickly"
+            },
+            {
+              "zh": "科技不影响世界",
+              "en": "Technology does not affect the world"
+            },
+            {
+              "zh": "科技改变了人们的生活",
+              "en": "Technology changes people's lives"
+            },
+            {
+              "zh": "科技能帮人减轻工作压力",
+              "en": "Technology reduces work pressure"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "科技改变了人们的生活",
+              "en": "C · Technology changes people's lives"
+            }
+          ]
+        },
+        {
+          "zh": "安妮他们的短视频是用什么拍的？",
+          "en": "What did Annie's group use to shoot the video?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "相机",
+              "en": "Camera"
+            },
+            {
+              "zh": "手机",
+              "en": "Mobile phone"
+            },
+            {
+              "zh": "电脑",
+              "en": "Computer"
+            },
+            {
+              "zh": "电视",
+              "en": "Television"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "手机",
+              "en": "B · Mobile phone"
+            }
+          ]
+        },
+        {
+          "zh": "根据课文，上门服务怎么预约？",
+          "en": "According to the text, how are home services booked?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "直接打电话",
+              "en": "By telephone"
+            },
+            {
+              "zh": "在网上预约",
+              "en": "Online"
+            },
+            {
+              "zh": "在线下预约",
+              "en": "Offline"
+            },
+            {
+              "zh": "让服务员预约",
+              "en": "Through a waiter"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "在网上预约",
+              "en": "B · Online"
+            }
+          ]
+        },
+        {
+          "zh": "赵女士觉得上门服务怎么样？",
+          "en": "What does Ms Zhao think of home services?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "很方便",
+              "en": "Convenient"
+            },
+            {
+              "zh": "难预约",
+              "en": "Hard to book"
+            },
+            {
+              "zh": "价格低",
+              "en": "Cheap"
+            },
+            {
+              "zh": "不安全",
+              "en": "Unsafe"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "很方便",
+              "en": "A · Convenient"
+            }
+          ]
+        }
+      ],
+      "sourcePages": []
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "白家月：安妮，我们在这儿呢。",
+          "en": "Bai: Annie, we are over here."
+        },
+        {
+          "zh": "安妮：天中、家月，你们猜我是怎么过来的？",
+          "en": "Annie: Tianzhong, Jiayue, guess how I got here."
+        },
+        {
+          "zh": "白家月：坐公交车吗？",
+          "en": "Bai: By bus?"
+        },
+        {
+          "zh": "安妮：我先坐的公交车，然后骑共享单车，快到那边那个出口时又推了一小段。",
+          "en": "Annie: I took the bus first, then rode a shared bike. Near that exit, I pushed it for a short distance."
+        },
+        {
+          "zh": "白家月：我看很多人都骑共享单车，我还没骑过呢。",
+          "en": "Bai: I see many people riding shared bikes, but I have not tried one."
+        },
+        {
+          "zh": "陈天中：我骑过，很方便的。第一次骑的时候，你打开微信，对着共享单车上的二维码扫一下，在App上完成注册就可以了，怎么使用、费用标准什么的App上都有说明。",
+          "en": "Chen: I have; they are convenient. The first time, open WeChat, scan the bike's QR code and register in the app. The app explains how to use it, the charges and so on."
+        },
+        {
+          "zh": "白家月：好啊！哪天我出去办事时也试试。",
+          "en": "Bai: Great! I will try it one day when I go out on errands."
+        },
+        {
+          "zh": "白家月骑过共享单车吗？如果没骑过，她想什么时候骑？",
+          "en": "Has Bai ridden a shared bike? If not, when would she like to?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她没骑过，想哪天出去办事时试试。",
+              "en": "She has not, and wants to try one when she goes out on errands."
+            }
+          ]
+        },
+        {
+          "zh": "第一次骑共享单车时应该做些什么？了解些什么？",
+          "en": "What should you do and learn before your first shared-bike ride?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "应该打开微信扫码，在App上注册，并了解使用方法和费用标准。",
+              "en": "Open WeChat, scan the code, register in the app and learn how to use it and what it costs."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        91,
+        92
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "prompt": {
+          "zh": "安妮到白家月和陈天中的学校玩，她先坐……，然后……，快到一个出口时又……。白家月说她看很多人……，但她……呢。陈天中介绍说，他骑过共享单车，……。第一次……，打开微信，对着……扫一下，在App上……就可以了，而且，怎么使用、……什么的App上……。白家月听完表示，她哪天出去……。",
+          "en": "Annie visited her friends’ university. She first took …, then …, and near an exit she…. Bai had seen many people … but had not…. Chen said shared bikes were…. The first time, open WeChat, scan … and … in the app, which also explains use and…. Bai said she would … when going out…."
+        },
+        "answer": {
+          "zh": "安妮到白家月和陈天中的学校玩，她先坐公交车，然后骑共享单车，快到出口时又推了一小段。白家月还没骑过共享单车。陈天中说共享单车很方便，第一次骑时，打开微信扫码，在App上完成注册就可以了。App上有使用方法和费用标准的说明。白家月想哪天出去办事时试试。",
+          "en": "Annie took a bus and then a shared bike to visit her friends, pushing it briefly near the exit. Bai had never tried one. Chen explained that shared bikes are convenient: scan the code with WeChat and register in the app, which explains use and fees. Bai wanted to try one when running errands."
+        },
+        "pages": [
+          92
+        ]
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 数词＋形容词＋量词",
+      "blocks": [
+        {
+          "zh": "快到那边那个出口时又推了一小段。",
+          "en": "Near that exit, I pushed it for a short stretch."
+        },
+        {
+          "zh": "今天早上我没吃饭就去上班了，中午饿极了，吃了一大碗面条儿。",
+          "en": "I went to work without breakfast, was very hungry at noon and ate a large bowl of noodles."
+        },
+        {
+          "zh": "我今天又收到了妈妈寄来的快递，打开一看，除了衣服外，里边还有一大包巧克力。",
+          "en": "Mother sent another parcel today. Besides clothes, it contained a large bag of chocolate."
+        },
+        {
+          "zh": "A：这____，够热闹的。 B：今天是我生日，请朋友们来家里一起聚聚，热闹热闹。",
+          "en": "What a lively …! It is my birthday, so I invited friends over.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "一大屋子人",
+              "en": "whole roomful of people"
+            }
+          ]
+        },
+        {
+          "zh": "A：最近天气有些热，我天天喝绿茶。 B：我也是，昨天又买了____。",
+          "en": "It has been hot, so I drink green tea daily. Me too; yesterday I bought another ….",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "一大包茶叶",
+              "en": "large packet of tea leaves"
+            }
+          ]
+        },
+        {
+          "zh": "A：您太客气了，怎么做了____？ B：不客气，你们好不容易来一次，我特别开心。",
+          "en": "You are so kind; why did you prepare …? You rarely visit, so I am delighted.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "一大桌子菜",
+              "en": "a whole tableful of dishes"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        92
+      ],
+      "intro": "“数词＋形容词＋量词” emphasises size or amount, often with 一 and 大／小 in spoken Chinese: 一大碗、一小段.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "安妮：差点儿忘了，我给你们看个短视频。",
+          "en": "Annie: I nearly forgot. Let me show you a short video."
+        },
+        {
+          "zh": "白家月：啊？你们拍的？真不错！",
+          "en": "Bai: Oh, did you make it? It is really good!"
+        },
+        {
+          "zh": "安妮：对！前段时间老师留了个作业，叫各个小组拍个短视频，介绍中国美食。我们小组讨论后决定，由AI小语演厨师，做出中国各地的著名小吃。拍完后，老师说很不错。",
+          "en": "Annie: Yes! Our teacher assigned each group a short video introducing Chinese food. We decided that AI Xiaoyu would play a chef making famous snacks from around China. The teacher liked the finished video."
+        },
+        {
+          "zh": "陈天中：嗯，语言也很幽默！",
+          "en": "Chen: The language is humorous too!"
+        },
+        {
+          "zh": "安妮：后来这个视频让我同学放到了互联网上，很多人都来点赞。",
+          "en": "Annie: A classmate later posted it online, and many people liked it."
+        },
+        {
+          "zh": "白家月：看来大家都喜欢这个视频。",
+          "en": "Bai: It seems everyone likes the video."
+        },
+        {
+          "zh": "安妮：后边我们打算拍第二个、第三个，让小语带大家到中国各地走一走、看一看。",
+          "en": "Annie: We plan to make a second and third video, with Xiaoyu showing people different parts of China."
+        },
+        {
+          "zh": "陈天中：这样大家就能通过你们的视频了解中国了，我支持你们！",
+          "en": "Chen: Then people can learn about China through your videos. You have my support!"
+        },
+        {
+          "zh": "老师留作业后，安妮和同学们拍了什么样的短视频？",
+          "en": "What video did Annie and her classmates make?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们让AI小语演厨师，介绍中国各地的著名小吃。",
+              "en": "They had AI Xiaoyu play a chef introducing famous snacks from around China."
+            }
+          ]
+        },
+        {
+          "zh": "安妮后边还想拍什么短视频？",
+          "en": "What videos does Annie want to make next?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她想让小语带大家到中国各地走一走、看一看。",
+              "en": "She wants Xiaoyu to show people different parts of China."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        93,
+        94
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 让／叫＋宾语＋动词",
+      "blocks": [
+        {
+          "zh": "后来这个视频让我同学放到了互联网上。",
+          "en": "Later this video was posted online by my classmate."
+        },
+        {
+          "zh": "门叫小明给关上了。",
+          "en": "The door was closed by Xiaoming."
+        },
+        {
+          "zh": "不好意思，月饼都让我吃了。",
+          "en": "Sorry, I ate all the mooncakes."
+        },
+        {
+          "zh": "A：那双鞋你没买到吗？ B：对，____买去了。",
+          "en": "Did you miss out on those shoes? Yes, … bought them.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "那双鞋让别人",
+              "en": "someone else"
+            }
+          ]
+        },
+        {
+          "zh": "A：杯子在哪儿呢？ B：杯子____。",
+          "en": "Where is the cup? The cup ….",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "让妈妈拿走了",
+              "en": "was taken away by Mother"
+            }
+          ]
+        },
+        {
+          "zh": "A：你的手机呢？ B：____。",
+          "en": "Where is your phone?",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我的手机叫弟弟拿去看视频了。",
+              "en": "My younger brother took my phone to watch videos."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        94,
+        95
+      ],
+      "intro": "“主语＋让／叫＋宾语＋动词＋其他成分” expresses the passive voice. The subject receives the action; the person after 让／叫 performs it. It is common in conversation.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "安妮骑共享单车到了白家月、陈天中的学校，三人从共享单车聊到AI眼镜和3D打印机，从绿色经济聊到上门经济。科技到底对世界产生了怎样的影响？他们都认为，科技确实改变了人们的生活。",
+          "en": "Annie rode a shared bike to her friends’ university. The three discussed shared bikes, AI glasses, 3D printers, the green economy and home services. What impact has technology had on the world? They all agreed it has changed people's lives."
+        },
+        {
+          "zh": "接着，安妮给大家看了她和同学们拍的短视频。安妮说，短视频是用手机拍的，他们装了一些免费的App，仅用几天就拍完了。视频里，小语做的小吃丰富多样，看起来好吃极了。短视频推出后，大家认为非常精彩，白家月和陈天中看后也特别喜欢，并且表示支持他们拍更多的视频。",
+          "en": "Annie then showed the video she and her classmates made. They installed free apps on their phones and completed filming in just a few days. Xiaoyu's varied snacks looked delicious. Viewers found the released video excellent. Bai and Chen also loved it and supported making more."
+        },
+        {
+          "zh": "安妮和同学们的短视频是怎么拍的？",
+          "en": "How did Annie and her classmates make their video?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们用手机，装了一些免费的App，仅用几天就拍完了。",
+              "en": "They used phones with free apps and finished in just a few days."
+            }
+          ]
+        },
+        {
+          "zh": "对于安妮他们拍的短视频，白家月和陈天中有什么想法？",
+          "en": "What did Bai and Chen think of the video?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们特别喜欢，并支持安妮他们拍更多的视频。",
+              "en": "They loved it and supported making more videos."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        95,
+        96
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "prompt": {
+          "zh": "安妮骑……到了白家月、陈天中的学校，三人从……聊到AI眼镜和3D打印机，从……聊到上门经济。科技到底对世界产生了怎样的影响？他们都认为，……。接着，安妮给大家看了……。安妮说，短视频是……，他们装了一些……，仅用几天就……。视频里，……做的小吃……，看起来……。短视频推出后，大家认为……，白家月和陈天中看后也……，并且表示……。",
+          "en": "Annie rode … to the university. They discussed …, AI glasses, 3D printers, … and home services, agreeing that…. She showed them…. It was filmed with … using … and finished in…. In the video, … made snacks that were … and looked…. After release, viewers thought …; her friends also … and supported…."
+        },
+        "answer": {
+          "zh": "安妮骑共享单车到朋友们的学校，大家从共享单车聊到AI眼镜和3D打印机，从绿色经济聊到上门经济。他们认为科技改变了人们的生活。接着安妮给大家看了她和同学们拍的短视频。他们用手机和免费的App，仅用几天就拍完了。视频里，小语做的小吃丰富多样，看起来很好吃。大家都觉得视频很精彩，白家月和陈天中也支持他们拍更多的视频。",
+          "en": "Annie and her friends discussed shared bikes, AI glasses, 3D printers and new economic models, agreeing that technology changes life. She showed a video made with phones and free apps in only a few days. Xiaoyu prepared varied, delicious-looking snacks. Everyone found it excellent, and Bai and Chen supported more videos."
+        },
+        "pages": [
+          96
+        ]
+      }
+    },
+    {
+      "id": "tips",
+      "title": "Xiaoyu’s Tips",
+      "blocks": [
+        {
+          "zh": "绿色经济是兼顾经济发展、节约资源和保护环境的经济模式。",
+          "en": "A green economy balances economic development, resource conservation and environmental protection."
+        }
+      ],
+      "sourcePages": [
+        95
+      ]
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 到底",
+      "blocks": [
+        {
+          "zh": "科技到底对世界产生了怎样的影响？",
+          "en": "What exactly has technology's impact on the world been?"
+        },
+        {
+          "zh": "你们到底还来不来？",
+          "en": "Are you coming or not?"
+        },
+        {
+          "zh": "你到底是怎么想的？为什么不同意？",
+          "en": "What exactly are you thinking? Why do you disagree?"
+        },
+        {
+          "zh": "你们____呢？（点赞）",
+          "en": "What exactly …? (click Like)",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "到底给谁点赞了",
+              "en": "whose post did you like"
+            }
+          ]
+        },
+        {
+          "zh": "这个AI眼镜____？还是请他____。（说明）",
+          "en": "These AI glasses …? We had better ask him to … (explain).",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "到底怎么用；说明一下",
+              "en": "how exactly do they work; explain"
+            }
+          ]
+        },
+        {
+          "zh": "这次旅行____？咱们还是一起算一下吧。（费用）",
+          "en": "This trip …? Let's calculate it together. (cost)",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "费用到底是多少",
+              "en": "exactly how much does it cost"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        96,
+        97
+      ],
+      "intro": "“到底” is used in questions for persistent inquiry or emphasis: what exactly, who on earth, or whether something really is the case.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "随着互联网技术的发展，现在又出现了一种新的服务方式——上门经济，就是预约者通过网上预约，让服务人员在合适的时间到家里或者约好的地点服务，服务内容有上门做饭、照顾小动物、取东西等。赵女士养了一只猫，由于工作等原因，她需要经常出差，然而又很担心猫的安全。有了上门服务后，她觉得方便多了，不必再找亲戚帮忙。每次出差，在网上预约并支付费用后，服务人员就会按她提出的要求上门照顾小猫，大大减轻了她的压力，赵女士也特别满意。",
+          "en": "Internet technology has enabled the home-service economy. Customers book online for workers to visit their home or another agreed location at a suitable time. Services include cooking, pet care and collecting items. Ms Zhao has a cat and travels often for work, worrying about its safety. Home services mean she no longer needs relatives to help. Before each trip she books and pays online, and workers care for the cat according to her requests. This greatly reduces her stress, and she is satisfied."
+        },
+        {
+          "zh": "当然，上门经济也有一些问题，特别是现有服务人员有些还不够专业，需要重新学习，提高服务质量。",
+          "en": "Of course, home services also face problems. Some current workers are not sufficiently professional and need further learning to improve service quality."
+        },
+        {
+          "zh": "什么是上门经济？",
+          "en": "What is the home-service economy?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "顾客在网上预约，让服务人员到家里或约好的地点提供服务。",
+              "en": "Customers book online for workers to provide services at their home or an agreed location."
+            }
+          ]
+        },
+        {
+          "zh": "上门经济还有什么问题？",
+          "en": "What problems remain with home services?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "有些服务人员还不够专业，需要学习并提高服务质量。",
+              "en": "Some workers need more professional skills and training to improve service quality."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        97,
+        98
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 然而",
+      "blocks": [
+        {
+          "zh": "由于工作等原因，她需要经常出差，然而又很担心猫的安全。",
+          "en": "She needs to travel often for work, but worries about her cat's safety."
+        },
+        {
+          "zh": "毕业旅行现在越来越流行，然而由于学生没什么社会和生活经验，可能会遇到各种问题。",
+          "en": "Graduation trips are increasingly popular, but students may face problems because they lack social and life experience."
+        },
+        {
+          "zh": "春天应该是花开的季节，然而由于前一段时间下大雪，现在花都没开。",
+          "en": "Spring should be the flowering season, but because of recent heavy snow, the flowers have not bloomed."
+        },
+        {
+          "zh": "我们计划了一周，____，天却下起了大雨。",
+          "en": "We planned for a week, …, but it began to rain heavily.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "然而刚准备出发",
+              "en": "but just as we were ready to leave"
+            }
+          ]
+        },
+        {
+          "zh": "他想站起来，____，怎么也站不起来。",
+          "en": "He wanted to stand, …, and could not get up.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "然而腿受伤了",
+              "en": "but his leg was injured"
+            }
+          ]
+        },
+        {
+          "zh": "他很想出去旅行，____。",
+          "en": "He really wants to travel, ….",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "然而最近工作太忙了",
+              "en": "but he has been too busy at work lately"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        98,
+        99
+      ],
+      "intro": "“然而” begins a contrasting clause: what follows contrasts with the earlier situation or goes against expectations.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "heading": "Word bank 1",
+          "zh": "互联网、猜、提出、按、差点儿、各地",
+          "en": "internet; guess; propose; according to; almost; various places"
+        },
+        {
+          "heading": "Word bank 2",
+          "zh": "推出、不必、到底、讨论、仅、取",
+          "en": "release; need not; exactly; discuss; only; collect"
+        },
+        {
+          "zh": "请大家____一下，我手里拿的是什么东西？",
+          "en": "Please … what I am holding.",
+          "heading": "Fill in the blank · 1",
+          "input": true,
+          "solution": "猜",
+          "answers": [
+            {
+              "zh": "猜",
+              "en": "guess"
+            }
+          ]
+        },
+        {
+          "zh": "你从手机上打开使用说明，____说明一步一步做就行了。",
+          "en": "Open the instructions on your phone and follow them step by step, … the instructions.",
+          "heading": "Fill in the blank · 2",
+          "input": true,
+          "solution": "按",
+          "answers": [
+            {
+              "zh": "按",
+              "en": "according to"
+            }
+          ]
+        },
+        {
+          "zh": "春节前，____火车站都增加了服务人员，保证大家出行安全。",
+          "en": "Before Spring Festival, stations in … increased staff for safe travel.",
+          "heading": "Fill in the blank · 3",
+          "input": true,
+          "solution": "各地",
+          "answers": [
+            {
+              "zh": "各地",
+              "en": "various places"
+            }
+          ]
+        },
+        {
+          "zh": "他们____了一个能够更好地保护环境的建议。",
+          "en": "They … a suggestion to better protect the environment.",
+          "heading": "Fill in the blank · 4",
+          "input": true,
+          "solution": "提出",
+          "answers": [
+            {
+              "zh": "提出",
+              "en": "proposed"
+            }
+          ]
+        },
+        {
+          "zh": "由于早上起晚了，他们____没赶上飞机。",
+          "en": "They woke late and … missed the plane.",
+          "heading": "Fill in the blank · 5",
+          "input": true,
+          "solution": "差点儿",
+          "answers": [
+            {
+              "zh": "差点儿",
+              "en": "almost"
+            }
+          ]
+        },
+        {
+          "zh": "____让我们的生活越来越方便，我们可以在网上购物，也可以和在外地的父母视频聊天儿。",
+          "en": "The … makes life more convenient, enabling shopping and video calls with distant parents.",
+          "heading": "Fill in the blank · 6",
+          "input": true,
+          "solution": "互联网",
+          "answers": [
+            {
+              "zh": "互联网",
+              "en": "internet"
+            }
+          ]
+        },
+        {
+          "zh": "A：经理，这次调查发现，还是有一些客人对我们酒店的服务不太满意。 B：我们周五开个会，____一下怎么解决这个问题。",
+          "en": "Some surveyed guests remain dissatisfied with our hotel service. Let's meet Friday to … a solution.",
+          "heading": "Fill in the blank · 7",
+          "input": true,
+          "solution": "讨论",
+          "answers": [
+            {
+              "zh": "讨论",
+              "en": "discuss"
+            }
+          ]
+        },
+        {
+          "zh": "A：这是什么菜？味道真好，我以前都没吃过。 B：您好，这是我们新____的一道菜，叫香辣鱼块。",
+          "en": "What is this delicious dish? It is our newly … spicy fish.",
+          "heading": "Fill in the blank · 8",
+          "input": true,
+          "solution": "推出",
+          "answers": [
+            {
+              "zh": "推出",
+              "en": "introduced"
+            }
+          ]
+        },
+        {
+          "zh": "A：你们的这个小船____是不是用纸做的？ B：是用纸做的，但不是普通的纸。",
+          "en": "Is this little boat really made of paper? Yes, but not ordinary paper.",
+          "heading": "Fill in the blank · 9",
+          "input": true,
+          "solution": "到底",
+          "answers": [
+            {
+              "zh": "到底",
+              "en": "really; exactly"
+            }
+          ]
+        },
+        {
+          "zh": "A：我去____个快递，顺便买个早餐，你想吃什么？ B：给我带两个包子吧。",
+          "en": "I will … a parcel and buy breakfast. What would you like? Two buns, please.",
+          "heading": "Fill in the blank · 10",
+          "input": true,
+          "solution": "取",
+          "answers": [
+            {
+              "zh": "取",
+              "en": "collect"
+            }
+          ]
+        },
+        {
+          "zh": "A：这把伞我明天就还给你。 B：你用吧，____还给我了，我还有一把。",
+          "en": "I will return your umbrella tomorrow. Keep it; you … return it, as I have another.",
+          "heading": "Fill in the blank · 11",
+          "input": true,
+          "solution": "不必",
+          "answers": [
+            {
+              "zh": "不必",
+              "en": "need not"
+            }
+          ]
+        },
+        {
+          "zh": "A：这道题我们都做不出来，他____用不到五分钟就做出来了。 B：我知道他特别聪明。",
+          "en": "None of us could solve it, but he used … less than five minutes. I know he is clever.",
+          "heading": "Fill in the blank · 12",
+          "input": true,
+          "solution": "仅",
+          "answers": [
+            {
+              "zh": "仅",
+              "en": "only"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        99
+      ]
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "随着科技的发展，社会上有了一种新的看病方式——线上看病，互联网医院就这样出现了。____，就可以在互联网医院线上看病。____：首先病人根据病情选择好医院和科室，然后在网上填写姓名、身体情况和看病经历等，____。互联网医院的出现，____，这种方式也越来越受到欢迎。",
+          "en": "Technology has brought online medical consultations and internet hospitals. …, patients can consult online. …: first choose a hospital and department according to the condition, then enter personal details, health information and medical history online, …. Internet hospitals …, and this approach is becoming more popular."
+        },
+        {
+          "heading": "A",
+          "zh": "线上看病一般分为以下几步",
+          "en": "online consultations generally involve the following steps"
+        },
+        {
+          "heading": "B",
+          "zh": "病人只要有手机和网络",
+          "en": "as long as patients have a phone and internet access"
+        },
+        {
+          "heading": "C",
+          "zh": "给人们看病提供了方便",
+          "en": "have made medical consultations more convenient"
+        },
+        {
+          "heading": "D",
+          "zh": "最后才能和医生线上交流",
+          "en": "only then can they speak with the doctor online"
+        },
+        {
+          "heading": "Gap 1",
+          "zh": "第1空：____",
+          "en": "Choose A, B, C or D for gap 1.",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "病人只要有手机和网络",
+              "en": "B · as long as patients have a phone and internet access"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 2",
+          "zh": "第2空：____",
+          "en": "Choose A, B, C or D for gap 2.",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "线上看病一般分为以下几步",
+              "en": "A · online consultations generally involve the following steps"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 3",
+          "zh": "第3空：____",
+          "en": "Choose A, B, C or D for gap 3.",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "最后才能和医生线上交流",
+              "en": "D · only then can they speak with the doctor online"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 4",
+          "zh": "第4空：____",
+          "en": "Choose A, B, C or D for gap 4.",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "给人们看病提供了方便",
+              "en": "C · have made medical consultations more convenient"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        100
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c18-exercise.jpg",
+          "alt": "Original chapter 18 picture-writing exercise"
+        },
+        {
+          "heading": "Picture 1",
+          "zh": "小组",
+          "en": "small group",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我们小组正在讨论工作。",
+              "en": "Our group is discussing work."
+            }
+          ]
+        },
+        {
+          "heading": "Picture 2",
+          "zh": "亲戚",
+          "en": "relative",
+          "input": true,
+          "answers": [
+            {
+              "zh": "亲戚们聚在一起吃饭。",
+              "en": "The relatives have gathered for a meal."
+            }
+          ]
+        },
+        {
+          "heading": "Picture 3",
+          "zh": "办事",
+          "en": "handle affairs",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他正在办事，工作人员在帮助他。",
+              "en": "He is handling some business, and a staff member is helping him."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        100
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "zh": "三至四人一组，根据亲身经历，谈谈科技的发展给人们生活带来的便利，讨论后由一人报告小组讨论结果。",
+          "en": "In groups of three or four, discuss personal experiences of how technology makes life convenient, then have a representative report the results.",
+          "heading": "Group discussion",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我可以在网上买东西，不用出门。",
+              "en": "I can shop online without leaving home."
+            },
+            {
+              "zh": "我每天和家人视频聊天儿，觉得我们没有离得很远。",
+              "en": "I video-chat with my family daily and do not feel far away."
+            },
+            {
+              "zh": "手机地图能帮助我找到想去的地方。",
+              "en": "Phone maps help me find places I want to visit."
+            }
+          ]
+        },
+        {
+          "zh": "安妮和同学们拍的短视频很有意思，很多人点赞。请以“我也想拍个短视频”为题目，写一篇短文，谈谈你想拍什么样的短视频，想怎么拍，不少于140字。",
+          "en": "Write at least 140 Chinese characters titled “I Want to Make a Short Video, Too”, explaining what you want to film and how.",
+          "heading": "Writing · at least 140 characters",
+          "input": true,
+          "minChars": 140,
+          "answers": [
+            {
+              "zh": "我也想拍个短视频，向朋友们介绍我的学校。我打算和两位同学一起完成这个任务。首先，我们要讨论内容，选好拍摄的时间和地点。然后，我用手机拍学校的教室、图书馆和操场，一位同学负责介绍，另一位同学帮我们检查声音。我们还想请老师说几句话，让大家了解学校的课程。拍完以后，我们会用免费的App把视频做好，加上简单的中文和英文说明。最后，我们把视频发给家人和朋友，请他们提出建议。我希望通过这个视频，让更多人喜欢我们的学校，也让自己的中文口语取得进步。",
+              "en": "I want to make a short video introducing my school with two classmates. We will discuss content, timing and locations. I will film classrooms, the library and sports field on my phone; one classmate will present and the other check sound. We will invite a teacher to introduce courses. Afterwards we will edit with a free app and add simple Chinese and English explanations. We will share it with family and friends for feedback. I hope more people will like our school and that my spoken Chinese will improve."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "bonus",
+      "title": "Xiaoyu’s bonus content",
+      "blocks": [
+        {
+          "zh": "中国的共享经济新形态——“租享万物”",
+          "en": "China’s New Sharing Economy: Everything for Rent"
+        }
+      ],
+      "sourcePages": [
+        101
+      ],
+      "intro": "Companion-video topic from the book. Use the book’s digital resources to watch the video.",
+      "note": "My notes after watching"
+    },
+    {
+      "id": "summary",
+      "title": "Book learning summary",
+      "blocks": [
+        {
+          "zh": "能使用本课“共享单车、拍、互联网、上门、推出、预约、不必、现有”等词语，谈论科技改变生活方面的话题。",
+          "en": "Use the chapter vocabulary to discuss how technology changes life.",
+          "heading": "Rate: No problem / It’s OK / Need to improve",
+          "input": true
+        },
+        {
+          "zh": "能理解并运用“数词＋形容词＋量词”“主语＋让／叫＋宾语＋动词＋其他成分”“到底”“……，然而……”等语言点。",
+          "en": "Understand and use the four chapter grammar patterns.",
+          "heading": "Rate: No problem / It’s OK / Need to improve",
+          "input": true
+        },
+        {
+          "zh": "能介绍如何骑共享单车、拍短视频等信息。",
+          "en": "Explain how to use shared bicycles and make short videos.",
+          "heading": "Rate: No problem / It’s OK / Need to improve",
+          "input": true
+        },
+        {
+          "zh": "能表达对新经济形态的看法。",
+          "en": "Express opinions about new economic models.",
+          "heading": "Rate: No problem / It’s OK / Need to improve",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        101,
+        102
+      ]
+    }
+  ]
+}

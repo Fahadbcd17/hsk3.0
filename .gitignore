@@ -5,6 +5,9 @@
 
 # Local textbook and preview / QA artifacts.
 /new-hsk-course-4a.pdf
+/new-hsk-course-4b.pdf
+/source/4b/page-*.json
+/qa/
 /site-preview.jpg
 /VERIFICATION.md
 

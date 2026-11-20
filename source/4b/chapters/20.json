@@ -1,0 +1,1681 @@
+{
+  "id": 20,
+  "title": "看不完也读不完",
+  "en": "So much to see, so much to read",
+  "page": 115,
+  "grammar": [
+    "难道",
+    "疑问代词反问句",
+    "×就×（点儿）吧",
+    "要是……就……否则……"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    115,
+    127
+  ],
+  "words": [
+    {
+      "zh": "堵车",
+      "en": "be in a traffic jam",
+      "example": {
+        "zh": "要是堵车，就坐地铁，否则会迟到。",
+        "en": "If there is traffic, take the subway, or you will be late."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "乘",
+      "en": "ride; take",
+      "example": {
+        "zh": "难道你不想乘火车去吗？",
+        "en": "Don’t you want to go by train?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "难道",
+      "en": "could it be; used in rhetorical questions",
+      "example": {
+        "zh": "难道你没看见我吗？",
+        "en": "Didn’t you see me?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "无",
+      "en": "not have; without",
+      "example": {
+        "zh": "难道你买的是无座票吗？",
+        "en": "Could it be that you bought a standing ticket?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "动车",
+      "en": "bullet train",
+      "example": {
+        "zh": "要是坐动车，就早点儿出发，否则会来不及。",
+        "en": "If taking a bullet train, leave early or you will be too late."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "车速",
+      "en": "vehicle speed",
+      "example": {
+        "zh": "车速慢就慢点儿吧，安全最重要。",
+        "en": "Let the speed be slow; safety matters most."
+      },
+      "grammar": "×就×（点儿）吧"
+    },
+    {
+      "zh": "列",
+      "en": "measure word for trains",
+      "example": {
+        "zh": "难道这列火车不是去北京的吗？",
+        "en": "Isn’t this train going to Beijing?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "晚餐",
+      "en": "dinner",
+      "example": {
+        "zh": "要是想吃晚餐，就早点儿回来，否则饭会凉。",
+        "en": "If you want dinner, come back early or the food will cool."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "夜",
+      "en": "night",
+      "example": {
+        "zh": "难道你夜里还不休息吗？",
+        "en": "Don’t you rest even at night?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "大巴",
+      "en": "coach; bus",
+      "example": {
+        "zh": "要是坐大巴，就提前买票，否则没有座位。",
+        "en": "If taking a coach, buy a ticket early or there will be no seat."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "安检",
+      "en": "security check",
+      "example": {
+        "zh": "难道坐飞机不用安检吗？",
+        "en": "Doesn’t flying require a security check?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "登机",
+      "en": "board a plane",
+      "example": {
+        "zh": "要是开始登机，我们就过去，否则先等一会儿。",
+        "en": "If boarding starts, we will go over; otherwise wait."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "小说",
+      "en": "novel",
+      "example": {
+        "zh": "这本小说长就长点儿吧，我很喜欢。",
+        "en": "Let this novel be long; I really like it."
+      },
+      "grammar": "×就×（点儿）吧"
+    },
+    {
+      "zh": "航班",
+      "en": "scheduled flight",
+      "example": {
+        "zh": "难道这个航班今天不飞吗？",
+        "en": "Is this flight not operating today?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "值机",
+      "en": "check in for a flight",
+      "example": {
+        "zh": "要是网上能值机，就提前办好，否则去机场办。",
+        "en": "If online check-in is available, do it early; otherwise do it at the airport."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "旅客",
+      "en": "traveller; passenger",
+      "example": {
+        "zh": "难道旅客不需要休息吗？",
+        "en": "Don’t passengers need rest?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "牌",
+      "en": "board; card",
+      "example": {
+        "zh": "难道这个牌上的字你都认识吗？",
+        "en": "Can you really read every character on this sign?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "靠",
+      "en": "be beside; lean against",
+      "example": {
+        "zh": "难道你不喜欢靠窗的座位吗？",
+        "en": "Don’t you like a window seat?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "窗户",
+      "en": "window",
+      "example": {
+        "zh": "要是下雨，就关上窗户，否则地上会有水。",
+        "en": "If it rains, close the window or water will get on the floor."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "转机",
+      "en": "transfer flights",
+      "example": {
+        "zh": "转机就转机吧，这样更便宜。",
+        "en": "Let us transfer flights; it is cheaper."
+      },
+      "grammar": "×就×（点儿）吧"
+    },
+    {
+      "zh": "从中",
+      "en": "from it; out of it",
+      "example": {
+        "zh": "难道你没有从中学到什么吗？",
+        "en": "Haven’t you learned anything from it?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "总结",
+      "en": "sum up",
+      "example": {
+        "zh": "要是做完了，就总结经验，否则下次还会出错。",
+        "en": "If you are done, summarise the lessons or repeat the mistakes."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "道路",
+      "en": "road",
+      "example": {
+        "zh": "道路远就远点儿吧，景色很好。",
+        "en": "Let the road be long; the scenery is good."
+      },
+      "grammar": "×就×（点儿）吧"
+    },
+    {
+      "zh": "特点",
+      "en": "characteristic",
+      "example": {
+        "zh": "难道你不知道这座城市的特点吗？",
+        "en": "Don’t you know this city’s characteristics?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "所有",
+      "en": "all",
+      "example": {
+        "zh": "要是所有人都到了，就出发，否则再等一会儿。",
+        "en": "If everyone is here, leave; otherwise wait."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "意见",
+      "en": "opinion; objection",
+      "example": {
+        "zh": "有意见就有意见吧，我们可以再讨论。",
+        "en": "Let there be disagreement; we can discuss it again."
+      },
+      "grammar": "×就×（点儿）吧"
+    },
+    {
+      "zh": "细",
+      "en": "detailed; thin",
+      "example": {
+        "zh": "要是计划做得细，就不会忘记重要的事，否则容易出错。",
+        "en": "If the plan is detailed, you will not forget important things; otherwise it is easy to make mistakes."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "烦恼",
+      "en": "trouble; worry",
+      "example": {
+        "zh": "难道你也有这样的烦恼吗？",
+        "en": "Do you also have this worry?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "百分之",
+      "en": "percent",
+      "example": {
+        "zh": "难道百分之八十的人都同意吗？",
+        "en": "Do eighty percent of people really agree?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "节省",
+      "en": "save; economise",
+      "example": {
+        "zh": "要是想节省时间，就坐地铁，否则走路也可以。",
+        "en": "If you want to save time, take the subway; otherwise you can walk."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "当",
+      "en": "take as; regard as",
+      "example": {
+        "zh": "要是你喜欢，就把这里当自己家，否则你会不自在。",
+        "en": "If you like, treat this as home, or you may feel uncomfortable."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "红包",
+      "en": "red envelope; gift money",
+      "example": {
+        "zh": "难道这个红包是给我的吗？",
+        "en": "Is this red envelope really for me?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "卷",
+      "en": "volume; measure word for books",
+      "example": {
+        "zh": "难道这一卷书你都读完了吗？",
+        "en": "Have you really finished this whole volume?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "里",
+      "en": "li; unit of distance",
+      "example": {
+        "zh": "十里就十里吧，我们慢慢走。",
+        "en": "Let it be ten li; we can walk slowly."
+      },
+      "grammar": "×就×（点儿）吧"
+    },
+    {
+      "zh": "要是",
+      "en": "if",
+      "example": {
+        "zh": "要是天气好，我们就出去，否则在家看书。",
+        "en": "If the weather is good, we will go out; otherwise read at home."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "少数",
+      "en": "minority; small number",
+      "example": {
+        "zh": "难道只有少数人知道吗？",
+        "en": "Do only a few people know?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "民族",
+      "en": "ethnic group",
+      "example": {
+        "zh": "难道你不想了解这里的民族文化吗？",
+        "en": "Don’t you want to learn about local ethnic culture?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "导游",
+      "en": "tour guide",
+      "example": {
+        "zh": "要是不认识路，就问导游，否则容易走错。",
+        "en": "If you do not know the way, ask the guide or you may get lost."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "解释",
+      "en": "explain",
+      "example": {
+        "zh": "要是大家不明白，就再解释一次，否则不能开始。",
+        "en": "If people do not understand, explain again or we cannot begin."
+      },
+      "grammar": "要是……就……否则……"
+    },
+    {
+      "zh": "泼",
+      "en": "splash",
+      "example": {
+        "zh": "难道他把水泼到你身上了吗？",
+        "en": "Did he really splash water on you?"
+      },
+      "grammar": "难道"
+    },
+    {
+      "zh": "流利",
+      "en": "fluent",
+      "example": {
+        "zh": "要是想说得流利，就多练口语，否则很难提高。",
+        "en": "If you want to speak fluently, practise more or improvement is difficult."
+      },
+      "grammar": "要是……就……否则……"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "道路",
+      "en": "road"
+    },
+    {
+      "zh": "堵车",
+      "en": "traffic jam"
+    },
+    {
+      "zh": "导游",
+      "en": "tour guide"
+    },
+    {
+      "zh": "安检",
+      "en": "security check"
+    },
+    {
+      "zh": "航班",
+      "en": "flight"
+    },
+    {
+      "zh": "窗户",
+      "en": "window"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c20-warm-0.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "旅客正在安检。",
+        "en": "Passengers are going through security."
+      }
+    },
+    {
+      "image": "4b/c20-warm-1.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "路上堵车了。",
+        "en": "There is a traffic jam."
+      }
+    },
+    {
+      "image": "4b/c20-warm-2.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "导游在介绍这个地方。",
+        "en": "The guide is introducing this place."
+      }
+    },
+    {
+      "image": "4b/c20-warm-3.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "这个航班起飞了。",
+        "en": "This flight has taken off."
+      }
+    },
+    {
+      "image": "4b/c20-warm-4.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "房子的窗户很大。",
+        "en": "The house has a large window."
+      }
+    },
+    {
+      "image": "4b/c20-warm-5.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "这条道路很长。",
+        "en": "This road is long."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "你喜欢旅行吗？如果喜欢，你喜欢去看自然景色还是去历史文化景点？",
+      "en": "Do you like travel? Do you prefer natural scenery or historic cultural sites?",
+      "answers": [
+        {
+          "zh": "我喜欢旅行，也喜欢看山和水。",
+          "en": "I like travelling and seeing mountains and water."
+        },
+        {
+          "zh": "我喜欢去历史文化景点，了解以前的生活。",
+          "en": "I like historic sites and learning about life in the past."
+        },
+        {
+          "zh": "两种地方我都喜欢，都能学到知识。",
+          "en": "I like both; I can learn from both."
+        }
+      ]
+    },
+    {
+      "zh": "旅行时，你一般会坐火车还是坐飞机？为什么？",
+      "en": "Do you usually take trains or planes when travelling, and why?",
+      "answers": [
+        {
+          "zh": "我一般坐火车，因为可以看外面的景色。",
+          "en": "I usually take trains to see the scenery."
+        },
+        {
+          "zh": "去很远的地方，我会坐飞机，比较快。",
+          "en": "For distant places I fly because it is faster."
+        },
+        {
+          "zh": "我喜欢坐动车，方便又舒服。",
+          "en": "I like bullet trains because they are convenient and comfortable."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "如果安妮没有坐上车，白家月有什么建议？",
+          "en": "What does Bai suggest if Annie misses the train?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "明天再去",
+              "en": "Go tomorrow"
+            },
+            {
+              "zh": "改坐飞机",
+              "en": "Fly instead"
+            },
+            {
+              "zh": "坐下一趟车",
+              "en": "Take the next train"
+            },
+            {
+              "zh": "买张无座票",
+              "en": "Buy a standing ticket"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "坐下一趟车",
+              "en": "C · Take the next train"
+            }
+          ]
+        },
+        {
+          "zh": "安妮为什么建议下车后就去西湖？",
+          "en": "Why does Annie suggest visiting West Lake on arrival?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "西湖离得近",
+              "en": "It is nearby"
+            },
+            {
+              "zh": "去西湖方便",
+              "en": "It is convenient"
+            },
+            {
+              "zh": "西湖不要门票",
+              "en": "It is free"
+            },
+            {
+              "zh": "晚上西湖更好看",
+              "en": "It is prettier at night"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "晚上西湖更好看",
+              "en": "D · It is prettier at night"
+            }
+          ]
+        },
+        {
+          "zh": "安检完后，白家月、陈天中和安妮都在干什么？",
+          "en": "What are the three doing after security?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "看书",
+              "en": "Reading"
+            },
+            {
+              "zh": "买东西",
+              "en": "Shopping"
+            },
+            {
+              "zh": "看电影",
+              "en": "Watching a film"
+            },
+            {
+              "zh": "听中文歌",
+              "en": "Listening to Chinese songs"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "看书",
+              "en": "A · Reading"
+            }
+          ]
+        },
+        {
+          "zh": "他们这次去西双版纳要做什么？",
+          "en": "What will they do in Xishuangbanna?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "吃美食",
+              "en": "Eat food"
+            },
+            {
+              "zh": "听演唱会",
+              "en": "Attend a concert"
+            },
+            {
+              "zh": "参加比赛",
+              "en": "Enter a competition"
+            },
+            {
+              "zh": "感受泼水节",
+              "en": "Experience the Water-Splashing Festival"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "感受泼水节",
+              "en": "D · Experience the Water-Splashing Festival"
+            }
+          ]
+        },
+        {
+          "zh": "白家月、安妮和陈天中想通过旅行：",
+          "en": "What do the three hope to do through travel?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "放松心情",
+              "en": "Relax"
+            },
+            {
+              "zh": "交到朋友",
+              "en": "Make friends"
+            },
+            {
+              "zh": "了解中国",
+              "en": "Understand China"
+            },
+            {
+              "zh": "积累知识",
+              "en": "Accumulate knowledge"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "了解中国",
+              "en": "C · Understand China"
+            }
+          ]
+        },
+        {
+          "zh": "白家月、安妮和陈天中的旅行经验首先是：",
+          "en": "What is their first travel tip?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "提前订好酒店",
+              "en": "Book hotels early"
+            },
+            {
+              "zh": "做好旅行计划",
+              "en": "Make a good plan"
+            },
+            {
+              "zh": "提前订好门票",
+              "en": "Book admission tickets early"
+            },
+            {
+              "zh": "仔细检查行李",
+              "en": "Check luggage carefully"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "做好旅行计划",
+              "en": "B · Make a good plan"
+            }
+          ]
+        },
+        {
+          "zh": "“读万卷书，行万里路”的意思是：",
+          "en": "What does “read ten thousand books and travel ten thousand li” mean?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "既学习也运动",
+              "en": "Study and exercise"
+            },
+            {
+              "zh": "边看书边走路",
+              "en": "Read while walking"
+            },
+            {
+              "zh": "读一万本书，走一万里路",
+              "en": "Read exactly ten thousand books and walk ten thousand li"
+            },
+            {
+              "zh": "既读书学习，也外出看世界",
+              "en": "Learn from books and go out to see the world"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "既读书学习，也外出看世界",
+              "en": "D · Learn from books and go out to see the world"
+            }
+          ]
+        },
+        {
+          "zh": "根据课文，旅行除了能看自然景色外，还能：",
+          "en": "Besides natural scenery, what can travel offer?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "吃美食",
+              "en": "Enjoy food"
+            },
+            {
+              "zh": "认识朋友",
+              "en": "Meet friends"
+            },
+            {
+              "zh": "了解历史文化",
+              "en": "Understand history and culture"
+            },
+            {
+              "zh": "了解旅行过程",
+              "en": "Understand the travel process"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "了解历史文化",
+              "en": "C · Understand history and culture"
+            }
+          ]
+        }
+      ],
+      "sourcePages": []
+    },
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流关于读书与旅行的话题。",
+          "en": "Understand and discuss reading and travel."
+        },
+        {
+          "zh": "能够口头或书面表达某一景点的特色。",
+          "en": "Describe a scenic spot orally or in writing."
+        },
+        {
+          "zh": "了解如何在中国旅行，体验中国文化。",
+          "en": "Learn how to travel in China and experience its culture."
+        }
+      ],
+      "sourcePages": [
+        115
+      ]
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "安妮：终于上车了，刚刚路上堵车，差点儿晚了。",
+          "en": "Annie: Finally aboard! Traffic nearly made me late."
+        },
+        {
+          "zh": "白家月：没关系，晚了就改乘下一趟。天中，你坐哪儿？看你一直不坐下，我还在想，难道你买的是无座票吗？",
+          "en": "Bai: It is all right; you could take the next train. Tianzhong, where is your seat? Seeing you standing, I wondered if you bought a standing ticket."
+        },
+        {
+          "zh": "陈天中：我的座位就在前边，我想先站这儿跟你们说说话。",
+          "en": "Chen: My seat is ahead. I wanted to stand here and talk to you first."
+        },
+        {
+          "zh": "安妮：动车车速也挺快啊！对了，这列车晚上七点多到杭州，咱们在车上吃晚餐，到站后就先去西湖吧，夜里的西湖更美。",
+          "en": "Annie: The bullet train is quite fast! It arrives in Hangzhou after seven tonight. Let us have dinner aboard, then visit West Lake. It is more beautiful at night."
+        },
+        {
+          "zh": "陈天中：好！后天我们坐大巴去苏州，看苏州园林。",
+          "en": "Chen: Great! The day after tomorrow we will take a coach to see Suzhou’s gardens."
+        },
+        {
+          "zh": "白家月：嗯。中国太大了！真是看也看不完啊。",
+          "en": "Bai: China is so big! There is more to see than we could ever finish."
+        },
+        {
+          "zh": "上车后，陈天中为什么没有直接坐到自己的座位上？",
+          "en": "Why did Chen not sit down immediately?",
+          "answers": [
+            {
+              "zh": "他想先站着和朋友们说说话。",
+              "en": "He wanted to stand and talk with his friends first."
+            }
+          ],
+          "heading": "Read & answer 1",
+          "input": true
+        },
+        {
+          "zh": "安妮都有哪些安排？",
+          "en": "What arrangements does Annie suggest?",
+          "answers": [
+            {
+              "zh": "在车上吃晚餐，到杭州后先去看西湖。",
+              "en": "Have dinner aboard and visit West Lake on arriving in Hangzhou."
+            }
+          ],
+          "heading": "Read & answer 2",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        116,
+        117
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          117
+        ],
+        "prompt": {
+          "zh": "安妮、白家月和陈天中坐动车去旅行。由于路上堵车，安妮……。白家月说，晚了……。接着，白家月问陈天中……，难道买的是……吗？陈天中说他的座位……，他想先站着跟大家……。安妮说这列车……到……，建议在车上……，到站后就……，夜里的……。陈天中说，后天坐大巴……，……。白家月说，中国……，真是……。",
+          "en": "The three friends travel by bullet train. Traffic means Annie…. Bai says if late…. She asks Chen where … and whether he bought…. He says his seat … and wants to…. Annie says the train arrives … and suggests…. Chen proposes travelling by coach to…. Bai says China…."
+        },
+        "answer": {
+          "zh": "安妮、白家月和陈天中坐动车去旅行。安妮因为堵车差点儿迟到。白家月说晚了可以坐下一趟。她问陈天中是不是买了无座票，他说座位在前边，只是想和朋友们聊天。安妮建议在车上吃晚餐，晚上七点多到杭州后先去西湖，因为夜里的西湖更美。陈天中说后天坐大巴去苏州看园林。白家月觉得中国太大了，看也看不完。",
+          "en": "Traffic nearly made Annie late for the friends’ bullet train. Bai said she could take the next one. Chen stood to chat, not because he lacked a seat. Annie suggested dinner aboard and West Lake after their arrival after seven, since it is prettier at night. Chen proposed visiting Suzhou’s gardens by coach two days later. Bai felt China had endless sights."
+        }
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 难道",
+      "blocks": [
+        {
+          "zh": "难道你买的是无座票吗？",
+          "en": "Could it be that you bought a standing ticket?"
+        },
+        {
+          "zh": "车快开了他还没到，难道他不去了？",
+          "en": "The train is leaving and he has not arrived. Could he not be going?"
+        },
+        {
+          "zh": "难道我们不应该保护环境吗？",
+          "en": "Shouldn’t we protect the environment?"
+        },
+        {
+          "zh": "A：你应该向她道歉。B：为什么要道歉？____？",
+          "en": "You should apologise. Why?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "难道是我错了吗",
+              "en": "Was I really wrong?"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：这个东西不是你的。B：____？它就是我的。",
+          "en": "This is not yours. …? It is mine.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "难道我连自己的东西都不认识吗",
+              "en": "Would I not recognise my own belongings?"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：他为什么不在？B：对，____？",
+          "en": "Why is he absent? Yes, …?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "难道他忘了今天的安排吗",
+              "en": "Could he have forgotten today’s plans?"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "sourcePages": [
+        118
+      ],
+      "intro": "难道 expresses speculation or strengthens a rhetorical question. An affirmative rhetorical question implies a negative answer, and a negative one implies affirmation.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "李文：安检完就等着登机了。你们在看什么？",
+          "en": "Li: We have cleared security and are waiting to board. What are you reading?"
+        },
+        {
+          "zh": "白家月：我在读老舍的小说。",
+          "en": "Bai: A novel by Lao She."
+        },
+        {
+          "zh": "陈天中：我读的是一本中国历史书。",
+          "en": "Chen: A book about Chinese history."
+        },
+        {
+          "zh": "安妮：我读唐诗呢。几千年的中国文化，真是读也读不完。",
+          "en": "Annie: Tang poetry. There are thousands of years of Chinese culture—too much to ever finish reading."
+        },
+        {
+          "zh": "李文：谁说不是呢？不过，现在咱们得去排队，航班的值机员在叫大家登机呢。",
+          "en": "Li: Absolutely. But we must queue now; the flight attendant at the gate is calling passengers to board."
+        },
+        {
+          "zh": "值机员：去西安的旅客开始登机，请拿好登机牌按顺序排队。",
+          "en": "Staff: Passengers to Xi’an may board. Please have your boarding passes ready and queue in order."
+        },
+        {
+          "zh": "白家月：终于上来了，我的座位靠窗户。",
+          "en": "Bai: Finally aboard. I have a window seat."
+        },
+        {
+          "zh": "安妮：我在最外边。这么多人，是不是跟咱们一样，都是去感受泼水节的啊？",
+          "en": "Annie: I have the aisle seat. Are all these people going to the festival like us?"
+        },
+        {
+          "zh": "李文：应该不是。很多人的目的地是西安，你别忘了，咱们是在西安转机，然后再飞西双版纳。",
+          "en": "Li: Probably not. Many are going to Xi’an. Remember, we change planes there before flying to Xishuangbanna."
+        },
+        {
+          "zh": "安妮为什么觉得中国文化读也读不完？",
+          "en": "Why does Annie think she can never finish reading Chinese culture?",
+          "answers": [
+            {
+              "zh": "因为中国文化有几千年的历史，内容很多。",
+              "en": "Because it spans thousands of years and has abundant content."
+            }
+          ],
+          "heading": "Read & answer 1",
+          "input": true
+        },
+        {
+          "zh": "李文他们的目的地是西安吗？为什么？",
+          "en": "Is Xi’an their final destination? Why?",
+          "answers": [
+            {
+              "zh": "不是，他们在西安转机，最后去西双版纳。",
+              "en": "No. They change planes in Xi’an and continue to Xishuangbanna."
+            }
+          ],
+          "heading": "Read & answer 2",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        118,
+        119,
+        120
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 疑问代词反问句",
+      "blocks": [
+        {
+          "zh": "谁说不是呢？",
+          "en": "Who could say otherwise? / Absolutely."
+        },
+        {
+          "zh": "这里离苏州这么近，我们为什么不去苏州玩玩呢？",
+          "en": "We are so near Suzhou—why not visit?"
+        },
+        {
+          "zh": "我们连手机都没有，怎么能查到这些信息啊？",
+          "en": "We do not even have phones; how could we look this up?"
+        },
+        {
+          "zh": "A：你看看，是不是出错了？B：我已经检查好几遍了，____？",
+          "en": "Check whether it is wrong. I have checked several times, …?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "怎么还会出错呢",
+              "en": "How could it still be wrong?"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：你头发也不长，别理发了。B：____？",
+          "en": "Your hair is not long. Do not cut it.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这么热的天，为什么不理短一点儿呢",
+              "en": "In this heat, why not make it shorter?"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：____？这片树林里有熊，你们不能去！B：没关系，我们会非常小心的。",
+          "en": "…? There are bears in the forest; you cannot go! We will be careful.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这么危险的地方，怎么能去呢",
+              "en": "How can you go somewhere so dangerous?"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "sourcePages": [
+        120
+      ],
+      "intro": "Interrogative pronouns such as 谁、什么、怎么、哪里、为什么 can form rhetorical questions to strengthen a statement.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "来中国留学后，白家月、安妮和陈天中常外出旅行，从中了解中国。他们还总结出几点旅行经验：",
+          "en": "After coming to study in China, Bai, Annie and Chen often travel to understand the country. They have summarised some travel advice:"
+        },
+        {
+          "zh": "第一，好计划是成功的一半。旅行前，要了解目的地天气、道路交通特点等，安排好每天的活动，保证所有人对计划都没意见。准备越细，烦恼越少。",
+          "en": "First, a good plan is half of success. Learn about the destination’s weather, roads and transport, arrange each day’s activities and ensure everyone agrees. More detailed preparation means fewer worries."
+        },
+        {
+          "zh": "第二，节假日早点儿订机票、酒店和各种门票，否则很难订到。",
+          "en": "Second, book flights, hotels and attraction tickets early for holidays; otherwise they may be unavailable."
+        },
+        {
+          "zh": "第三，转机会比直飞更便宜。此次去西双版纳，在西安转机，机票价格比直飞便宜了百分之四十多。虽然有些累，但累就累点儿吧，花更少的钱去看更多的地方，很值得，节省下来的钱就当是给自己的大“红包”了。",
+          "en": "Third, connecting flights may be cheaper. Their trip to Xishuangbanna via Xi’an cost over forty percent less than flying direct. Although tiring, it was worthwhile to see more for less. They regarded the savings as a big gift to themselves."
+        },
+        {
+          "zh": "为什么节假日要早点儿订机票？",
+          "en": "Why book flights early for holidays?",
+          "answers": [
+            {
+              "zh": "因为节假日出门的人多，晚订很难订到。",
+              "en": "Many people travel during holidays, so tickets are hard to get late."
+            }
+          ],
+          "heading": "Read & answer 1",
+          "input": true
+        },
+        {
+          "zh": "为什么他们觉得转机虽然累，但值得？",
+          "en": "Why do they think a tiring connection is worthwhile?",
+          "answers": [
+            {
+              "zh": "因为机票便宜了百分之四十多，能花更少的钱看更多地方。",
+              "en": "It costs over forty percent less, letting them see more for less money."
+            }
+          ],
+          "heading": "Read & answer 2",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        120,
+        121,
+        122
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          122
+        ],
+        "prompt": {
+          "zh": "来中国留学后，白家月、安妮和陈天中常……，从中……。他们还总结出几点……。第一，好计划是……。旅行前，要了解目的地天气、……等，安排好……，保证所有人对计划……。准备越细，……。第二，节假日早点儿……、酒店和各种门票，否则……。第三，转机会……更便宜。此次去……，在……，机票价格比直飞便宜了……。虽然有些累，但……，花更少的钱去……，很值得，节省下来的钱就当是……。",
+          "en": "The friends often … to understand…. Their tips are: first, good planning is…. Check weather and …, arrange … and ensure…. The more detailed …, the less…. Second, book … early or…. Third, connecting flights…. On their trip … via … they saved…. Although tiring, …; the savings are like…."
+        },
+        "answer": {
+          "zh": "来中国留学后，白家月、安妮和陈天中常外出旅行，从中了解中国。他们总结出三点经验。第一，好计划是成功的一半，要了解天气和交通，安排好每天的活动，保证大家都同意。准备越细，烦恼越少。第二，节假日要早订机票、酒店和门票。第三，转机比直飞便宜。他们去西双版纳时在西安转机，便宜了百分之四十多。累就累点儿吧，花更少的钱看更多地方很值得，节省的钱就当是给自己的红包。",
+          "en": "The friends travel to understand China and offer three tips: plan weather, transport and daily activities with everyone’s agreement; book holiday travel early; and consider cheaper connecting flights. Their connection through Xi’an saved over forty percent. The extra effort was worthwhile, and the savings felt like a gift."
+        }
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · ×就×（点儿）吧",
+      "blocks": [
+        {
+          "zh": "累就累点儿吧，花更少的钱去看更多的地方，很值得。",
+          "en": "A little tiredness is all right; seeing more for less is worthwhile."
+        },
+        {
+          "zh": "我租的房子离公司有些远，我想，远就远吧，至少房租便宜。",
+          "en": "My rented home is far from work, but so be it; at least the rent is low."
+        },
+        {
+          "zh": "慢就慢点儿吧，安全最重要。",
+          "en": "A little slowness is all right; safety matters most."
+        },
+        {
+          "zh": "别着急，下班时间路上车多，____。（堵车）",
+          "en": "Do not rush. Traffic is heavy after work, …. Use 堵车.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "堵车就堵车吧",
+              "en": "Let there be traffic; we will accept it."
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "____都要在这周末前完成，____，至少能换来下个星期的休假。（所有）",
+          "en": "… must be finished by this weekend; …, at least we can have next week off. Use 所有.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "所有工作都要在这周末前完成，累就累点儿吧",
+              "en": "All work must be finished by the weekend; a little tiredness is all right."
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "他对这件事____，我们觉得这是大家共同的决定，____。（意见）",
+          "en": "He … about this matter. We feel it was everyone’s decision, so …. Use 意见.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他对这件事有意见，我们觉得这是大家共同的决定，有意见就有意见吧",
+              "en": "He objects, but it was a joint decision, so we accept that he objects."
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "sourcePages": [
+        122
+      ],
+      "intro": "×就×（点儿）吧 accepts a less-than-ideal situation: “so be it” or “a little … is all right.” It is common in speech.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "王一飞常对她的学生说：“读万卷书，行万里路。你们要是想多了解中国，就不能只通过读书，还要多出门旅行，否则只能认识课本里的中国。”",
+          "en": "Wang Yifei often tells her students: “Read widely and travel far. If you want to understand China, do not learn only from books. Travel too, or you will only know the China in textbooks.”"
+        },
+        {
+          "zh": "旅行，不仅能看到自然美景，还能近距离感受不同的历史文化。比如，白家月等人想了解少数民族泼水节，就去了西双版纳。泼水节上，导游向他们解释说，被泼的水越多，新的一年就会越健康、幸福。安妮喜欢唐诗，就来到了西安，在那里遇到身穿唐装的“对诗人”，对诗人说上句，游客就能流利地说出下句。安妮觉得在西安，唐诗活了。",
+          "en": "Travel lets you see nature and experience history and culture closely. Bai and her friends went to Xishuangbanna to learn about an ethnic minority’s Water-Splashing Festival. Their guide explained that more water brings greater health and happiness in the new year. Annie loved Tang poetry and visited Xi’an, where people in Tang-style clothing recited opening lines and tourists fluently completed them. She felt Tang poetry came alive there."
+        },
+        {
+          "zh": "虽然已经去了很多地方，但是白家月他们觉得还不够。他们也认为，美丽中国，不只是在书中，更是在脚下。",
+          "en": "Although they have visited many places, they still want more. They believe beautiful China is found not only in books but also in the places they explore."
+        },
+        {
+          "zh": "安妮在西安遇见了什么人？有什么感受？",
+          "en": "Whom did Annie meet in Xi’an, and how did she feel?",
+          "answers": [
+            {
+              "zh": "她遇见身穿唐装的对诗人，觉得唐诗活了。",
+              "en": "She met poetry performers in Tang-style clothing and felt Tang poetry had come alive."
+            }
+          ],
+          "heading": "Read & answer 1",
+          "input": true
+        },
+        {
+          "zh": "外出旅行后，白家月他们有什么感受？",
+          "en": "How do the friends feel after travelling?",
+          "answers": [
+            {
+              "zh": "他们觉得还没有看够，美丽中国不只在书中，更在脚下。",
+              "en": "They want to see more; beautiful China is found beyond books through exploration."
+            }
+          ],
+          "heading": "Read & answer 2",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        123,
+        124
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 要是……就……否则……",
+      "blocks": [
+        {
+          "zh": "你们要是想多了解中国，就不能只通过读书，还要多出门旅行，否则只能认识课本里的中国。",
+          "en": "If you want to know China, travel as well as reading, or you will know only textbook China."
+        },
+        {
+          "zh": "要是出去的话，咱们就爬山，否则我哪儿都不去。",
+          "en": "If we go out, let us climb a mountain; otherwise I will stay home."
+        },
+        {
+          "zh": "要是你同意的话，这个计划就通过，否则可能需要重新讨论。",
+          "en": "If you agree, the plan passes; otherwise we may need to discuss it again."
+        },
+        {
+          "zh": "要是路上堵车，你们就改乘地铁，否则____。",
+          "en": "If roads are congested, take the subway, otherwise….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "会迟到",
+              "en": "You will be late."
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "要是____，否则就在家学习。",
+          "en": "If …, otherwise study at home.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "天气好，我们就出去旅行",
+              "en": "If the weather is good, we will travel."
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "____，你们就关上窗户，否则____。",
+          "en": "If …, close the windows, otherwise….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "要是下雨，你们就关上窗户，否则雨水会进来",
+              "en": "If it rains, close the windows, or rain will come in."
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "sourcePages": [
+        124
+      ],
+      "intro": "要是……（就）……否则…… combines an “if” condition and action with the consequence of not taking that action.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "tips",
+      "title": "Xiaoyu’s Tips",
+      "blocks": [
+        {
+          "zh": "“对诗”是指一人吟诵诗句，其他人进行应对，一般在两人或多人之间进行。互相对诗的人就叫“对诗人”。",
+          "en": "Poetry matching is an activity in which one person recites a line and others respond with corresponding verses. It usually involves two or more people, called poetry matchers."
+        }
+      ],
+      "sourcePages": [
+        123
+      ]
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "heading": "Word bank 1",
+          "zh": "总结　百分之　登机　烦恼　特点　列",
+          "en": "sum up; percent; board; worry; feature; measure word for trains"
+        },
+        {
+          "heading": "Word bank 2",
+          "zh": "旅客　流利　意见　难道　转机　解释",
+          "en": "passenger; fluent; opinion; rhetorical question marker; transfer; explain"
+        },
+        {
+          "zh": "我们还没有看清楚，一____火车就快速开了过去。",
+          "en": "Before we could see clearly, a … train sped past.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "列",
+              "en": "measure word for a train"
+            }
+          ],
+          "heading": "Fill in the blank · 1",
+          "solution": "列"
+        },
+        {
+          "zh": "四点开始____，我们准备下午两点到机场。",
+          "en": "… begins at four; we will reach the airport at two.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "登机",
+              "en": "boarding"
+            }
+          ],
+          "heading": "Fill in the blank · 2",
+          "solution": "登机"
+        },
+        {
+          "zh": "经过努力，我们完成了一个大项目，得好好____下经验。",
+          "en": "We completed a big project and should … the lessons.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "总结",
+              "en": "sum up"
+            }
+          ],
+          "heading": "Fill in the blank · 3",
+          "solution": "总结"
+        },
+        {
+          "zh": "我心情不好的时候，就会干点儿自己喜欢的事情，比如听音乐，这样能让我暂时忘记____。",
+          "en": "When unhappy I do something I enjoy, such as music, to forget my ….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "烦恼",
+              "en": "worries"
+            }
+          ],
+          "heading": "Fill in the blank · 4",
+          "solution": "烦恼"
+        },
+        {
+          "zh": "由于有____八十五的人支持，这项建议终于通过了。",
+          "en": "With eighty-five … support, the proposal passed.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "百分之",
+              "en": "percent"
+            }
+          ],
+          "heading": "Fill in the blank · 5",
+          "solution": "百分之"
+        },
+        {
+          "zh": "这个手机的____是拍照好看，很适合年轻人。",
+          "en": "This phone’s … is good photography, suitable for young people.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "特点",
+              "en": "feature"
+            }
+          ],
+          "heading": "Fill in the blank · 6",
+          "solution": "特点"
+        },
+        {
+          "zh": "A：您好，您对我们的服务有什么____吗？B：没有，挺好的，服务员很热情。",
+          "en": "Do you have any … on our service? No, it is good and friendly.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "意见",
+              "en": "comments"
+            }
+          ],
+          "heading": "Fill in the blank · 7",
+          "solution": "意见"
+        },
+        {
+          "zh": "A：这次出国旅行，你们也要____吗？B：不，这次旅行时间紧张，我们要直接飞过去。",
+          "en": "Will you … on this overseas trip? No, we have little time and will fly direct.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "转机",
+              "en": "change planes"
+            }
+          ],
+          "heading": "Fill in the blank · 8",
+          "solution": "转机"
+        },
+        {
+          "zh": "A：这位____，请问您有什么需要？B：我想要一杯水。",
+          "en": "Excuse me, …, what do you need? A glass of water.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "旅客",
+              "en": "passenger"
+            }
+          ],
+          "heading": "Fill in the blank · 9",
+          "solution": "旅客"
+        },
+        {
+          "zh": "A：这个问题你都____清楚了，我们完全理解，会支持你们的。B：感谢你们的理解与支持！",
+          "en": "You … the issue clearly; we understand and support you. Thank you.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "解释",
+              "en": "explained"
+            }
+          ],
+          "heading": "Fill in the blank · 10",
+          "solution": "解释"
+        },
+        {
+          "zh": "A：这么冷的天，你只穿了一件衬衫，____不怕感冒吗？B：我刚锻炼完，现在不觉得冷。",
+          "en": "Only a shirt in this cold—… you fear catching a cold? I just exercised and feel warm.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "难道",
+              "en": "don’t"
+            }
+          ],
+          "heading": "Fill in the blank · 11",
+          "solution": "难道"
+        },
+        {
+          "zh": "A：你中文说得真____！学了多久了？B：谢谢，我已经学了四年了。",
+          "en": "Your Chinese is …! How long have you studied? Four years.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "流利",
+              "en": "fluent"
+            }
+          ],
+          "heading": "Fill in the blank · 12",
+          "solution": "流利"
+        }
+      ],
+      "sourcePages": [
+        125
+      ]
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "我小时候就喜欢看历史方面的书。有一天上课时，老师说中华文明有五千多年的历史，____。直到后来，学校开了历史课，老师从古代讲到现在的中国，我才真正感受到中国历史之长。____，我希望自己也能够“读万卷书，行万里路”。于是，放假时，____，参观万里长城、故宫等历史文化景点。读书和旅行，____，将来我也想去其他国家看看，了解更多国家的历史文化。",
+          "en": "I liked history books as a child. A teacher said Chinese civilisation had over five thousand years of history, …. Later history classes helped me understand its length. …, I wanted to read widely and travel far. During holidays, …, visiting historic places such as the Great Wall and Forbidden City. Reading and travel …; I hope to explore other countries too."
+        },
+        {
+          "heading": "A",
+          "zh": "我就出去旅行",
+          "en": "I went travelling"
+        },
+        {
+          "heading": "B",
+          "zh": "为了更好地了解自己国家的历史",
+          "en": "To better understand my country’s history"
+        },
+        {
+          "heading": "C",
+          "zh": "当时给我留下了很深的印象",
+          "en": "This left a deep impression on me then"
+        },
+        {
+          "heading": "D",
+          "zh": "让我看见了更大的世界",
+          "en": "Let me see a wider world"
+        },
+        {
+          "heading": "Gap 1",
+          "zh": "第1空：____",
+          "en": "Choose A–D for gap 1.",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "当时给我留下了很深的印象",
+              "en": "C · This left a deep impression on me then"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 2",
+          "zh": "第2空：____",
+          "en": "Choose A–D for gap 2.",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "为了更好地了解自己国家的历史",
+              "en": "B · To better understand my country’s history"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 3",
+          "zh": "第3空：____",
+          "en": "Choose A–D for gap 3.",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "我就出去旅行",
+              "en": "A · I went travelling"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 4",
+          "zh": "第4空：____",
+          "en": "Choose A–D for gap 4.",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "让我看见了更大的世界",
+              "en": "D · Let me see a wider world"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        125,
+        126
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c20-exercise.jpg",
+          "alt": "Original picture-writing exercise"
+        },
+        {
+          "heading": "Picture 1",
+          "zh": "旅客",
+          "en": "passenger; traveller",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这位旅客在机场等飞机。",
+              "en": "This traveller is waiting for a flight at the airport."
+            }
+          ]
+        },
+        {
+          "heading": "Picture 2",
+          "zh": "红包",
+          "en": "red envelope containing a gift of money",
+          "input": true,
+          "answers": [
+            {
+              "zh": "桌子上有几个红包。",
+              "en": "There are several red envelopes on the table."
+            }
+          ]
+        },
+        {
+          "heading": "Picture 3",
+          "zh": "大巴",
+          "en": "coach; bus",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我们坐大巴去旅行。",
+              "en": "We travel by coach."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        126
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "heading": "Group discussion",
+          "zh": "三至四人一组，互相介绍外出旅行时，哪个地方给自己留下的印象最深，为什么？讨论后，由一人向大家介绍。",
+          "en": "In groups of three or four, discuss your most memorable travel destination and why. One person presents the discussion.",
+          "answers": [
+            {
+              "zh": "西湖给我留下的印象最深，因为夜里的景色特别美。",
+              "en": "West Lake impressed me most because it is beautiful at night."
+            },
+            {
+              "zh": "我最喜欢西安，在那里能了解中国历史。",
+              "en": "I like Xi’an best because I can learn Chinese history there."
+            },
+            {
+              "zh": "我喜欢去海边，听海的声音让我很放松。",
+              "en": "I like the seaside; the sound of the sea relaxes me."
+            }
+          ],
+          "input": true
+        },
+        {
+          "heading": "Writing · at least 140 characters",
+          "zh": "远距离旅行一般都要做详细计划。请根据旅行经验，写一个小贴士，提醒旅行者应该特别注意哪些问题，不少于140字。",
+          "en": "Write at least 140 Chinese characters giving practical tips for planning long-distance travel.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "远距离旅行以前，我们应该先做好计划。第一，要查清楚目的地的天气和交通情况，再决定带什么衣服、坐什么车。第二，节假日出门的人很多，要提前订好机票、酒店和门票，否则可能订不到。第三，去机场不要太晚，要给安检和值机留出足够的时间。第四，重要的证件、手机和钱要放好，不要随便交给陌生人。旅行中如果遇到问题，可以向工作人员或者导游求助。计划虽然重要，但是也不要把每天安排得太满，累就休息一会儿吧。只有身体舒服、心情愉快，我们才能更好地感受当地的生活和文化。",
+              "en": "Before a long trip, plan carefully. Check weather and transport before choosing clothes and routes. Book holiday flights, hotels and tickets early. Leave enough time at the airport for security and check-in. Keep documents, phone and money safe. Ask staff or guides for help if needed. Do not overfill the schedule; rest when tired. Feeling well and relaxed helps you enjoy local life and culture."
+            }
+          ],
+          "minChars": 140
+        }
+      ],
+      "sourcePages": [
+        126
+      ]
+    },
+    {
+      "id": "bonus",
+      "title": "Xiaoyu’s bonus content",
+      "blocks": [
+        {
+          "zh": "良渚古城遗址",
+          "en": "Archaeological Ruins of Liangzhu City"
+        }
+      ],
+      "sourcePages": [
+        126
+      ],
+      "intro": "The book provides a companion-video topic. Watch through your textbook resources, then keep notes here.",
+      "note": "My notes after watching"
+    },
+    {
+      "id": "book-summary",
+      "title": "Book learning summary",
+      "blocks": [
+        {
+          "zh": "能使用“乘、大巴、安检、航班、旅客、转机、节省、导游”等词语，谈论读书与旅行的话题。",
+          "en": "I can use this lesson’s vocabulary to discuss reading and travel.",
+          "input": true
+        },
+        {
+          "zh": "能理解并运用“难道”、疑问代词反问句、“×就×（点儿）吧”和“要是……就……否则……”。",
+          "en": "I can use rhetorical questions, acceptance, and conditional consequences.",
+          "input": true
+        },
+        {
+          "zh": "能表达“读万卷书，行万里路”的观点。",
+          "en": "I can express the value of learning from both reading and travel.",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        127
+      ],
+      "intro": "For each statement, write: No problem / It’s OK / Need to improve."
+    }
+  ]
+}

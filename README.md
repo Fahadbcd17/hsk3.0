@@ -1,6 +1,6 @@
-# 青学 · HSK 4A study companion
+# 青学 · HSK 4A & 4B study companion
 
-A static, browser-only study website based on the supplied **New HSK Course 4A**. The ready-to-publish website is at the repository root. No npm install, build service, API key, account or database is needed.
+A static, browser-only study website based on the supplied **New HSK Course 4A and 4B**. The ready-to-publish website is at the repository root. No npm install, build service, API key, account or database is needed.
 
 ## Publish on GitHub Pages
 
@@ -25,20 +25,20 @@ Then open `http://127.0.0.1:8874/`. Stop the server with Ctrl+C. An HTTP preview
 
 ## Included
 
-- Home dashboard, ten-chapter Book library, Saved Words and Practice.
-- 391 vocabulary entries, each with pinyin, meaning, a chapter-grammar example and an editable personal sentence.
-- 58 original warm-up pictures. Chapter 5 has four dishes with separate flavour matches, as in the book; the other chapters have six pictures.
-- 20 original discussion questions with three model answers each.
-- 40 original texts with study translations, comprehension questions and retelling notes.
-- 20 transcribed textbook retelling prompts with pinyin, English and model answers behind independent Show answer buttons.
-- 40 grammar explanations, 80 illustrative grammar sentences and 120 original grammar practice prompts.
-- 80 original listening-choice questions usable with the book recordings or as reading questions; 100 vocabulary gaps; ten cloze passages; 30 picture-writing prompts.
-- Speaking and writing tasks, model responses, a 120-character writing counter, and reflection checklists.
+- Home dashboard, twenty-chapter Book library, Saved Words and Practice.
+- 798 vocabulary entries (391 in Book 4A and 407 in Book 4B), each with pinyin, meaning, a chapter-grammar example and an editable personal sentence.
+- 118 original warm-up pictures. Chapter 5 has four dishes with separate flavour matches, as in the book; the other chapters have six pictures.
+- 40 original discussion questions with three model answers each.
+- 80 original texts with study translations, comprehension questions and retelling notes.
+- 40 transcribed textbook retelling prompts with pinyin, English and model answers behind independent Show answer buttons.
+- 80 grammar explanations and 240 original grammar practice prompts.
+- 160 listening/reading choice questions, 220 vocabulary gaps, twenty cloze passages and 60 picture-writing prompts.
+- Speaking and writing tasks, model responses, writing counters for 120 characters in Book 4A and 140 in Book 4B, and reflection checklists.
 - Hover, focus or tap vocabulary details and save words for review. Saved words also appear at the top of a chapter.
 - Independent pinyin, English and answer controls. Pinyin and English, including model answers, start hidden. Use each section’s Show controls to reveal them.
 - Original chapter-page images for reference.
 
-The 40 supplied MP3 recordings in `assets/audio/` are available in Listen / read & choose, with play/pause and replay controls for each text. Starting another recording pauses the previous one. Companion videos are not included. Video topics are included with a notes field. Objective exercises have a correct answer or model completion; open discussion questions have three alternatives. Generated responses are study examples, not the publisher's answer key.
+The 40 supplied MP3 recordings in `assets/audio/` are available in Listen / read & choose, with play/pause and replay controls for each text. Starting another recording pauses the previous one. Book 4B recordings have not been supplied; its questions work as reading exercises until audio is added. Companion videos are not included. Video topics are included with a notes field. Objective exercises have a correct answer or model completion; open discussion questions have three alternatives. Generated responses are study examples, not the publisher's answer key.
 
 ## Saving and backups
 
@@ -55,7 +55,8 @@ Storage belongs to the browser profile and website origin. Local preview, GitHub
 - `source/page-*.json` and `.txt`: OCR working records; original scans remain the reference.
 - `tools/build_*.py`: authoring scripts; not required for hosting.
 - `tools/validate_site.py`: structural and asset checks.
-- `tools/audit_vocabulary.py`: vocabulary screening of the 391 target examples, 60 discussion responses and 58 warm-up sentences against local Level 1–3 lists and earlier chapters. The target and current grammar are allowed in a target example. This segmentation check is a review aid, not a guarantee of linguistic difficulty or contextual pronunciation.
+- `tools/build_4b.py`: merges the reviewed `source/4b/chapters/11.json` through `20.json` and adds pinyin (requires pypinyin for authoring only). It preserves Book 4A and the existing storage key.
+- `tools/audit_vocabulary.py`: legacy Book 4A vocabulary screening of the 391 target examples, 60 discussion responses and 58 warm-up sentences against local Level 1–3 lists and earlier chapters. The target and current grammar are allowed in a target example. This segmentation check is a review aid, not a guarantee of linguistic difficulty or contextual pronunciation.
 
 Run `python3 tools/validate_site.py` and `node --check app.js` after changes. The prepared site can be deployed directly without regenerating OCR or illustrations.
 

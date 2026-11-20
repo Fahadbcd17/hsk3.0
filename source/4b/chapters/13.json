@@ -1,0 +1,1713 @@
+{
+  "id": 13,
+  "title": "美好的日子",
+  "en": "Wonderful days",
+  "page": 29,
+  "grammar": [
+    "怎么都／也不……",
+    "一＋量词＋比＋一＋量词",
+    "大约／左右",
+    "作为"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    29,
+    41
+  ],
+  "words": [
+    {
+      "zh": "熊",
+      "en": "bear",
+      "example": {
+        "zh": "我怎么也没想到这只熊这么大。",
+        "en": "I never imagined this bear would be so big."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "老虎",
+      "en": "tiger",
+      "example": {
+        "zh": "我们等了很久，老虎怎么也不出来。",
+        "en": "We waited a long time, but the tiger would not come out."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "喊",
+      "en": "shout; call",
+      "example": {
+        "zh": "我怎么喊，他都不回答。",
+        "en": "However much I call, he does not answer."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "级",
+      "en": "grade; rank",
+      "example": {
+        "zh": "作为学生，我想知道自己是几级。",
+        "en": "As a student, I want to know what level I am."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "树林",
+      "en": "woods",
+      "example": {
+        "zh": "我怎么也没想到这片树林这么大。",
+        "en": "I never imagined these woods would be so large."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "景区",
+      "en": "scenic area",
+      "example": {
+        "zh": "这个景区一年比一年热闹。",
+        "en": "This scenic area gets livelier every year."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "区",
+      "en": "area; district",
+      "example": {
+        "zh": "这个区的房子一年比一年多。",
+        "en": "There are more houses in this district each year."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "美",
+      "en": "beautiful",
+      "example": {
+        "zh": "这个地方一天比一天美。",
+        "en": "This place grows more beautiful every day."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "节假日",
+      "en": "festivals and holidays",
+      "example": {
+        "zh": "节假日，来这里的人一年比一年多。",
+        "en": "More people come here during holidays each year."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "千万",
+      "en": "be sure to; absolutely",
+      "example": {
+        "zh": "大约八点出门，千万别迟到。",
+        "en": "Leave at about eight; be sure not to be late."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "开玩笑",
+      "en": "joke",
+      "example": {
+        "zh": "作为朋友，我只是跟你开玩笑。",
+        "en": "As your friend, I am only joking with you."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "月饼",
+      "en": "mooncake",
+      "example": {
+        "zh": "这些月饼一个比一个好吃。",
+        "en": "Each of these mooncakes is tastier than the last."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "葡萄",
+      "en": "grape",
+      "example": {
+        "zh": "这些葡萄一颗比一颗大。",
+        "en": "Each of these grapes is larger than the last."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "香",
+      "en": "fragrant",
+      "example": {
+        "zh": "我怎么也没想到这茶这么香。",
+        "en": "I never imagined this tea would smell so fragrant."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "街道",
+      "en": "street",
+      "example": {
+        "zh": "这条街道一年比一年热闹。",
+        "en": "This street gets livelier every year."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "剧院",
+      "en": "theatre",
+      "example": {
+        "zh": "我们大约七点到剧院。",
+        "en": "We will reach the theatre at about seven."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "演出",
+      "en": "perform; performance",
+      "example": {
+        "zh": "演出大约八点开始。",
+        "en": "The performance starts at about eight."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "赶",
+      "en": "happen to coincide with",
+      "example": {
+        "zh": "两个活动都大约八点开始，赶在一起了。",
+        "en": "Both activities start at about eight and happen to coincide."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "巧",
+      "en": "coincidental; opportune",
+      "example": {
+        "zh": "我怎么也没想到会这么巧。",
+        "en": "I never imagined there could be such a coincidence."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "之中",
+      "en": "among; in",
+      "example": {
+        "zh": "作为老师，他是这些人之中最年轻的。",
+        "en": "As a teacher, he is the youngest among these people."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "铁路",
+      "en": "railway",
+      "example": {
+        "zh": "铁路上的车一年比一年多。",
+        "en": "There are more trains on the railway each year."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "人员",
+      "en": "personnel; staff",
+      "example": {
+        "zh": "作为工作人员，我应该帮助大家。",
+        "en": "As a staff member, I should help everyone."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "反向",
+      "en": "reverse; in the opposite direction",
+      "example": {
+        "zh": "作为司机，他知道不能反向开车。",
+        "en": "As a driver, he knows he must not drive in the opposite direction."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "团圆",
+      "en": "reunite",
+      "example": {
+        "zh": "我们大约七点到家，和父母团圆。",
+        "en": "We will arrive home at about seven to reunite with our parents."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "左右",
+      "en": "approximately; or so",
+      "example": {
+        "zh": "我们晚上六点左右吃饭。",
+        "en": "We eat at around six in the evening."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "大约",
+      "en": "approximately",
+      "example": {
+        "zh": "他大约九点回来。",
+        "en": "He will return at about nine."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "烤",
+      "en": "roast; bake",
+      "example": {
+        "zh": "这家店的烤鱼一天比一天好吃。",
+        "en": "This restaurant’s roast fish gets tastier every day."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "西红柿",
+      "en": "tomato",
+      "example": {
+        "zh": "这些西红柿一个比一个大。",
+        "en": "Each of these tomatoes is larger than the last."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "出现",
+      "en": "appear",
+      "example": {
+        "zh": "他大约八点出现在门口。",
+        "en": "He appeared at the door at about eight."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "作为",
+      "en": "as; in the capacity of",
+      "example": {
+        "zh": "作为朋友，我会帮助你。",
+        "en": "As your friend, I will help you."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "传统",
+      "en": "traditional; tradition",
+      "example": {
+        "zh": "作为传统节日，春节很重要。",
+        "en": "As a traditional festival, Spring Festival is important."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "有着",
+      "en": "have; possess",
+      "example": {
+        "zh": "作为老师，她有着丰富的经验。",
+        "en": "As a teacher, she has rich experience."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "意义",
+      "en": "meaning; significance",
+      "example": {
+        "zh": "作为礼物，这本书对我很有意义。",
+        "en": "As a gift, this book means a lot to me."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "到来",
+      "en": "arrive; come",
+      "example": {
+        "zh": "春天到来后，天气一天比一天暖。",
+        "en": "After spring arrives, the weather grows warmer each day."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "美食",
+      "en": "delicious food",
+      "example": {
+        "zh": "这里的美食一年比一年多。",
+        "en": "This place has more delicious food every year."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "年夜饭",
+      "en": "Chinese New Year’s Eve dinner",
+      "example": {
+        "zh": "我们大约六点吃年夜饭。",
+        "en": "We have New Year’s Eve dinner at about six."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "回忆",
+      "en": "recall; remember",
+      "example": {
+        "zh": "我怎么也回忆不起来那天发生了什么。",
+        "en": "However hard I try, I cannot recall what happened that day."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "童年",
+      "en": "childhood",
+      "example": {
+        "zh": "作为父母，我们希望孩子有幸福的童年。",
+        "en": "As parents, we hope our children have a happy childhood."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "记忆",
+      "en": "memory",
+      "example": {
+        "zh": "我怎么也忘不了这段美好的记忆。",
+        "en": "I cannot forget this wonderful memory."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "已",
+      "en": "already",
+      "example": {
+        "zh": "他大约六点来的，现在已回家了。",
+        "en": "He came at about six and has already gone home."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "中年",
+      "en": "middle age",
+      "example": {
+        "zh": "作为一个中年人，我更关心身体了。",
+        "en": "As a middle-aged person, I care more about my health."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "仍然",
+      "en": "still",
+      "example": {
+        "zh": "大约十点了，他仍然在学习。",
+        "en": "It is about ten, and he is still studying."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    },
+    {
+      "zh": "兄弟",
+      "en": "brothers",
+      "example": {
+        "zh": "作为兄弟，我们应该互相帮助。",
+        "en": "As brothers, we should help one another."
+      },
+      "grammar": "怎么都／也＋不／没……；一＋量词＋比＋一＋量词；大约／左右；作为"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "兄弟",
+      "en": "brothers"
+    },
+    {
+      "zh": "老虎",
+      "en": "tiger"
+    },
+    {
+      "zh": "树林",
+      "en": "woods"
+    },
+    {
+      "zh": "葡萄",
+      "en": "grapes"
+    },
+    {
+      "zh": "月饼",
+      "en": "mooncakes"
+    },
+    {
+      "zh": "喊",
+      "en": "shout"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c13-warm-0.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "他正在大声喊。",
+        "en": "He is shouting loudly."
+      }
+    },
+    {
+      "image": "4b/c13-warm-1.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "两个兄弟在一起很高兴。",
+        "en": "The two brothers are happy together."
+      }
+    },
+    {
+      "image": "4b/c13-warm-2.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "这里有一片树林。",
+        "en": "There are woods here."
+      }
+    },
+    {
+      "image": "4b/c13-warm-3.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "树上的葡萄很多。",
+        "en": "There are many grapes on the vine."
+      }
+    },
+    {
+      "image": "4b/c13-warm-4.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "桌上有几个好吃的月饼。",
+        "en": "There are several tasty mooncakes on the table."
+      }
+    },
+    {
+      "image": "4b/c13-warm-5.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "这只老虎很大。",
+        "en": "This tiger is big."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "你的国家有哪些重要节日？这些节日到来时人们会吃什么美食？",
+      "en": "What important festivals does your country have? What delicious food do people eat then?",
+      "input": true,
+      "answers": [
+        {
+          "zh": "春节很重要，我们会吃饺子。",
+          "en": "Spring Festival is important; we eat dumplings."
+        },
+        {
+          "zh": "中秋节时，大家会吃月饼。",
+          "en": "At Mid-Autumn Festival, people eat mooncakes."
+        },
+        {
+          "zh": "我们过节时会做很多家人爱吃的菜。",
+          "en": "During festivals, we cook many dishes our family likes."
+        }
+      ]
+    },
+    {
+      "zh": "你和兄弟姐妹或者好朋友节假日在一起时都会做些什么？",
+      "en": "What do you do with siblings or close friends during holidays?",
+      "input": true,
+      "answers": [
+        {
+          "zh": "我们一起吃饭、聊天儿。",
+          "en": "We eat and chat together."
+        },
+        {
+          "zh": "我们会去公园走走。",
+          "en": "We take a walk in the park."
+        },
+        {
+          "zh": "我们喜欢一起看电影。",
+          "en": "We like watching films together."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流节日生活方面的话题。",
+          "en": "Understand and discuss festival life."
+        },
+        {
+          "zh": "能够口头或书面表达节日特点、节日活动等内容。",
+          "en": "Describe festival characteristics and activities orally and in writing."
+        },
+        {
+          "zh": "了解中国人特别重视传统节日背后的文化内涵。",
+          "en": "Understand the cultural significance of traditional Chinese festivals and why they are valued."
+        }
+      ],
+      "sourcePages": [
+        29
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "王一雪提醒小明：",
+          "en": "What does Wang Yixue remind Xiaoming to do?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "别害怕",
+              "en": "Do not be afraid"
+            },
+            {
+              "zh": "不要吃东西",
+              "en": "Do not eat"
+            },
+            {
+              "zh": "看看熊和老虎",
+              "en": "Look at the bears and tigers"
+            },
+            {
+              "zh": "不要总是大喊",
+              "en": "Do not keep shouting"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "不要总是大喊",
+              "en": "D · Do not keep shouting"
+            }
+          ]
+        },
+        {
+          "zh": "刘明觉得景区怎么样？",
+          "en": "What does Liu Ming think of the scenic area?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "游客很多",
+              "en": "Many visitors"
+            },
+            {
+              "zh": "门票便宜",
+              "en": "Cheap tickets"
+            },
+            {
+              "zh": "又大又美",
+              "en": "Large and beautiful"
+            },
+            {
+              "zh": "饭馆很多",
+              "en": "Many restaurants"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "又大又美",
+              "en": "C · Large and beautiful"
+            }
+          ]
+        },
+        {
+          "zh": "王一飞和杨同乐准备了什么？",
+          "en": "What have Wang Yifei and Yang Tongle prepared?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "月饼、葡萄和苹果",
+              "en": "Mooncakes, grapes and apples"
+            },
+            {
+              "zh": "葡萄、西瓜和苹果",
+              "en": "Grapes, watermelon and apples"
+            },
+            {
+              "zh": "月饼、苹果、西瓜和茶",
+              "en": "Mooncakes, apples, watermelon and tea"
+            },
+            {
+              "zh": "月饼、葡萄、西瓜和茶",
+              "en": "Mooncakes, grapes, watermelon and tea"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "月饼、葡萄、西瓜和茶",
+              "en": "D · Mooncakes, grapes, watermelon and tea"
+            }
+          ]
+        },
+        {
+          "zh": "李文为什么没来？",
+          "en": "Why has Li Wen not come?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "在学校学习",
+              "en": "Studying at school"
+            },
+            {
+              "zh": "去买水果了",
+              "en": "Went to buy fruit"
+            },
+            {
+              "zh": "要给爷爷过生日",
+              "en": "Celebrating his grandfather’s birthday"
+            },
+            {
+              "zh": "和同事一起过节",
+              "en": "Celebrating with colleagues"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "要给爷爷过生日",
+              "en": "C · Celebrating his grandfather’s birthday"
+            }
+          ]
+        },
+        {
+          "zh": "周力不能回家过中秋节，是因为：",
+          "en": "Why can Zhou Li not go home for Mid-Autumn Festival?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "不想回家",
+              "en": "He does not want to"
+            },
+            {
+              "zh": "工作需要",
+              "en": "His work requires him to stay"
+            },
+            {
+              "zh": "没买到车票",
+              "en": "He could not get a ticket"
+            },
+            {
+              "zh": "想去外地过节",
+              "en": "He wants to celebrate elsewhere"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "工作需要",
+              "en": "B · His work requires him to stay"
+            }
+          ]
+        },
+        {
+          "zh": "中秋节这天，周力的父母为儿子做了什么？",
+          "en": "What did Zhou’s parents do for him on Mid-Autumn Festival?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "买月饼",
+              "en": "Bought mooncakes"
+            },
+            {
+              "zh": "打扫卫生",
+              "en": "Cleaned"
+            },
+            {
+              "zh": "买了一件上衣",
+              "en": "Bought a top"
+            },
+            {
+              "zh": "做了一桌饭菜",
+              "en": "Cooked a tableful of dishes"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "做了一桌饭菜",
+              "en": "D · Cooked a tableful of dishes"
+            }
+          ]
+        },
+        {
+          "zh": "下列哪个节日没有提到？",
+          "en": "Which festival is not mentioned?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "春节",
+              "en": "Spring Festival"
+            },
+            {
+              "zh": "元宵节",
+              "en": "Lantern Festival"
+            },
+            {
+              "zh": "端午节",
+              "en": "Dragon Boat Festival"
+            },
+            {
+              "zh": "六一儿童节",
+              "en": "Children’s Day"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "六一儿童节",
+              "en": "D · Children’s Day"
+            }
+          ]
+        },
+        {
+          "zh": "根据课文，春节到来时，人们会做什么？",
+          "en": "According to the text, what do people do when Spring Festival arrives?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "准备美食",
+              "en": "Prepare delicious food"
+            },
+            {
+              "zh": "外出看花",
+              "en": "Go out to see flowers"
+            },
+            {
+              "zh": "出去旅游",
+              "en": "Travel"
+            },
+            {
+              "zh": "照顾孩子",
+              "en": "Look after children"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "准备美食",
+              "en": "A · Prepare delicious food"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "六一儿童节，刘明、王一雪带刘小明到北京野生动物园看动物，他们先坐车进入猛兽区。",
+          "en": "On Children’s Day, Liu Ming and Wang Yixue take Liu Xiaoming to Beijing Wildlife Park. They first ride into the predator area."
+        },
+        {
+          "zh": "刘小明：爸爸、妈妈，快看，熊和老虎都在这儿呢！",
+          "en": "Xiaoming: Dad, Mum, look! The bears and tigers are all here!"
+        },
+        {
+          "zh": "王一雪：小明，注意安全，不要一直大喊！",
+          "en": "Wang: Xiaoming, be careful and stop shouting all the time!"
+        },
+        {
+          "zh": "刘明：你们看，那个叫东北虎，是国家一级保护动物。那边树林里还有很多动物呢。",
+          "en": "Liu: Look, that is a Siberian tiger, a nationally protected first-class animal. There are many more animals in those woods."
+        },
+        {
+          "zh": "刘小明：咱们都能看到吧？",
+          "en": "Xiaoming: We can see all of them, right?"
+        },
+        {
+          "zh": "王一雪：对。景区的车每到一个动物区都会停一会儿，让人们能近距离看看这些动物。",
+          "en": "Wang: Yes. The park vehicle stops at each animal area so people can see the animals up close."
+        },
+        {
+          "zh": "刘明：真不错，这景区真大、真美！我知道北京野生动物园很大，可怎么也没想到这么大！",
+          "en": "Liu: Wonderful! This park is huge and beautiful. I knew Beijing Wildlife Park was large, but I never imagined it was this large!"
+        },
+        {
+          "zh": "王一雪：这里有几千只动物呢，能不大吗？现在是节假日，人多。小明，一会儿千万别跑丢了，我可不是开玩笑呢。",
+          "en": "Wang: There are thousands of animals here; how could it be small? It is a holiday and crowded. Xiaoming, be sure not to run off and get lost. I am not joking."
+        },
+        {
+          "zh": "小明在北京野生动物园里先看到了什么动物？",
+          "en": "Which animals did Xiaoming first see at Beijing Wildlife Park?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他先看到了熊和老虎。",
+              "en": "He first saw bears and tigers."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "北京野生动物园有多少只动物？",
+          "en": "How many animals does Beijing Wildlife Park have?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "那里有几千只动物。",
+              "en": "There are several thousand animals."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        30,
+        31
+      ],
+      "intro": "Role-play the dialogue.",
+      "retelling": {
+        "pages": [
+          31
+        ],
+        "prompt": {
+          "zh": "六一儿童节，刘明、王一雪带儿子刘小明到北京野生动物园游玩。在动物园里，小明兴奋地喊着：“爸爸、妈妈，快看，……！”王一雪让他注意安全，……。刘明说，他们看到的老虎叫……，是国家……。刘明还说，那边树林里……。小明很想看到那些动物，王一雪告诉他，景区的车……都会停一会儿，让人们能近距离……。北京野生动物园很大，刘明说他怎么也没……。王一雪说，这里有……呢。同时，王一雪也提醒小明，节假日人多，千万……。",
+          "en": "On Children’s Day the family visits the wildlife park. Xiaoming shouts, “Look, …!” His mother asks him to be careful and…. His father identifies the tiger as…and nationally…. More animals are…. The vehicle stops…so visitors can…. Liu never imagined…. There are…. During the crowded holiday, Xiaoming must not…."
+        },
+        "answer": {
+          "zh": "六一儿童节，刘明和王一雪带小明到动物园。小明看到熊和老虎，大声喊了起来。王一雪让他注意安全，不要一直大喊。刘明说那是东北虎，是国家一级保护动物，树林里还有很多动物。景区的车到每个动物区都会停，让大家近距离看动物。这里有几千只动物，又大又美，刘明怎么也没想到这么大。王一雪提醒小明千万别跑丢了。",
+          "en": "The family visits the zoo on Children’s Day. Xiaoming shouts when he sees bears and tigers. His mother asks him to be careful and stop shouting. His father identifies the nationally protected Siberian tiger and points out other animals. The vehicle stops at each area for a close look. Thousands of animals live in the unexpectedly large, beautiful park. His mother reminds him not to get lost."
+        }
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 怎么都／也不……",
+      "blocks": [
+        {
+          "zh": "我知道北京野生动物园很大，可怎么也没想到这么大！",
+          "en": "I knew Beijing Wildlife Park was large, but never imagined it was this large!"
+        },
+        {
+          "zh": "她在包里找了半天，怎么都没找到，真奇怪。",
+          "en": "She searched her bag for ages but could not find it—how strange."
+        },
+        {
+          "zh": "我们想看那只熊猫，在动物园等了两个多小时，可是它怎么都不出来。",
+          "en": "We waited over two hours at the zoo to see the panda, but it simply would not come out."
+        },
+        {
+          "zh": "A：我一直想买这种茶，去店里买了几次，____。B：最近天热，买这种茶的人太多了。",
+          "en": "I have wanted this tea and visited the shop several times,…. The hot weather has made it popular.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "可怎么也没买到",
+              "en": "but I still could not buy any"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：我想了半天，____。B：你们好长时间没见了，突然想不起来他叫什么也能理解。",
+          "en": "I thought for ages,…. You have not met for a long time; forgetting his name is understandable.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "怎么也想不起来他叫什么",
+              "en": "but I cannot remember his name"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：这道题太难了，我做了好久，____。B：是吗？我来试试，看能不能做出来。",
+          "en": "This problem is hard; I worked for ages,…. Let me try solving it.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "怎么也做不出来",
+              "en": "but cannot solve it"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        32
+      ],
+      "intro": "怎么都／也＋不／没…… expresses an unsuccessful result despite all efforts. It can also express surprise at something unexpected."
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "在王一飞家，王一飞夫妇邀请白家月、安妮和陈天中过中秋节。",
+          "en": "At Wang Yifei’s home, she and her husband host Bai Jiayue, Annie and Chen Tianzhong for Mid-Autumn Festival."
+        },
+        {
+          "zh": "王一飞：来，大家快吃月饼，这儿还有葡萄、西瓜。",
+          "en": "Wang: Come and have mooncakes, everyone. There are also grapes and watermelon."
+        },
+        {
+          "zh": "杨同乐：这是今年的新茶，你们也尝尝。",
+          "en": "Yang: This is this year’s fresh tea. Try some too."
+        },
+        {
+          "zh": "陈天中：好的。这茶闻着真香！",
+          "en": "Chen: All right. This tea smells wonderful!"
+        },
+        {
+          "zh": "白家月：我还是第一次在中国过中秋节呢。",
+          "en": "Bai: This is my first Mid-Autumn Festival in China."
+        },
+        {
+          "zh": "安妮：我在加拿大时和中国朋友一起过过中秋节。我记得那天，外面的街道、剧院有很多演出活动。",
+          "en": "Annie: I celebrated it with Chinese friends in Canada. I remember many performances on the streets and in theatres that day."
+        },
+        {
+          "zh": "王一飞：在中国，每年中秋节都会举办很多活动，而且这几年一年比一年热闹。对了，家月，今天是李文爷爷的生日，李文来不了了，你就多吃一块月饼吧。",
+          "en": "Wang: China holds many Mid-Autumn events, and they get livelier each year. Jiayue, it is Li Wen’s grandfather’s birthday today, so Li cannot come. Have an extra mooncake!"
+        },
+        {
+          "zh": "白家月：谢谢，那我就不客气了。",
+          "en": "Bai: Thanks, I will!"
+        },
+        {
+          "zh": "杨同乐：中秋节和生日赶在了一块儿，真巧、真好！中秋节多陪陪家人也是应该的。",
+          "en": "Yang: The festival and birthday coincide—what a lovely coincidence! It is right to spend more time with family at Mid-Autumn Festival."
+        },
+        {
+          "zh": "白家月以前在中国过过中秋节吗？",
+          "en": "Has Bai celebrated Mid-Autumn Festival in China before?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "没有，这是她第一次在中国过中秋节。",
+              "en": "No, this is her first time celebrating it in China."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "在加拿大，安妮和中国朋友过中秋节时那里有什么活动？",
+          "en": "What activities were held when Annie celebrated with Chinese friends in Canada?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "街道、剧院有很多演出活动。",
+              "en": "There were many performances in streets and theatres."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        32,
+        33,
+        34
+      ],
+      "intro": "Role-play the dialogue."
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 一＋量词＋比＋一＋量词",
+      "blocks": [
+        {
+          "zh": "在中国，每年中秋节都会举办很多活动，而且这几年一年比一年热闹。",
+          "en": "China holds many Mid-Autumn activities, livelier every year recently."
+        },
+        {
+          "zh": "夏天快到了，天气也一天比一天热。",
+          "en": "Summer is approaching and each day is hotter."
+        },
+        {
+          "zh": "这家店里的杯子一个比一个漂亮，我都不知道选哪个了。",
+          "en": "Each cup in this shop is prettier than the next; I cannot choose."
+        },
+        {
+          "zh": "A：这儿的衣服怎么样？B：很不错，可以说，____漂亮。",
+          "en": "How are the clothes here? Very good; you could say each is prettier than the next.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "一件比一件",
+              "en": "each item compared with the next"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "A：你那里的天气怎么样？B：现在进入冬天了，____。",
+          "en": "How is the weather where you are? Winter has arrived,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "天气一天比一天冷",
+              "en": "it is colder every day"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "A：他们中文学得怎么样？B：不错，感觉____。",
+          "en": "How is their Chinese learning? Good; it feels….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "一天比一天好",
+              "en": "better every day"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        34
+      ],
+      "intro": "一＋measure word＋比＋一＋measure word＋adjective compares successive things or periods, each showing a greater degree."
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "中秋节的“反向团圆”",
+          "en": "The Mid-Autumn “Reverse Reunion”"
+        },
+        {
+          "zh": "中秋节时中国人一般都会回家过节。但是有些人由于工作需要，不能回家，只能一个人留在工作的地方过节。周力就是这些人之中的一位。他是一名铁路工作人员，今年中秋假期，要负责铁路安全检查。",
+          "en": "Chinese people generally go home for Mid-Autumn Festival. Some must remain where they work because of their duties. Zhou Li is one of them. He is a railway employee responsible for railway safety inspections during this year’s holiday."
+        },
+        {
+          "zh": "周力的父母知道儿子这次不能回家后，就决定来一次“反向团圆”。早上五点左右他们就坐上了高铁，大约七点就来到了儿子工作的城市。在儿子家，他们做了一桌儿子爱吃的饭菜，有烤肉、烤鱼、饺子等等，还有西红柿鸡蛋汤。周力下班回家，看到一桌子饭菜和突然出现的父母，他感觉特别幸福。",
+          "en": "When his parents learned he could not come home, they decided on a “reverse reunion.” They boarded a high-speed train at around five in the morning and arrived in his city at about seven. At his home they cooked his favourite roast meat, roast fish, dumplings and tomato-and-egg soup. Returning from work to see the food and his unexpectedly present parents, Zhou felt especially happy."
+        },
+        {
+          "zh": "这个中秋节，地点变了，但爱没变。",
+          "en": "This Mid-Autumn Festival, the place changed, but the love did not."
+        },
+        {
+          "zh": "“反向团圆”是什么意思？",
+          "en": "What does “reverse reunion” mean?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "孩子不能回家，父母就去孩子工作的地方团圆。",
+              "en": "When children cannot come home, parents visit where they work to reunite."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "周力为什么感觉特别幸福？",
+          "en": "Why did Zhou feel especially happy?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为父母来到他家，还做了一桌他爱吃的饭菜。",
+              "en": "His parents came to his home and prepared his favourite dishes."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        35,
+        36
+      ],
+      "intro": "Read the text aloud.",
+      "retelling": {
+        "pages": [
+          36
+        ],
+        "prompt": {
+          "zh": "中秋节时中国人一般都……。但是有些人由于……，不能回家，只能一个人……过节。周力就是……。他是……，今年中秋假期，要负责……。\n周力的父母知道周力……后，就决定来一次……。早上五点左右他们就……，大约七点就来到了……。在儿子家，他们做了一桌……，有……等等，还有……。周力下班回家，看到……，他感觉特别幸福。\n这个中秋节，地点……，但……。",
+          "en": "At Mid-Autumn Festival Chinese people usually…. Some cannot return because of…and remain…. Zhou is…. He works as…and is responsible for…. His parents learn…and decide…. At around five they…and around seven arrive…. They cook…, including…and…. Seeing…, he feels happy. The place…, but…."
+        },
+        "answer": {
+          "zh": "中秋节时，中国人一般会回家过节。周力是铁路工作人员，因为要检查铁路安全，不能回家。父母决定去他工作的地方“反向团圆”。他们五点左右坐高铁，大约七点到达，给儿子做了烤肉、烤鱼、饺子和西红柿鸡蛋汤。周力下班回家，看到父母和一桌饭菜，非常幸福。这个中秋节，地点变了，但爱没变。",
+          "en": "People usually return home for Mid-Autumn Festival, but railway employee Zhou must inspect railway safety. His parents travel to him for a reverse reunion, taking the train around five and arriving about seven. They cook roast meat, fish, dumplings and tomato-and-egg soup. He feels very happy to find them and the food at home. The place changed, but the love did not."
+        }
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 大约／左右",
+      "blocks": [
+        {
+          "zh": "早上五点左右他们就坐上了高铁，大约七点就来到了儿子工作的城市。",
+          "en": "They boarded the train around five and reached their son’s city about seven."
+        },
+        {
+          "zh": "我中午十二点左右到你们学校，和大家一起去食堂吃饭。",
+          "en": "I will reach your school around noon and eat with everyone at the canteen."
+        },
+        {
+          "zh": "昨天飞机晚点，我晚上大约十点半才到家。",
+          "en": "The plane was late yesterday, so I only got home at about 10:30 p.m."
+        },
+        {
+          "zh": "咱们____门口见吧，然后一起进去看演出。（剧院）",
+          "en": "Let’s meet … at the entrance and then watch the performance. (theatre)",
+          "input": true,
+          "answers": [
+            {
+              "zh": "大约七点在剧院",
+              "en": "at the theatre at about seven"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "这只老虎____。（出现）",
+          "en": "This tiger…. (appear)",
+          "input": true,
+          "answers": [
+            {
+              "zh": "每天早上八点左右出现",
+              "en": "appears around eight every morning"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "我们明天晚上____。（千万）",
+          "en": "Tomorrow evening we…. (be sure)",
+          "input": true,
+          "answers": [
+            {
+              "zh": "大约六点见，千万别迟到",
+              "en": "will meet at about six; be sure not to be late"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        36
+      ],
+      "intro": "大约 precedes a time expression and 左右 follows it. Both indicate an approximate time."
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "节日的美好记忆",
+          "en": "Wonderful Memories of Festivals"
+        },
+        {
+          "zh": "中国有很多节日，比如春节、元宵节、端午节、中秋节等。",
+          "en": "China has many festivals, including Spring Festival, Lantern Festival, Dragon Boat Festival and Mid-Autumn Festival."
+        },
+        {
+          "zh": "作为一年里最重要的传统节日，春节对中国人来说有着特别的意义。春节到来时，人们不管在哪里，都想回家过年。春节前也最忙，既要收拾房子、打扫卫生，又要准备各种美食。除夕这天晚上，一家人一边吃年夜饭，一边看春晚。零点一到，大家互相祝新年快乐，到处都是幸福的笑声。",
+          "en": "As the year’s most important traditional festival, Spring Festival has special meaning for Chinese people. Wherever they are, people want to go home. Beforehand they are busy tidying and cleaning their homes and preparing delicious food. On New Year’s Eve, the family eats dinner while watching the Spring Festival Gala. At midnight everyone exchanges New Year greetings amid happy laughter."
+        },
+        {
+          "zh": "每当回忆起童年，我最美好的记忆很多也发生在过年时。虽然现在已人到中年，离开了家，但是春节仍然是我最喜欢的节日，过年时也更想父母、兄弟姐妹。",
+          "en": "When I recall childhood, many of my happiest memories are of New Year. Although I am now middle-aged and have left home, Spring Festival remains my favourite festival, when I miss my parents and siblings even more."
+        },
+        {
+          "zh": "为什么说春节对中国人来说有着特别的意义？",
+          "en": "Why does Spring Festival have special meaning for Chinese people?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为它是一年里最重要的传统节日，大家都想回家和家人一起过年。",
+              "en": "It is the most important traditional festival, when everyone wants to celebrate with family at home."
+            }
+          ],
+          "heading": "Read & answer 1"
+        },
+        {
+          "zh": "春节为什么一直是他最喜欢的节日？",
+          "en": "Why has Spring Festival always been his favourite festival?",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为他很多美好的童年记忆都发生在过年时。",
+              "en": "Many of his happiest childhood memories are of New Year."
+            }
+          ],
+          "heading": "Read & answer 2"
+        }
+      ],
+      "note": "Retell this text in your own words",
+      "sourcePages": [
+        37,
+        38
+      ],
+      "intro": "Read the text aloud."
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 作为",
+      "blocks": [
+        {
+          "zh": "作为一年里最重要的传统节日，春节对中国人来说有着特别的意义。",
+          "en": "As the year’s most important traditional festival, Spring Festival has special meaning for Chinese people."
+        },
+        {
+          "zh": "作为新产品，这个手机不仅样子好看，价格也不高。",
+          "en": "As a new product, this phone looks good and is affordable."
+        },
+        {
+          "zh": "作为好朋友，我们一直互相关心、互相帮助。",
+          "en": "As close friends, we have always cared for and helped each other."
+        },
+        {
+          "zh": "作为父母，____。",
+          "en": "As parents,….",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我们应该关心孩子",
+              "en": "we should care for our children"
+            }
+          ],
+          "heading": "Book practice · 1"
+        },
+        {
+          "zh": "____，我必须请你尝尝北京烤鸭。",
+          "en": "…, I must treat you to Beijing roast duck.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "作为北京人",
+              "en": "As a Beijinger"
+            }
+          ],
+          "heading": "Book practice · 2"
+        },
+        {
+          "zh": "____，我支持你的决定。",
+          "en": "…, I support your decision.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "作为你的朋友",
+              "en": "As your friend"
+            }
+          ],
+          "heading": "Book practice · 3"
+        }
+      ],
+      "note": "My sentence using this grammar",
+      "sourcePages": [
+        38
+      ],
+      "intro": "作为 introduces a person’s identity or the nature of something. It must combine with the noun phrase that follows it."
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "heading": "Word bank · Questions 1–6",
+          "zh": "仍然　已　香　之中　有着　出现",
+          "en": "still; already; fragrant; in; have; appear"
+        },
+        {
+          "zh": "西安也是一座____三千多年历史的城市，欢迎您参观游玩。",
+          "en": "Xi’an is also a city … over three thousand years of history. Welcome to visit.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "有着",
+              "en": "having"
+            }
+          ],
+          "heading": "Fill in the blank · 1"
+        },
+        {
+          "zh": "他____在中国生活二十年了，生活习惯和我们没什么不同。",
+          "en": "He has … lived in China for twenty years and has similar habits to ours.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "已",
+              "en": "already"
+            }
+          ],
+          "heading": "Fill in the blank · 2"
+        },
+        {
+          "zh": "有妈妈细心照顾，孩子们每天都生活在幸福____。",
+          "en": "With Mum’s careful care, the children live … happiness every day.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "之中",
+              "en": "in"
+            }
+          ],
+          "heading": "Fill in the blank · 3"
+        },
+        {
+          "zh": "妈妈终于____在车站出口，孩子们开心极了。",
+          "en": "Mum finally … at the station exit, delighting the children.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "出现",
+              "en": "appeared"
+            }
+          ],
+          "heading": "Fill in the blank · 4"
+        },
+        {
+          "zh": "虽然遇到了很大困难，他____坚持下来了。",
+          "en": "Despite great difficulties, he … persevered.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "仍然",
+              "en": "still"
+            }
+          ],
+          "heading": "Fill in the blank · 5"
+        },
+        {
+          "zh": "这是什么咖啡？闻起来真____！",
+          "en": "What coffee is this? It smells so…!",
+          "input": true,
+          "answers": [
+            {
+              "zh": "香",
+              "en": "fragrant"
+            }
+          ],
+          "heading": "Fill in the blank · 6"
+        },
+        {
+          "heading": "Word bank · Questions 7–12",
+          "zh": "到来　老虎　喊　回忆　千万　巧",
+          "en": "arrive; tiger; call; recall; be sure; coincidental"
+        },
+        {
+          "zh": "A：你去的那家动物园有____吗？B：有，还有熊、大熊猫等好多种动物呢。",
+          "en": "Does that zoo have…? Yes, and bears, pandas and many other animals.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "老虎",
+              "en": "tigers"
+            }
+          ],
+          "heading": "Fill in the blank · 7"
+        },
+        {
+          "zh": "A：虽然离开家已四十年，但我还会经常____起小时候在家时的生活。B：我也是，年龄越大越想家。",
+          "en": "Though I left home forty years ago, I often … childhood there. Me too; I miss home more as I age.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "回忆",
+              "en": "recall"
+            }
+          ],
+          "heading": "Fill in the blank · 8"
+        },
+        {
+          "zh": "A：明天的活动你们一定要来，____别忘了。B：好的，放心吧，我们会来的。",
+          "en": "You must come tomorrow; … do not forget. Don’t worry, we will.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "千万",
+              "en": "be sure"
+            }
+          ],
+          "heading": "Fill in the blank · 9"
+        },
+        {
+          "zh": "A：我刚才____了你几遍，你都没看我。B：对不起，我戴着耳机呢，没听见。",
+          "en": "I … you several times but you did not look. Sorry, I had headphones on.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "喊",
+              "en": "called"
+            }
+          ],
+          "heading": "Fill in the blank · 10"
+        },
+        {
+          "zh": "A：没想到咱们在机场遇见了，真是太____了。我去北京，你呢？B：是啊，我也去北京出差。",
+          "en": "What a … to meet at the airport! I’m going to Beijing. Me too, on business.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "巧",
+              "en": "coincidence"
+            }
+          ],
+          "heading": "Fill in the blank · 11"
+        },
+        {
+          "zh": "A：小雨，你的生日快到了。生日____时，你想要什么礼物？B：我想要一个大蛋糕。",
+          "en": "Xiaoyu, when your birthday …, what gift would you like? A big cake.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "到来",
+              "en": "arrives"
+            }
+          ],
+          "heading": "Fill in the blank · 12"
+        }
+      ],
+      "sourcePages": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "冬冬从小到大都喜欢过节，特别是春节和元宵节。____，是因为可以吃到很多好吃的。长大后，____，去外地上大学、工作。平时大家很忙，____，但一到重要节日，在外地的兄弟姐妹就都回来了，和父母一起过节。____，特别热闹，也特别开心。",
+          "en": "Dongdong has always loved festivals, especially Spring Festival and Lantern Festival. ____, because of all the delicious food. Growing up, ____ to attend university and work elsewhere. Everyone is busy, so ____. At important festivals the siblings return to celebrate with their parents. ____, making it lively and joyful."
+        },
+        {
+          "heading": "A",
+          "zh": "兄弟姐妹都离开了家",
+          "en": "the siblings all left home"
+        },
+        {
+          "heading": "B",
+          "zh": "很难见面",
+          "en": "it is hard to meet"
+        },
+        {
+          "heading": "C",
+          "zh": "小时候喜欢过节",
+          "en": "as a child he liked festivals"
+        },
+        {
+          "heading": "D",
+          "zh": "一家人聚在一起",
+          "en": "the whole family gathers"
+        },
+        {
+          "heading": "Gap 1",
+          "zh": "第1空：____",
+          "en": "Gap 1",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "小时候喜欢过节",
+              "en": "C · as a child he liked festivals"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 2",
+          "zh": "第2空：____",
+          "en": "Gap 2",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "兄弟姐妹都离开了家",
+              "en": "A · the siblings all left home"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 3",
+          "zh": "第3空：____",
+          "en": "Gap 3",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "很难见面",
+              "en": "B · it is hard to meet"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 4",
+          "zh": "第4空：____",
+          "en": "Gap 4",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "一家人聚在一起",
+              "en": "D · the whole family gathers"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        39
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c13-exercise.jpg",
+          "alt": "Chapter 13 picture-writing prompts: theatre, scenic area and holidays"
+        },
+        {
+          "zh": "剧院",
+          "en": "Use 剧院 to describe picture 1.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "人们在剧院里看演出。",
+              "en": "People watch a performance in the theatre."
+            }
+          ]
+        },
+        {
+          "zh": "景区",
+          "en": "Use 景区 to describe picture 2.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这个景区又大又美。",
+              "en": "This scenic area is large and beautiful."
+            }
+          ]
+        },
+        {
+          "zh": "节假日",
+          "en": "Use 节假日 to describe picture 3.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "节假日，一家人一起出去玩。",
+              "en": "During the holidays, a family goes out together."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        40
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "zh": "三至四人一组，每人介绍一个你最喜欢的节日，说说为什么喜欢，过节时你都会做什么，等等。讨论后，每人再向大家介绍小组中另一位同学最喜欢的节日。",
+          "en": "In groups of three or four, share your favourite festival, why you like it and what you do. Then introduce another group member’s favourite festival.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我最喜欢春节，因为可以和家人一起吃饭、聊天儿。",
+              "en": "I like Spring Festival most because I can eat and chat with my family."
+            },
+            {
+              "zh": "我的朋友最喜欢中秋节。他会和父母一起吃月饼。",
+              "en": "My friend likes Mid-Autumn Festival most and eats mooncakes with his parents."
+            },
+            {
+              "zh": "她喜欢春节，因为能回老家，看望父母和兄弟姐妹。",
+              "en": "She likes Spring Festival because she can visit her hometown, parents and siblings."
+            }
+          ],
+          "heading": "Group discussion"
+        },
+        {
+          "zh": "在你的国家，你最喜欢过什么节？请写一篇短文，说说过节时发生的故事，不少于140字。",
+          "en": "Which festival in your country do you most enjoy? Write at least 140 Chinese characters telling a story from that festival.",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我最喜欢春节，因为过年时一家人能在一起。去年春节，我和父母一起回老家。我们大约下午三点到，爷爷、奶奶已在门口等我们了。我帮奶奶准备年夜饭，父亲打扫房间，母亲和爷爷聊天儿。六点左右，大家坐下来吃饭。我怎么也没想到，奶奶做了这么多我爱吃的菜！饭后，我们一起看电视，说起我童年时的事情，大家都笑了。虽然平时工作很忙，很难见面，但是春节让我们有机会团圆。作为家里的一员，我希望以后每年都能回家，多陪陪父母和爷爷、奶奶。这是我最美好的记忆之一。",
+              "en": "Spring Festival is my favourite because the family can reunite. Last year we reached our hometown around three, where my grandparents were waiting. I helped prepare dinner, Dad cleaned, and Mum chatted with Grandpa. At around six we ate; I was amazed by all my favourite dishes. Later we watched television and laughed about my childhood. Although work makes it hard to meet, the festival brings us together. I hope to return every year and spend more time with my family. This is one of my happiest memories."
+            }
+          ],
+          "heading": "Writing · at least 140 characters",
+          "minChars": 140
+        }
+      ],
+      "sourcePages": [
+        40
+      ]
+    },
+    {
+      "id": "summary",
+      "title": "Book self-assessment",
+      "blocks": [
+        {
+          "zh": "能使用本课“景区、节假日、剧院、中秋节、美食、回忆”等词语，谈论关于美好日子的话题。",
+          "en": "I can use the chapter vocabulary to discuss wonderful days.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        },
+        {
+          "zh": "能理解并运用“怎么都／也＋不／没……”“一＋量词＋比＋一＋量词”“大约”“左右”“作为”等语言点。",
+          "en": "I can understand and use all four grammar points.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        },
+        {
+          "zh": "能介绍一些节日以及节日里发生的有趣的故事。",
+          "en": "I can introduce festivals and tell interesting stories about them.",
+          "input": true,
+          "heading": "No problem / It’s OK / Need to improve"
+        }
+      ],
+      "sourcePages": [
+        41
+      ]
+    },
+    {
+      "id": "proper-nouns",
+      "title": "Proper nouns",
+      "blocks": [
+        {
+          "zh": "东北虎",
+          "en": "Siberian tiger"
+        },
+        {
+          "zh": "北京野生动物园",
+          "en": "Beijing Wildlife Park"
+        },
+        {
+          "zh": "中秋节",
+          "en": "Mid-Autumn Festival"
+        },
+        {
+          "zh": "加拿大",
+          "en": "Canada"
+        },
+        {
+          "zh": "元宵节",
+          "en": "Lantern Festival"
+        },
+        {
+          "zh": "端午节",
+          "en": "Dragon Boat Festival"
+        },
+        {
+          "zh": "除夕",
+          "en": "Chinese New Year’s Eve"
+        },
+        {
+          "zh": "春晚",
+          "en": "Spring Festival Gala"
+        }
+      ],
+      "sourcePages": [
+        31,
+        33,
+        38
+      ]
+    }
+  ]
+}

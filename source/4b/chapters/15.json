@@ -1,0 +1,1611 @@
+{
+  "id": 15,
+  "title": "我去应聘了",
+  "en": "I went for a job interview",
+  "page": 54,
+  "grammar": [
+    "再也不／没……",
+    "由",
+    "把＋宾语＋动词（一／了）＋动词",
+    "A不如B"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    54,
+    65
+  ],
+  "words": [
+    {
+      "zh": "期中",
+      "en": "midterm",
+      "example": {
+        "zh": "期中考试以后，我再也没迟到过。",
+        "en": "Since the midterm exam I have never been late again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "医药",
+      "en": "medicine; pharmaceuticals",
+      "example": {
+        "zh": "我再也没去过那家医药公司。",
+        "en": "I have never visited that pharmaceutical company again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "应聘",
+      "en": "apply for a job",
+      "example": {
+        "zh": "我再也不想一个人去应聘了。",
+        "en": "I never want to apply for a job alone again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "招聘",
+      "en": "recruit; hire",
+      "example": {
+        "zh": "那家公司再也没来学校招聘。",
+        "en": "That company has not returned to recruit at school."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "实习",
+      "en": "do an internship",
+      "example": {
+        "zh": "实习以后，我再也不觉得工作很简单了。",
+        "en": "After my internship I no longer think work is easy."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "考虑",
+      "en": "consider",
+      "example": {
+        "zh": "我再也不考虑买那种手机了。",
+        "en": "I will never consider buying that kind of phone again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "单位",
+      "en": "work unit; organisation",
+      "example": {
+        "zh": "我再也没回过以前的单位。",
+        "en": "I have never returned to my former workplace."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "毕业生",
+      "en": "graduate",
+      "example": {
+        "zh": "那位毕业生再也没来过这里。",
+        "en": "That graduate has never come here again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "经历",
+      "en": "experience; undergo",
+      "example": {
+        "zh": "有了这次经历，我再也不着急了。",
+        "en": "After this experience I no longer feel anxious."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "消息",
+      "en": "news; message",
+      "example": {
+        "zh": "我再也没收到他的消息。",
+        "en": "I have never heard from him again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "报名",
+      "en": "sign up",
+      "example": {
+        "zh": "我再也不忘记提前报名了。",
+        "en": "I will never forget to sign up in advance again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "填写",
+      "en": "fill in",
+      "example": {
+        "zh": "我再也不着急填写这些材料了。",
+        "en": "I will never rush to fill in these forms again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "笔试",
+      "en": "written examination",
+      "example": {
+        "zh": "我再也不怕参加笔试了。",
+        "en": "I am no longer afraid of written exams."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "面试",
+      "en": "interview",
+      "example": {
+        "zh": "我再也没参加过那家公司的面试。",
+        "en": "I have never interviewed at that company again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "答",
+      "en": "answer",
+      "example": {
+        "zh": "我再也不随便答老师的问题了。",
+        "en": "I will never answer the teacher carelessly again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "由",
+      "en": "by",
+      "example": {
+        "zh": "这件事再也不由他负责了。",
+        "en": "He will no longer be responsible for this matter."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "部门",
+      "en": "department",
+      "example": {
+        "zh": "我再也没去过那个部门。",
+        "en": "I have never visited that department again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "负责人",
+      "en": "person in charge",
+      "example": {
+        "zh": "我再也没见过那位负责人。",
+        "en": "I have never seen that person in charge again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "不论",
+      "en": "regardless of",
+      "example": {
+        "zh": "不论多忙，我再也不忘记吃早饭了。",
+        "en": "However busy I am, I will never forget breakfast again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "肯定",
+      "en": "certainly; sure",
+      "example": {
+        "zh": "我肯定再也不会迟到了。",
+        "en": "I am sure I will never be late again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "短信",
+      "en": "text message",
+      "example": {
+        "zh": "我再也没收到他的短信。",
+        "en": "I have never received another text from him."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "激动",
+      "en": "excited",
+      "example": {
+        "zh": "我再也没有这么激动过。",
+        "en": "I have never been this excited again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "扔",
+      "en": "throw",
+      "example": {
+        "zh": "我再也不随便扔东西了。",
+        "en": "I will never throw things carelessly again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "理发",
+      "en": "get a haircut",
+      "example": {
+        "zh": "我再也没去过那家理发店。",
+        "en": "I have never visited that hairdresser again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "镜子",
+      "en": "mirror",
+      "example": {
+        "zh": "我再也不把镜子放在这里了。",
+        "en": "I will never put the mirror here again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "自我",
+      "en": "oneself; self-",
+      "example": {
+        "zh": "我再也不怕做自我介绍了。",
+        "en": "I am no longer afraid to introduce myself."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "能够",
+      "en": "be able to",
+      "example": {
+        "zh": "我希望能够再也不让家人担心。",
+        "en": "I hope I can stop making my family worry."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "运用",
+      "en": "apply; use",
+      "example": {
+        "zh": "学会运用这个方法后，我再也不怕了。",
+        "en": "After learning to use this method I am no longer afraid."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "工厂",
+      "en": "factory",
+      "example": {
+        "zh": "我再也没去过那个工厂。",
+        "en": "I have never visited that factory again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "规定",
+      "en": "rule; stipulate",
+      "example": {
+        "zh": "我再也不忘记公司的规定了。",
+        "en": "I will never forget the company rules again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "课堂",
+      "en": "classroom; class",
+      "example": {
+        "zh": "我再也不在课堂上玩手机了。",
+        "en": "I will never play on my phone in class again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "完全",
+      "en": "completely",
+      "example": {
+        "zh": "完全理解以后，我再也不问这个问题了。",
+        "en": "After understanding completely I will not ask this again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "例如",
+      "en": "for example",
+      "example": {
+        "zh": "我改了很多习惯，例如再也不熬夜了。",
+        "en": "I changed many habits; for example, I no longer stay up late."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "不如",
+      "en": "not as good as; better to",
+      "example": {
+        "zh": "我觉得坐车不如走路，再也不开车去公园了。",
+        "en": "I prefer walking to taking transport and will not drive to the park again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "细节",
+      "en": "detail",
+      "example": {
+        "zh": "我再也不忘记这些重要的细节了。",
+        "en": "I will never forget these important details again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "答案",
+      "en": "answer",
+      "example": {
+        "zh": "我再也不直接看答案了。",
+        "en": "I will never look straight at the answers again."
+      },
+      "grammar": "再也不／没……"
+    },
+    {
+      "zh": "职业",
+      "en": "occupation; career",
+      "example": {
+        "zh": "我再也不随便选择职业了。",
+        "en": "I will never choose a career carelessly again."
+      },
+      "grammar": "再也不／没……"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "工厂",
+      "en": "factory"
+    },
+    {
+      "zh": "镜子",
+      "en": "mirror"
+    },
+    {
+      "zh": "理发",
+      "en": "get a haircut"
+    },
+    {
+      "zh": "面试",
+      "en": "interview"
+    },
+    {
+      "zh": "短信",
+      "en": "text message"
+    },
+    {
+      "zh": "毕业生",
+      "en": "graduate"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c15-warm-0.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "他正在理发。",
+        "en": "He is getting a haircut."
+      }
+    },
+    {
+      "image": "4b/c15-warm-1.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "这是一家工厂。",
+        "en": "This is a factory."
+      }
+    },
+    {
+      "image": "4b/c15-warm-2.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "他正在看短信。",
+        "en": "He is reading a text message."
+      }
+    },
+    {
+      "image": "4b/c15-warm-3.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "她手里拿着一面镜子。",
+        "en": "She is holding a mirror."
+      }
+    },
+    {
+      "image": "4b/c15-warm-4.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "他正在参加面试。",
+        "en": "He is attending an interview."
+      }
+    },
+    {
+      "image": "4b/c15-warm-5.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "这些毕业生很高兴。",
+        "en": "These graduates are happy."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "你以前实习过吗？是在哪儿实习的？",
+      "en": "Have you done an internship? Where?",
+      "answers": [
+        {
+          "zh": "我在一家小公司实习过，学到了很多东西。",
+          "en": "I interned at a small company and learned a lot."
+        },
+        {
+          "zh": "我还没有实习过，希望今年有机会。",
+          "en": "I have not interned yet and hope to this year."
+        },
+        {
+          "zh": "我在学校实习过，帮老师准备材料。",
+          "en": "I interned at a school, helping teachers prepare materials."
+        }
+      ]
+    },
+    {
+      "zh": "你觉得面试的时候需要注意哪些方面？",
+      "en": "What should you pay attention to in an interview?",
+      "answers": [
+        {
+          "zh": "要按时到，先准备好自我介绍。",
+          "en": "Arrive on time and prepare a self-introduction."
+        },
+        {
+          "zh": "我觉得要认真听问题，说清楚自己的想法。",
+          "en": "Listen carefully and explain your ideas clearly."
+        },
+        {
+          "zh": "穿的衣服要合适，对别人要有礼貌。",
+          "en": "Dress suitably and be polite."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "李文最近在忙什么？",
+          "en": "What has Li Wen been busy doing?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "去公司应聘",
+              "en": "applying to a company"
+            },
+            {
+              "zh": "在公司实习",
+              "en": "interning at a company"
+            },
+            {
+              "zh": "准备期中考试",
+              "en": "preparing for midterms"
+            },
+            {
+              "zh": "为毕业做准备",
+              "en": "preparing to graduate"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "去公司应聘",
+              "en": "A · applying to a company"
+            }
+          ],
+          "input": true,
+          "solution": "A"
+        },
+        {
+          "zh": "很多单位招聘毕业生时，比较重视什么？",
+          "en": "What do employers value when recruiting graduates?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "身体情况",
+              "en": "health"
+            },
+            {
+              "zh": "学习成绩",
+              "en": "grades"
+            },
+            {
+              "zh": "实习经历",
+              "en": "internship experience"
+            },
+            {
+              "zh": "毕业的学校",
+              "en": "university attended"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "实习经历",
+              "en": "C · internship experience"
+            }
+          ],
+          "input": true,
+          "solution": "C"
+        },
+        {
+          "zh": "李文应聘时，第一步做的是什么？",
+          "en": "What was Li’s first application step?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "参加笔试",
+              "en": "written exam"
+            },
+            {
+              "zh": "参加面试",
+              "en": "interview"
+            },
+            {
+              "zh": "在网上报名",
+              "en": "online registration"
+            },
+            {
+              "zh": "给负责人打电话",
+              "en": "calling the manager"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "在网上报名",
+              "en": "C · online registration"
+            }
+          ],
+          "input": true,
+          "solution": "C"
+        },
+        {
+          "zh": "公司的笔试主要考什么？",
+          "en": "What did the written exam mainly test?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "外语水平",
+              "en": "foreign languages"
+            },
+            {
+              "zh": "专业知识",
+              "en": "professional knowledge"
+            },
+            {
+              "zh": "兴趣爱好",
+              "en": "interests"
+            },
+            {
+              "zh": "对工作的想法",
+              "en": "views about work"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "专业知识",
+              "en": "B · professional knowledge"
+            }
+          ],
+          "input": true,
+          "solution": "B"
+        },
+        {
+          "zh": "李文收到的短信内容是什么？",
+          "en": "What did the text message say?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "他通过面试了",
+              "en": "he passed the interview"
+            },
+            {
+              "zh": "他周末得加班",
+              "en": "he must work overtime at the weekend"
+            },
+            {
+              "zh": "他明天要开始工作",
+              "en": "he starts tomorrow"
+            },
+            {
+              "zh": "他下周工作任务多",
+              "en": "he has many tasks next week"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "他通过面试了",
+              "en": "A · he passed the interview"
+            }
+          ],
+          "input": true,
+          "solution": "A"
+        },
+        {
+          "zh": "李文做了什么准备？",
+          "en": "What preparation did Li make?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "搬到了公司附近",
+              "en": "moved near the company"
+            },
+            {
+              "zh": "买了一个新手机",
+              "en": "bought a new phone"
+            },
+            {
+              "zh": "买了一身新衣服",
+              "en": "bought a new outfit"
+            },
+            {
+              "zh": "去商场买礼物了",
+              "en": "bought gifts at the mall"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "买了一身新衣服",
+              "en": "C · bought a new outfit"
+            }
+          ],
+          "input": true,
+          "solution": "C"
+        },
+        {
+          "zh": "为什么很多大学生要去实习？",
+          "en": "Why do many students intern?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "想认识新朋友",
+              "en": "to make friends"
+            },
+            {
+              "zh": "便于了解社会",
+              "en": "to understand society"
+            },
+            {
+              "zh": "想减轻经济压力",
+              "en": "to reduce financial pressure"
+            },
+            {
+              "zh": "为了达到毕业要求",
+              "en": "to meet graduation requirements"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "便于了解社会",
+              "en": "B · to understand society"
+            }
+          ],
+          "input": true,
+          "solution": "B"
+        },
+        {
+          "zh": "在实习中，学生们会有什么发现？",
+          "en": "What do students discover during internships?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "工作比学习更简单",
+              "en": "work is easier than study"
+            },
+            {
+              "zh": "书上的知识没有用",
+              "en": "book knowledge is useless"
+            },
+            {
+              "zh": "学习时要注意细节",
+              "en": "details matter only in study"
+            },
+            {
+              "zh": "有的问题要慢慢理解",
+              "en": "some problems take time to understand"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "有的问题要慢慢理解",
+              "en": "D · some problems take time to understand"
+            }
+          ],
+          "input": true,
+          "solution": "D"
+        }
+      ],
+      "sourcePages": []
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "陈天中：李文，期中考试后就再也没见过你了，你这段时间在忙什么呢？",
+          "en": "Chen Tianzhong: Li Wen, I haven’t seen you since the midterms. What have you been busy with?"
+        },
+        {
+          "zh": "李文：我最近去一家医药公司应聘了，他们正在招聘实习生。",
+          "en": "Li Wen: I applied to a pharmaceutical company recruiting interns."
+        },
+        {
+          "zh": "陈天中：你这么早就考虑实习了？",
+          "en": "Chen: Are you considering an internship so early?"
+        },
+        {
+          "zh": "李文：现在很多单位在招聘毕业生时，都很重视有没有实习经历，所以我想提前去锻炼一下，积累一些经验。",
+          "en": "Li: Many employers value internship experience when hiring graduates, so I want to gain experience early."
+        },
+        {
+          "zh": "陈天中：那现在有结果了吗？",
+          "en": "Chen: Do you have a result yet?"
+        },
+        {
+          "zh": "李文：我还在等消息，希望能有好结果。",
+          "en": "Li: I’m still waiting for news and hoping for a good result."
+        },
+        {
+          "zh": "李文为什么现在就想去实习？",
+          "en": "Why does Li want an internship now?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为很多单位重视实习经历，他想提前积累经验。",
+              "en": "Employers value internships and he wants early experience."
+            }
+          ]
+        },
+        {
+          "zh": "李文应聘成功了吗？",
+          "en": "Was his application successful?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "还不知道，他正在等消息。",
+              "en": "He does not know yet; he is waiting for news."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        55,
+        56
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          56
+        ],
+        "prompt": {
+          "zh": "陈天中很久没有……。他问李文这段时间……。李文说他最近去……，因为那家公司……。他觉得现在很多单位在……时，都很重视……，所以他想提前……，积累……。陈天中又问李文现在……。李文说他还在……，希望……。",
+          "en": "Retell why Li applied, why internships matter, and why he is still waiting."
+        },
+        "answer": {
+          "zh": "陈天中很久没有见过李文，问他最近忙什么。李文说，他去一家招聘实习生的医药公司应聘了。很多单位招聘毕业生时重视实习经历，所以他想提前锻炼，积累经验。他现在还在等消息，希望有好结果。",
+          "en": "Chen had not seen Li for a long time and asked about his activities. Li had applied to a pharmaceutical company recruiting interns. Employers value experience, so he wanted to gain it early. He was still waiting and hoping for good news."
+        }
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 再也不／没……",
+      "blocks": [
+        {
+          "zh": "期中考试后就再也没见过你了。",
+          "en": "I have not seen you since the midterms."
+        },
+        {
+          "zh": "对不起，我以后再也不迟到了。",
+          "en": "Sorry, I will never be late again."
+        },
+        {
+          "zh": "我出国以后就再也没给他打过电话。",
+          "en": "I have not called him since going abroad."
+        },
+        {
+          "zh": "A：你和小王还有联系吗？ B：毕业以后，____。",
+          "en": "Do you still contact Xiao Wang? Complete using 再也没.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "再也没和他联系过",
+              "en": "I have not contacted him again"
+            }
+          ]
+        },
+        {
+          "zh": "A：你以后千万要注意保护好眼睛。 B：知道了，我以后____。",
+          "en": "Promise to protect your eyes.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "再也不长时间玩手机了",
+              "en": "will never spend long periods on my phone again"
+            }
+          ]
+        },
+        {
+          "zh": "A：你还常去太阳公园散步吗？ B：搬家以后离公园太远了，____。",
+          "en": "Explain that you stopped visiting the park after moving.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我再也没去过了",
+              "en": "I have never been there again"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        56
+      ],
+      "intro": "再也不 means something will never happen again; 再也没 means it has not happened again since a past point.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "陈天中：李文，你是怎么应聘的？",
+          "en": "Chen: Li, how did you apply?"
+        },
+        {
+          "zh": "李文：我先在网上报名，填写个人信息，然后等公司通知我去参加笔试。",
+          "en": "Li: I registered online and filled in personal details, then waited for the company to invite me to a written exam."
+        },
+        {
+          "zh": "陈天中：笔试都考些什么？",
+          "en": "Chen: What did the written exam test?"
+        },
+        {
+          "zh": "李文：主要是一些专业知识。考完没多久，他们就让我去面试了。",
+          "en": "Li: Mainly professional knowledge. Soon afterward they invited me to an interview."
+        },
+        {
+          "zh": "陈天中：看来你笔试答得不错，那你面试得怎么样？",
+          "en": "Chen: Your written answers must have been good. How was the interview?"
+        },
+        {
+          "zh": "李文：那天是由部门负责人来面试的，我有点儿紧张。他让我介绍了自己的学习经历、兴趣爱好和对工作的想法。",
+          "en": "Li: The department head interviewed me. I was nervous. He asked about my education, interests and ideas about work."
+        },
+        {
+          "zh": "陈天中：听起来挺正式的。",
+          "en": "Chen: It sounds formal."
+        },
+        {
+          "zh": "李文：是啊，我觉得这次经历很有用。不论结果怎么样，对我以后找工作肯定有帮助。",
+          "en": "Li: Yes. It was useful. Whatever the result, it will certainly help my future job search."
+        },
+        {
+          "zh": "李文面试的内容是什么？",
+          "en": "What did Li discuss in the interview?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他介绍了学习经历、兴趣爱好和对工作的想法。",
+              "en": "His education, interests and ideas about work."
+            }
+          ]
+        },
+        {
+          "zh": "李文觉得这次应聘经历怎么样？",
+          "en": "How does Li feel about the application experience?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "很有用，不论结果怎么样，都对以后找工作有帮助。",
+              "en": "It is useful and will help future job hunting regardless of the result."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        57,
+        58
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 由",
+      "blocks": [
+        {
+          "zh": "那天是由部门负责人来面试的，我有点儿紧张。",
+          "en": "The department head interviewed me that day and I was nervous."
+        },
+        {
+          "zh": "这个问题究竟由谁来负责解决？",
+          "en": "Who exactly is responsible for resolving this problem?"
+        },
+        {
+          "zh": "这次活动是由他们公司来安排的。",
+          "en": "Their company arranged this event."
+        },
+        {
+          "zh": "A：这个工作是谁完成的？ B：____。",
+          "en": "Who completed this work?",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这个工作是由我们部门完成的",
+              "en": "Our department completed it."
+            }
+          ]
+        },
+        {
+          "zh": "A：这些节目是谁准备的？ B：____。",
+          "en": "Who prepared these programmes?",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这些节目是由学生们准备的",
+              "en": "The students prepared them."
+            }
+          ]
+        },
+        {
+          "zh": "A：这期交流活动是谁举办的？ B：____。",
+          "en": "Who organised this exchange event?",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "是由我们学校举办的",
+              "en": "Our school organised it."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        58
+      ],
+      "intro": "由 introduces the person or organisation performing an action.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "一天下午，李文突然收到一条短信，说他通过了面试，让他下周一到公司实习。李文看到信息后，激动得把手机扔到床上，在屋子里跳了起来。之后的几天，李文忙着做各种准备。为了给大家留个好印象，他去理发店把头发理了理，又去商店买了一身正式的衣服，还打算在镜子前把自我介绍练一练。",
+          "en": "One afternoon Li received a text saying he had passed the interview and should start his internship next Monday. He was so excited that he threw his phone onto the bed and jumped around. Over the following days he prepared: a haircut, a formal outfit and plans to rehearse his self-introduction in front of a mirror."
+        },
+        {
+          "zh": "在他看来，这次实习是一个新的开始。他希望不仅能够运用专业知识完成任务，还能够积累更多经验，为将来找工作打下基础。",
+          "en": "He saw the internship as a new beginning. He hoped to apply his professional knowledge, complete tasks and gain experience to build a foundation for future work."
+        },
+        {
+          "zh": "李文看到信息后做什么了？",
+          "en": "What did Li do after reading the message?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他激动得把手机扔到床上，在屋子里跳了起来。",
+              "en": "He threw his phone onto the bed and jumped excitedly."
+            }
+          ]
+        },
+        {
+          "zh": "李文是怎么看这次实习的？",
+          "en": "How did Li view the internship?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他觉得这是新的开始，可以运用知识、积累经验，为找工作打基础。",
+              "en": "As a new beginning to apply knowledge and gain experience for future employment."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        59,
+        60
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          60
+        ],
+        "prompt": {
+          "zh": "李文收到了一条短信，告诉他……，让他下周一……。他看到信息后，激动得……，在屋子里……。为了给大家……，他去理发店……，又去商店……，还打算在镜子前……。他觉得这次实习是……。他希望不仅能够……，还能够……，为将来找工作……。",
+          "en": "Retell the message, Li’s reaction and preparations, and his hopes for the internship."
+        },
+        "answer": {
+          "zh": "李文收到短信，知道自己通过了面试，下周一可以去公司实习。他很激动，把手机扔到床上，在屋子里跳了起来。他去理发，买了正式的衣服，还准备在镜子前练习自我介绍。他觉得实习是新的开始，希望运用专业知识，积累经验，为将来找工作打下基础。",
+          "en": "Li learned that he had passed the interview and would start on Monday. He threw his phone onto the bed and jumped with excitement. He got a haircut, bought formal clothes and planned to rehearse his introduction. He hoped to use his knowledge and gain experience for future work."
+        }
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 把＋宾语＋动词（一／了）＋动词",
+      "blocks": [
+        {
+          "zh": "他去理发店把头发理了理。",
+          "en": "He went to the hairdresser for a trim."
+        },
+        {
+          "zh": "你先把作业检查检查，然后再交给老师。",
+          "en": "Check your homework before handing it to the teacher."
+        },
+        {
+          "zh": "上课前，我把今天要学习的内容看了看。",
+          "en": "Before class I looked over today’s material."
+        },
+        {
+          "zh": "我____，也说出了自己的看法。（想）",
+          "en": "Use 想 with a repeated verb.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "把这个问题想了想",
+              "en": "thought about this problem a little"
+            }
+          ]
+        },
+        {
+          "zh": "看到办公室有点儿脏，他打算____。（扫）",
+          "en": "The office is dirty; use 扫.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "把办公室扫一扫",
+              "en": "give the office a sweep"
+            }
+          ]
+        },
+        {
+          "zh": "我建议你每次先____，然后再开始写作业。（复习）",
+          "en": "Recommend reviewing before homework.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "把今天学的内容复习复习",
+              "en": "review today’s material briefly"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        60
+      ],
+      "intro": "In 把 sentences, repeated verbs (VV, V一V or V了V) describe brief or light actions.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "在中国，很多大学生在毕业前都会去实习。实习的地方有公司、工厂，也有学校和医院。学生们通过实习，可以积累工作经验，熟悉工作内容和单位的管理规定，提前了解并适应社会。",
+          "en": "Many Chinese university students intern before graduation at companies, factories, schools or hospitals. Internships help them gain experience, learn tasks and workplace rules, and understand and adapt to society."
+        },
+        {
+          "zh": "在实习中，学生常常会发现，课堂上学到的知识和实际工作并不完全一样。例如：有些事情，在课本上学不如自己做一遍，因为只有在做的时候，才会发现有很多细节需要注意；还有一些问题，在书上找不到答案，只能通过日常工作慢慢理解。在这样的过程中，学生能够对学到的知识有更好的认识，也更清楚自己的职业发展方向。",
+          "en": "Students often discover that classroom knowledge and real work differ. Some things are better learned by doing because details emerge only in practice. Other problems have no textbook answer and become clear through daily work. This improves students’ understanding and clarifies their career direction."
+        },
+        {
+          "zh": "通过实习，学生可以学到什么？",
+          "en": "What can students learn from internships?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "可以积累经验，了解工作内容和规定，适应社会，明确职业方向。",
+              "en": "They gain experience, learn duties and rules, adapt to society and clarify career goals."
+            }
+          ]
+        },
+        {
+          "zh": "为什么说有些事情需要自己做一遍？",
+          "en": "Why should some things be tried personally?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "只有在做的时候，才会发现需要注意的细节。",
+              "en": "Only practice reveals details that need attention."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        61,
+        62
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · A不如B",
+      "blocks": [
+        {
+          "zh": "有些事情，在课本上学不如自己做一遍。",
+          "en": "Some things are better learned by doing than from a textbook."
+        },
+        {
+          "zh": "这家店不如那家店环境好。",
+          "en": "This shop’s surroundings are not as good as that shop’s."
+        },
+        {
+          "zh": "我觉得坐公交不如坐地铁方便。",
+          "en": "I find buses less convenient than the subway."
+        },
+        {
+          "zh": "你多走走吧，坐车____。",
+          "en": "Recommend walking rather than riding.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不如走路对身体好",
+              "en": "is less healthy than walking"
+            }
+          ]
+        },
+        {
+          "zh": "不知道怎么解决问题时，自己想____。",
+          "en": "Compare thinking alone with asking others.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不如问问有经验的人",
+              "en": "is not as good as asking experienced people"
+            }
+          ]
+        },
+        {
+          "zh": "我更愿意在家做饭，因为在外面吃饭____。",
+          "en": "Explain a preference for cooking at home.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不如在家吃饭便宜",
+              "en": "is more expensive than eating at home"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        62
+      ],
+      "intro": "A不如B means A is not as good as B; with an adjective it compares that quality.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "zh": "A 考虑　B 笔试　C 不论　D 消息　E 肯定　F 负责人",
+          "en": "A consider · B written exam · C regardless of · D news · E certainly · F person in charge",
+          "heading": "Word bank · questions 1–6"
+        },
+        {
+          "zh": "你这么努力，这次考试____能通过。",
+          "en": "You work so hard; you will ____ pass this exam.",
+          "heading": "Fill in the blank · 1",
+          "input": true,
+          "solution": "肯定",
+          "answers": [
+            {
+              "zh": "肯定",
+              "en": "certainly"
+            }
+          ]
+        },
+        {
+          "zh": "您有什么问题，可以直接跟____联系。",
+          "en": "For any questions, contact the ____ directly.",
+          "heading": "Fill in the blank · 2",
+          "input": true,
+          "solution": "负责人",
+          "answers": [
+            {
+              "zh": "负责人",
+              "en": "person in charge"
+            }
+          ]
+        },
+        {
+          "zh": "____你同不同意，我都会按照计划去做。",
+          "en": "____ you agree or not, I will follow the plan.",
+          "heading": "Fill in the blank · 3",
+          "input": true,
+          "solution": "不论",
+          "answers": [
+            {
+              "zh": "不论",
+              "en": "regardless of whether"
+            }
+          ]
+        },
+        {
+          "zh": "这件事比较重要，我需要再认真____一下。",
+          "en": "This is important; I need to ____ it carefully again.",
+          "heading": "Fill in the blank · 4",
+          "input": true,
+          "solution": "考虑",
+          "answers": [
+            {
+              "zh": "考虑",
+              "en": "consider"
+            }
+          ]
+        },
+        {
+          "zh": "我们要先进行____，了解一下大家的专业能力。",
+          "en": "We first hold a ____ to assess professional abilities.",
+          "heading": "Fill in the blank · 5",
+          "input": true,
+          "solution": "笔试",
+          "answers": [
+            {
+              "zh": "笔试",
+              "en": "written exam"
+            }
+          ]
+        },
+        {
+          "zh": "我已经等了好几天了，还是没有收到他的____。",
+          "en": "I have waited several days but still have no ____ from him.",
+          "heading": "Fill in the blank · 6",
+          "input": true,
+          "solution": "消息",
+          "answers": [
+            {
+              "zh": "消息",
+              "en": "news"
+            }
+          ]
+        },
+        {
+          "zh": "A 能够　B 理发　C 答案　D 工厂　E 激动　F 职业",
+          "en": "A be able to · B get a haircut · C answer · D factory · E excited · F career",
+          "heading": "Word bank · questions 7–12"
+        },
+        {
+          "zh": "A：你知道这道题的____吗？B：知道，我已经写在纸上了。",
+          "en": "A: Do you know the ____ to this question? B: Yes, I have written it down.",
+          "heading": "Fill in the blank · 7",
+          "input": true,
+          "solution": "答案",
+          "answers": [
+            {
+              "zh": "答案",
+              "en": "answer"
+            }
+          ]
+        },
+        {
+          "zh": "A：听说你获得奖学金了？B：是的，我____得昨天晚上都没睡好。",
+          "en": "A: I heard you won a scholarship? B: Yes, I was so ____ that I slept badly last night.",
+          "heading": "Fill in the blank · 8",
+          "input": true,
+          "solution": "激动",
+          "answers": [
+            {
+              "zh": "激动",
+              "en": "excited"
+            }
+          ]
+        },
+        {
+          "zh": "A：你现在中文说得怎么样了？B：我已经____和中国朋友进行简单交流了。",
+          "en": "A: How is your Chinese now? B: I am ____ to communicate simply with Chinese friends.",
+          "heading": "Fill in the blank · 9",
+          "input": true,
+          "solution": "能够",
+          "answers": [
+            {
+              "zh": "能够",
+              "en": "able"
+            }
+          ]
+        },
+        {
+          "zh": "A：下午我去____，你想跟我一起去吗？B：好呀，我最近头发有点儿长了，正好下午有时间。",
+          "en": "A: I am getting a ____ this afternoon. Want to come? B: Yes, my hair is long and I am free then.",
+          "heading": "Fill in the blank · 10",
+          "input": true,
+          "solution": "理发",
+          "answers": [
+            {
+              "zh": "理发",
+              "en": "haircut"
+            }
+          ]
+        },
+        {
+          "zh": "A：你对自己的____发展有什么打算？B：我希望先去大公司工作，积累一些经验，然后自己开一家公司。",
+          "en": "A: What are your ____ plans? B: I hope to gain experience at a large company before starting my own.",
+          "heading": "Fill in the blank · 11",
+          "input": true,
+          "solution": "职业",
+          "answers": [
+            {
+              "zh": "职业",
+              "en": "career"
+            }
+          ]
+        },
+        {
+          "zh": "A：听说你哥哥换工作了，他现在在哪儿工作？B：他现在在一家____工作，主要负责检查产品的质量。",
+          "en": "A: Where does your brother work after changing jobs? B: At a ____, mainly checking product quality.",
+          "heading": "Fill in the blank · 12",
+          "input": true,
+          "solution": "工厂",
+          "answers": [
+            {
+              "zh": "工厂",
+              "en": "factory"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        62,
+        63
+      ],
+      "intro": "Choose from the word banks in the original exercise. Each word is used once in its group."
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "王明是一名大三学生，最近正在找实习机会。____，选了一家自己感兴趣的单位报名。为了顺利通过面试，他提前准备了很多内容，比如了解公司的情况，____。面试那天，他刚开始有点儿紧张，不过慢慢放松了一些。____，他觉得自己的表现没有那么好。虽然最后没有通过面试，但是他认为这次应聘的经历很有用，____，也让他在交流方面更有信心了。",
+          "en": "Wang Ming, a third-year student, is seeking an internship. ____, and selected an organisation to apply to. He prepared by researching the company and ____. At the interview he was initially nervous but relaxed. ____, he felt his performance could have been better. Although unsuccessful, the experience was useful: ____ and increased his communication confidence."
+        },
+        {
+          "zh": "面试结束后",
+          "en": "After the interview",
+          "heading": "A"
+        },
+        {
+          "zh": "练习介绍自己的学习经历",
+          "en": "practising describing his education",
+          "heading": "B"
+        },
+        {
+          "zh": "不仅让他了解了应聘的过程",
+          "en": "it not only taught him the application process",
+          "heading": "C"
+        },
+        {
+          "zh": "他在网上看到了几条招聘信息",
+          "en": "he saw several job advertisements online",
+          "heading": "D"
+        },
+        {
+          "zh": "第1空：____",
+          "en": "Gap 1: choose A, B, C or D.",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "他在网上看到了几条招聘信息",
+              "en": "he saw several job advertisements online"
+            }
+          ]
+        },
+        {
+          "zh": "第2空：____",
+          "en": "Gap 2: choose A, B, C or D.",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "练习介绍自己的学习经历",
+              "en": "practising describing his education"
+            }
+          ]
+        },
+        {
+          "zh": "第3空：____",
+          "en": "Gap 3: choose A, B, C or D.",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "面试结束后",
+              "en": "After the interview"
+            }
+          ]
+        },
+        {
+          "zh": "第4空：____",
+          "en": "Gap 4: choose A, B, C or D.",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "不仅让他了解了应聘的过程",
+              "en": "it not only taught him the application process"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        63
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c15-exercise.jpg",
+          "alt": "Original chapter 15 picture-writing exercise"
+        },
+        {
+          "zh": "扔",
+          "en": "throw",
+          "heading": "Picture 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他把垃圾扔进垃圾桶。",
+              "en": "He throws rubbish into the bin."
+            }
+          ]
+        },
+        {
+          "zh": "答案",
+          "en": "answer",
+          "heading": "Picture 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她正在想这道题的答案。",
+              "en": "She is thinking about the answer."
+            }
+          ]
+        },
+        {
+          "zh": "激动",
+          "en": "excited",
+          "heading": "Picture 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他看到消息后非常激动。",
+              "en": "He is excited after reading the message."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        63
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "zh": "两人一组，一人扮演面试官，一人扮演应聘者，模拟面试的过程。面试官询问学习经历、能力和想法；应聘者介绍基本情况、应聘原因和优缺点。",
+          "en": "Role-play an interviewer and applicant. Discuss education, abilities, motivation, strengths and weaknesses.",
+          "heading": "Speak together",
+          "input": true,
+          "answers": [
+            {
+              "zh": "请先介绍一下你的学习经历。",
+              "en": "Please first describe your education."
+            },
+            {
+              "zh": "我学的是经济，希望在这里积累工作经验。",
+              "en": "I study economics and hope to gain experience here."
+            },
+            {
+              "zh": "我的优点是做事认真，不过工作经验还不够。",
+              "en": "I work carefully, but still lack experience."
+            }
+          ]
+        },
+        {
+          "zh": "你的一个朋友要去一家国际公司应聘。请给他／她写一份应聘建议清单，不少于140字。",
+          "en": "Write at least 140 Chinese characters of application advice for a friend applying to an international company.",
+          "heading": "Writing · at least 140 characters",
+          "input": true,
+          "minChars": 140,
+          "answers": [
+            {
+              "zh": "听说你准备去一家国际公司应聘，我想给你一些建议。首先，你应该提前了解公司的情况，看看这个工作需要什么能力，再认真填写个人信息。其次，准备好自我介绍，把自己的学习经历和实习经历说清楚。你可以在镜子前练一练，也可以请朋友听一听。面试那天，要穿合适的衣服，按时到，不要让负责人等你。回答问题时，先认真听，再说明自己的想法。如果有不懂的地方，可以有礼貌地问一问。不论最后的结果怎么样，这次经历都会帮助你了解自己，为以后找工作积累经验。",
+              "en": "Research the company and required abilities, complete personal information carefully and prepare a clear introduction covering education and internships. Rehearse in a mirror or with a friend. Dress suitably and arrive on time. Listen before answering and ask politely when unsure. Whatever the outcome, the experience will help you understand yourself and prepare for future job hunting."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        64
+      ]
+    },
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流应聘、面试、实习等信息。",
+          "en": "Understand and discuss applications, interviews and internships."
+        },
+        {
+          "zh": "能够口头或书面表达求职经历。",
+          "en": "Describe job-hunting experiences orally and in writing."
+        },
+        {
+          "zh": "了解中国大学生的实习情况及意义。",
+          "en": "Understand Chinese university internships and their significance."
+        }
+      ],
+      "sourcePages": [
+        54
+      ]
+    },
+    {
+      "id": "self-assessment",
+      "title": "Book learning summary",
+      "blocks": [
+        {
+          "zh": "我能使用“单位、经历、部门、负责人”等词语谈论实习。",
+          "en": "I can use the chapter vocabulary to discuss internships."
+        },
+        {
+          "zh": "我能理解并运用本课四个语言点。",
+          "en": "I can understand and use the four grammar points."
+        },
+        {
+          "zh": "我能交流应聘、面试等信息。",
+          "en": "I can discuss applications and interviews."
+        },
+        {
+          "zh": "我能表达个人的求职经历。",
+          "en": "I can describe my job-hunting experience."
+        }
+      ],
+      "sourcePages": [
+        65
+      ]
+    },
+    {
+      "id": "bonus",
+      "title": "Xiaoyu’s bonus content",
+      "blocks": [
+        {
+          "zh": "走出校园之前：中国大学生如何找工作",
+          "en": "Before graduation: how Chinese university students find their first job"
+        }
+      ],
+      "sourcePages": [
+        64
+      ],
+      "intro": "The book gives this companion-video topic. The video is not embedded in the supplied PDF.",
+      "note": "My notes after watching"
+    }
+  ]
+}

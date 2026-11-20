@@ -1,0 +1,1659 @@
+{
+  "id": 16,
+  "title": "计划赶不上变化",
+  "en": "Plans can’t keep up with changes",
+  "page": 66,
+  "grammar": [
+    "把＋宾语＋动词＋了",
+    "并且",
+    "说不定",
+    "却"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    66,
+    77
+  ],
+  "words": [
+    {
+      "zh": "本来",
+      "en": "originally",
+      "example": {
+        "zh": "我本来想去公园，却没有去。",
+        "en": "I originally wanted to go to the park, but did not go."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "只好",
+      "en": "have no choice but",
+      "example": {
+        "zh": "天很冷，他却只好出门。",
+        "en": "It is cold, but he has no choice but to go out."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "赶上",
+      "en": "catch up with",
+      "example": {
+        "zh": "我跑得很快，却没有赶上车。",
+        "en": "I ran fast but did not catch the bus."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "旅行",
+      "en": "travel",
+      "example": {
+        "zh": "我想去旅行，却没有时间。",
+        "en": "I want to travel but have no time."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "推迟",
+      "en": "postpone",
+      "example": {
+        "zh": "他把会议推迟了。",
+        "en": "He postponed the meeting."
+      },
+      "grammar": "把＋宾语＋动词＋了"
+    },
+    {
+      "zh": "取消",
+      "en": "cancel",
+      "example": {
+        "zh": "我把今天的课取消了。",
+        "en": "I cancelled today’s class."
+      },
+      "grammar": "把＋宾语＋动词＋了"
+    },
+    {
+      "zh": "可惜",
+      "en": "a pity; regrettable",
+      "example": {
+        "zh": "虽然有点儿可惜，我却不后悔。",
+        "en": "Although it is a pity, I do not regret it."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "确实",
+      "en": "indeed; really",
+      "example": {
+        "zh": "他确实很忙，却每天都来看我。",
+        "en": "He is indeed busy, but visits me every day."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "等到",
+      "en": "by the time; wait until",
+      "example": {
+        "zh": "等到天黑，他却还没有回来。",
+        "en": "It is dark now, but he has still not returned."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "早晨",
+      "en": "morning",
+      "example": {
+        "zh": "我早晨把衣服洗了。",
+        "en": "I washed the clothes in the morning."
+      },
+      "grammar": "把＋宾语＋动词＋了"
+    },
+    {
+      "zh": "忽然",
+      "en": "suddenly",
+      "example": {
+        "zh": "我准备出门，天却忽然下雨了。",
+        "en": "I was ready to go out, but it suddenly started raining."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "增加",
+      "en": "increase; add",
+      "example": {
+        "zh": "我增加了工作时间，却没做完。",
+        "en": "I increased my working hours, but did not finish."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "调整",
+      "en": "adjust",
+      "example": {
+        "zh": "我把学习时间调整了。",
+        "en": "I adjusted my study schedule."
+      },
+      "grammar": "把＋宾语＋动词＋了"
+    },
+    {
+      "zh": "错误",
+      "en": "mistake; wrong",
+      "example": {
+        "zh": "我把这个错误改了。",
+        "en": "I corrected this mistake."
+      },
+      "grammar": "把＋宾语＋动词＋了"
+    },
+    {
+      "zh": "并且",
+      "en": "and; furthermore",
+      "example": {
+        "zh": "她喜欢看书，并且喜欢写字。",
+        "en": "She likes reading and also likes writing."
+      },
+      "grammar": "并且"
+    },
+    {
+      "zh": "例子",
+      "en": "example",
+      "example": {
+        "zh": "他讲得很清楚，并且给了一个例子。",
+        "en": "He explained clearly and gave an example."
+      },
+      "grammar": "并且"
+    },
+    {
+      "zh": "关键",
+      "en": "key; crucial",
+      "example": {
+        "zh": "他知道问题的关键，却不告诉我。",
+        "en": "He knows the key to the problem but does not tell me."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "详细",
+      "en": "detailed",
+      "example": {
+        "zh": "他详细地介绍了情况，并且回答了问题。",
+        "en": "He described the situation in detail and answered questions."
+      },
+      "grammar": "并且"
+    },
+    {
+      "zh": "时间表",
+      "en": "schedule",
+      "example": {
+        "zh": "我把时间表改了。",
+        "en": "I changed the schedule."
+      },
+      "grammar": "把＋宾语＋动词＋了"
+    },
+    {
+      "zh": "把握",
+      "en": "confidence; certainty",
+      "example": {
+        "zh": "他很有把握，却还是检查了一遍。",
+        "en": "He was confident but still checked once more."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "相反",
+      "en": "on the contrary",
+      "example": {
+        "zh": "我喜欢早起，他却相反。",
+        "en": "I like getting up early, but he is the opposite."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "部分",
+      "en": "part; portion",
+      "example": {
+        "zh": "这部分很难，他却做对了。",
+        "en": "This part is hard, but he got it right."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "轻松",
+      "en": "relaxed; easy",
+      "example": {
+        "zh": "这个工作很轻松，并且离家很近。",
+        "en": "This job is easy and very close to home."
+      },
+      "grammar": "并且"
+    },
+    {
+      "zh": "标准",
+      "en": "standard",
+      "example": {
+        "zh": "他知道标准，却没有做好。",
+        "en": "He knows the standard but did not do well."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "严格",
+      "en": "strict",
+      "example": {
+        "zh": "老师很严格，却很关心我们。",
+        "en": "The teacher is strict but cares about us."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "取得",
+      "en": "achieve; gain",
+      "example": {
+        "zh": "他取得了好成绩，却没有休息。",
+        "en": "He achieved good results but did not rest."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "说不定",
+      "en": "perhaps; maybe",
+      "example": {
+        "zh": "他现在不来，说不定明天会来。",
+        "en": "He is not coming now; perhaps he will come tomorrow."
+      },
+      "grammar": "说不定"
+    },
+    {
+      "zh": "灵活",
+      "en": "flexible",
+      "example": {
+        "zh": "时间可以灵活安排，并且可以在家工作。",
+        "en": "The hours are flexible, and one can work from home."
+      },
+      "grammar": "并且"
+    },
+    {
+      "zh": "一切",
+      "en": "everything",
+      "example": {
+        "zh": "我准备好了一切，却没出发。",
+        "en": "I prepared everything but did not leave."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "却",
+      "en": "but; however",
+      "example": {
+        "zh": "他很累，却不想休息。",
+        "en": "He is tired but does not want to rest."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "不得不",
+      "en": "have to",
+      "example": {
+        "zh": "我想出去，却不得不在家学习。",
+        "en": "I want to go out, but have to study at home."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "约",
+      "en": "arrange to meet",
+      "example": {
+        "zh": "我约了朋友，却忘了时间。",
+        "en": "I arranged to meet a friend, but forgot the time."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "不便",
+      "en": "inconvenient",
+      "example": {
+        "zh": "这里交通不便，房租却很便宜。",
+        "en": "Transport here is inconvenient, but the rent is cheap."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "失望",
+      "en": "disappointed",
+      "example": {
+        "zh": "他有点儿失望，却没有放弃。",
+        "en": "He is a little disappointed but has not given up."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "也许",
+      "en": "perhaps",
+      "example": {
+        "zh": "也许他很忙，却还是来了。",
+        "en": "Perhaps he is busy, but he came anyway."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "逛",
+      "en": "stroll; browse",
+      "example": {
+        "zh": "我去商店逛了逛，却什么也没买。",
+        "en": "I browsed the shops but bought nothing."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "有趣",
+      "en": "interesting",
+      "example": {
+        "zh": "这本书很有趣，并且很便宜。",
+        "en": "This book is interesting and cheap."
+      },
+      "grammar": "并且"
+    },
+    {
+      "zh": "观看",
+      "en": "watch",
+      "example": {
+        "zh": "我们观看了比赛，并且拍了照片。",
+        "en": "We watched the match and took photos."
+      },
+      "grammar": "并且"
+    },
+    {
+      "zh": "部",
+      "en": "measure word for films, etc.",
+      "example": {
+        "zh": "这部电影很长，他却看完了。",
+        "en": "This film is long, but he finished watching it."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "无法",
+      "en": "be unable to",
+      "example": {
+        "zh": "他想帮忙，却无法过来。",
+        "en": "He wants to help but cannot come."
+      },
+      "grammar": "却"
+    },
+    {
+      "zh": "接受",
+      "en": "accept",
+      "example": {
+        "zh": "我听懂了，却不想接受。",
+        "en": "I understood but do not want to accept it."
+      },
+      "grammar": "却"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "时间表",
+      "en": "schedule"
+    },
+    {
+      "zh": "观看",
+      "en": "watch"
+    },
+    {
+      "zh": "增加",
+      "en": "increase"
+    },
+    {
+      "zh": "早晨",
+      "en": "morning"
+    },
+    {
+      "zh": "旅行",
+      "en": "travel"
+    },
+    {
+      "zh": "失望",
+      "en": "disappointed"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c16-warm-0.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "他们一起去旅行。",
+        "en": "They travel together."
+      }
+    },
+    {
+      "image": "4b/c16-warm-1.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "早晨，她打开了窗户。",
+        "en": "She opened the window in the morning."
+      }
+    },
+    {
+      "image": "4b/c16-warm-2.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "他写好了今天的时间表。",
+        "en": "He has written today’s schedule."
+      }
+    },
+    {
+      "image": "4b/c16-warm-3.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "她在家观看电视节目。",
+        "en": "She watches a television programme at home."
+      }
+    },
+    {
+      "image": "4b/c16-warm-4.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "他的钱增加了。",
+        "en": "His money has increased."
+      }
+    },
+    {
+      "image": "4b/c16-warm-5.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "他觉得很失望。",
+        "en": "He feels disappointed."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "你平时经常做计划吗？一般会做哪些计划？",
+      "en": "Do you often make plans? What kinds of plans?",
+      "answers": [
+        {
+          "zh": "我每天做学习计划。",
+          "en": "I make study plans every day."
+        },
+        {
+          "zh": "我旅行前会做计划。",
+          "en": "I plan before travelling."
+        },
+        {
+          "zh": "我很少做计划，想到什么就做什么。",
+          "en": "I rarely plan; I do whatever comes to mind."
+        }
+      ]
+    },
+    {
+      "zh": "你觉得做计划重要吗？为什么？",
+      "en": "Do you think planning is important? Why?",
+      "answers": [
+        {
+          "zh": "很重要，计划能帮助我按时完成任务。",
+          "en": "It is important because plans help me finish on time."
+        },
+        {
+          "zh": "很重要，我可以知道先做什么。",
+          "en": "It is important; I can know what to do first."
+        },
+        {
+          "zh": "我觉得不一定，灵活安排也很好。",
+          "en": "Not always; flexible arrangements are good too."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "白家月本来计划周末做什么？",
+          "en": "What had Bai originally planned for the weekend?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "去旅游",
+              "en": "Travel"
+            },
+            {
+              "zh": "买机票",
+              "en": "Buy plane tickets"
+            },
+            {
+              "zh": "订酒店",
+              "en": "Book a hotel"
+            },
+            {
+              "zh": "在家复习",
+              "en": "Revise at home"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "去旅游",
+              "en": "A · Travel"
+            }
+          ],
+          "input": true,
+          "solution": "A"
+        },
+        {
+          "zh": "王一雪建议白家月什么时候去旅游？",
+          "en": "When does Wang suggest Bai travel?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "明天",
+              "en": "Tomorrow"
+            },
+            {
+              "zh": "这个周末",
+              "en": "This weekend"
+            },
+            {
+              "zh": "下个周末",
+              "en": "Next weekend"
+            },
+            {
+              "zh": "考试结束后",
+              "en": "After the exam"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "考试结束后",
+              "en": "D · After the exam"
+            }
+          ],
+          "input": true,
+          "solution": "D"
+        },
+        {
+          "zh": "杨同乐接到了什么通知？",
+          "en": "What notice did Yang receive?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "会议时间变化了",
+              "en": "The meeting time changed"
+            },
+            {
+              "zh": "会议材料要调整",
+              "en": "The materials need adjusting"
+            },
+            {
+              "zh": "会议地点变化了",
+              "en": "The venue changed"
+            },
+            {
+              "zh": "会议内容增加了",
+              "en": "The content increased"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "会议时间变化了",
+              "en": "A · The meeting time changed"
+            }
+          ],
+          "input": true,
+          "solution": "A"
+        },
+        {
+          "zh": "王一雪让杨同乐做什么？",
+          "en": "What does Wang ask Yang to do?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "检查细节问题",
+              "en": "Check details"
+            },
+            {
+              "zh": "重新准备材料",
+              "en": "Prepare materials again"
+            },
+            {
+              "zh": "通知会议地点",
+              "en": "Announce the venue"
+            },
+            {
+              "zh": "安排会议时间",
+              "en": "Arrange the time"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "检查细节问题",
+              "en": "A · Check details"
+            }
+          ],
+          "input": true,
+          "solution": "A"
+        },
+        {
+          "zh": "有的人为什么喜欢做计划？",
+          "en": "Why do some people like planning?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "可以省钱",
+              "en": "It saves money"
+            },
+            {
+              "zh": "可以省时间",
+              "en": "It saves time"
+            },
+            {
+              "zh": "做事更有把握",
+              "en": "They feel more confident"
+            },
+            {
+              "zh": "感觉比较轻松",
+              "en": "They feel more relaxed"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "做事更有把握",
+              "en": "C · They feel more confident"
+            }
+          ],
+          "input": true,
+          "solution": "C"
+        },
+        {
+          "zh": "根据课文，不做计划可能会有什么结果？",
+          "en": "What can happen without plans?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "带来新的发现",
+              "en": "New discoveries"
+            },
+            {
+              "zh": "让任务变简单",
+              "en": "Tasks become simple"
+            },
+            {
+              "zh": "提前完成任务",
+              "en": "Tasks finish early"
+            },
+            {
+              "zh": "增加工作压力",
+              "en": "More work pressure"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "带来新的发现",
+              "en": "A · New discoveries"
+            }
+          ],
+          "input": true,
+          "solution": "A"
+        },
+        {
+          "zh": "根据课文，变化可能会带来什么影响？",
+          "en": "What can changes bring?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "心情变得更加愉快",
+              "en": "A happier mood"
+            },
+            {
+              "zh": "以后不用再做计划",
+              "en": "No need for future plans"
+            },
+            {
+              "zh": "让事情更容易完成",
+              "en": "Easier tasks"
+            },
+            {
+              "zh": "给生活带来新可能",
+              "en": "New possibilities in life"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "给生活带来新可能",
+              "en": "D · New possibilities in life"
+            }
+          ],
+          "input": true,
+          "solution": "D"
+        },
+        {
+          "zh": "面对变化，人们应该怎么做？",
+          "en": "How should people respond to changes?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "随意地安排计划",
+              "en": "Plan casually"
+            },
+            {
+              "zh": "坚持本来的计划",
+              "en": "Keep the original plan"
+            },
+            {
+              "zh": "发现并解决问题",
+              "en": "Find and solve problems"
+            },
+            {
+              "zh": "接受并适应变化",
+              "en": "Accept and adapt to changes"
+            }
+          ],
+          "answers": [
+            {
+              "zh": "接受并适应变化",
+              "en": "D · Accept and adapt to changes"
+            }
+          ],
+          "input": true,
+          "solution": "D"
+        }
+      ],
+      "sourcePages": []
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "王一雪：家月，周末你还打算去南京旅游吗？我去年去过那里，可以给你介绍一下。",
+          "en": "Wang: Jiayue, are you still going to Nanjing this weekend? I went last year and can tell you about it."
+        },
+        {
+          "zh": "白家月：本来都计划好了，可是昨天突然接到通知，下周学校要安排一次考试，所以周末只好在家复习了。",
+          "en": "Bai: Everything was planned, but yesterday the school suddenly announced an exam next week, so I have to revise at home this weekend."
+        },
+        {
+          "zh": "王一雪：真是计划赶不上变化啊！看来你的旅行计划只能推迟了。",
+          "en": "Wang: Plans really cannot keep up with changes! It looks like you must postpone your trip."
+        },
+        {
+          "zh": "白家月：是的，我已经把机票和酒店取消了。虽然有点儿可惜，但学习更重要。",
+          "en": "Bai: Yes. I have cancelled the flights and hotel. It is a pity, but studying matters more."
+        },
+        {
+          "zh": "王一雪：学习确实要放在第一位。等到考试结束后，你再找个时间去。",
+          "en": "Wang: Study really must come first. Find another time to go after the exam."
+        },
+        {
+          "zh": "白家月：我也是这么想的，以后肯定还有很多机会。",
+          "en": "Bai: That is what I think too. There will certainly be plenty of chances later."
+        },
+        {
+          "zh": "白家月为什么周末不能去南京了？",
+          "en": "Why can Bai no longer go to Nanjing this weekend?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "下周有考试，她周末只好在家复习。",
+              "en": "She has an exam next week, so must revise at home."
+            }
+          ]
+        },
+        {
+          "zh": "旅行计划推迟后，白家月做什么了？",
+          "en": "What did Bai do after postponing the trip?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她把机票和酒店取消了。",
+              "en": "She cancelled the flights and hotel."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        67,
+        68
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          68
+        ],
+        "prompt": {
+          "zh": "白家月本来计划……，可是昨天突然……，下周学校要……。她周末需要……，旅游计划……。她已经把……，虽然……，但学习……。她打算……后，找个时间……。",
+          "en": "Retell Bai’s original plan, the school notice, her cancellations and her new plan."
+        },
+        "answer": {
+          "zh": "白家月本来计划周末去南京旅游，可是昨天突然接到通知，下周学校要考试。她周末需要在家复习，旅游计划只能推迟。她已经把机票和酒店取消了，虽然有点儿可惜，但学习更重要。她打算考试结束后，找个时间再去。",
+          "en": "Bai planned to visit Nanjing, but a school exam notice meant she had to revise. She postponed her trip and cancelled the flights and hotel. Study matters more, so she will go after the exam."
+        }
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 把＋宾语＋动词＋了",
+      "blocks": [
+        {
+          "zh": "我已经把机票和酒店取消了。",
+          "en": "I have cancelled the flights and hotel."
+        },
+        {
+          "zh": "你把灯关了吧，我想睡觉了。",
+          "en": "Please switch off the light; I want to sleep."
+        },
+        {
+          "zh": "你别忘了把衣服洗了，明天还得穿呢。",
+          "en": "Do not forget to wash the clothes; you need them tomorrow."
+        },
+        {
+          "zh": "A：____。B：好，我也觉得房间里挺热的。",
+          "en": "A: ____. B: Yes, I also think it is hot in the room.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "你把窗户打开吧",
+              "en": "Please open the window."
+            }
+          ]
+        },
+        {
+          "zh": "A：____。B：放心吧，我一会儿就去图书馆。",
+          "en": "A: ____. B: Do not worry; I will go to the library soon.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "你别忘了把书还了",
+              "en": "Do not forget to return the books."
+            }
+          ]
+        },
+        {
+          "zh": "A：快____，这样你才能快点儿好。B：好的，吃完药我再睡一觉。",
+          "en": "A: Quickly ____, so you can recover sooner. B: Okay, then I will sleep.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "把药吃了",
+              "en": "take the medicine"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        68
+      ],
+      "intro": "Subject + 把 + definite object + verb + 了 describes a completed action affecting that object.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "杨同乐：刚接到通知，明天早晨的会议，时间改到下周了。",
+          "en": "Yang: I just received notice that tomorrow morning’s meeting has moved to next week."
+        },
+        {
+          "zh": "王一雪：啊？时间都安排好了，怎么说变就变了？",
+          "en": "Wang: What? The time was already arranged. Why has it changed so suddenly?"
+        },
+        {
+          "zh": "杨同乐：是啊，没想到忽然要改时间。",
+          "en": "Yang: Yes, I did not expect the sudden change."
+        },
+        {
+          "zh": "王一雪：好吧，那再看看有没有新的安排，或者增加的会议内容。",
+          "en": "Wang: All right. Check for new arrangements or additional meeting topics."
+        },
+        {
+          "zh": "杨同乐：好的。会议材料还需要调整吗？",
+          "en": "Yang: Okay. Do the meeting materials need adjusting too?"
+        },
+        {
+          "zh": "王一雪：再检查一下有没有细节上的错误，并且试着增加一些例子，把内容准备得更全一些。",
+          "en": "Wang: Check for errors in the details and try adding examples to make the content more complete."
+        },
+        {
+          "zh": "杨同乐：没问题，这样效果肯定会更好。看来有时候变化不一定是坏事，关键是我们怎么去适应变化。",
+          "en": "Yang: No problem. That will certainly work better. Sometimes change is not necessarily bad; the key is how we adapt."
+        },
+        {
+          "zh": "王一雪建议怎么调整会议材料？",
+          "en": "How does Wang suggest adjusting the materials?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "检查细节上的错误，并且增加一些例子。",
+              "en": "Check detailed errors and add examples."
+            }
+          ]
+        },
+        {
+          "zh": "对于变化，王一雪是怎么看的？",
+          "en": "What is Wang’s attitude towards changes?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她接受变化，建议利用时间把材料准备得更全一些。",
+              "en": "She accepts the change and suggests using the time to improve the materials."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        69,
+        70
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 并且",
+      "blocks": [
+        {
+          "zh": "再检查一下有没有细节上的错误，并且试着增加一些例子。",
+          "en": "Check for errors in the details and try adding examples."
+        },
+        {
+          "zh": "他按时完成了任务，并且做得很好。",
+          "en": "He finished on time and did a good job."
+        },
+        {
+          "zh": "人们的生活水平提高了，并且生活方式也发生了很大的变化。",
+          "en": "Living standards improved, and lifestyles also changed greatly."
+        },
+        {
+          "zh": "A：你觉得小王这个人怎么样？B：____。",
+          "en": "What do you think of Xiao Wang?",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他很认真，并且很关心别人",
+              "en": "He is careful and cares about others."
+            }
+          ]
+        },
+        {
+          "zh": "A：为什么你建议我看这本书？B：____。",
+          "en": "Why do you recommend this book?",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这本书很有趣，并且对学习有帮助",
+              "en": "It is interesting and helpful for study."
+            }
+          ]
+        },
+        {
+          "zh": "A：明天的会议，你做好准备了吗？B：____。",
+          "en": "Are you ready for tomorrow’s meeting?",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我准备好了材料，并且检查了一遍",
+              "en": "I prepared the materials and checked them once."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        70
+      ],
+      "intro": "并且 links actions or situations and adds further information.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "在生活和工作中，有的人喜欢做计划，他们会提前安排好每天要做的事情，然后按照详细的时间表去完成任务，觉得这样做更有把握。相反，也有一部分人不爱做计划，他们认为随意一些也很好，想到什么就去做什么，感觉这样比较轻松。",
+          "en": "In life and work, some people like to plan. They arrange each day’s tasks in advance and follow a detailed schedule because that feels more certain. Others dislike planning; they prefer doing whatever comes to mind and find that more relaxing."
+        },
+        {
+          "zh": "其实，事前做计划是好是坏没有标准答案。严格按照计划做事，常常能取得不错的效果；而不做计划，说不定也会带来新的发现。无论做不做计划，只要既能按时完成任务，又能根据情况灵活调整，就是适合自己的方式。",
+          "en": "There is no standard answer to whether advance planning is good or bad. Following plans strictly often works well, while not planning may bring new discoveries. Whether you plan or not, a method suits you if you finish on time and adjust flexibly to circumstances."
+        },
+        {
+          "zh": "喜欢做计划的人一般是怎么安排事情的？",
+          "en": "How do people who like planning usually arrange things?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们提前安排每天要做的事情，按照详细的时间表完成任务。",
+              "en": "They arrange daily tasks in advance and follow a detailed schedule."
+            }
+          ]
+        },
+        {
+          "zh": "事前做计划是好是坏？为什么？",
+          "en": "Is advance planning good or bad, and why?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "没有标准答案。能按时完成任务，又能灵活调整，就是适合自己的方式。",
+              "en": "There is no standard answer; finishing on time and adjusting flexibly are what matter."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        71,
+        72
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "pages": [
+          72
+        ],
+        "prompt": {
+          "zh": "在生活和工作中，有的人喜欢做计划，他们会……，然后按照……，觉得这样做……。相反，也有一部分人……，他们认为……，想到什么……，感觉……。\n其实，事前做计划是好是坏……。严格按照计划做事，常常能……；而不做计划，说不定……。无论做不做计划，只要既能……，又能……，就是……。",
+          "en": "Retell the two approaches to planning and the conditions for a suitable method."
+        },
+        "answer": {
+          "zh": "有的人喜欢提前安排每天的事情，按照时间表完成任务，觉得这样更有把握。相反，有的人不爱做计划，想到什么就做什么，觉得比较轻松。做计划好不好没有标准答案。按照计划做事常常能取得不错的效果，不做计划也可能带来新的发现。只要能按时完成任务，又能灵活调整，就是适合自己的方式。",
+          "en": "Some plan daily tasks and follow schedules for certainty; others prefer spontaneity and feel relaxed. Neither approach is always better. Plans can bring good results, while spontaneity may bring discoveries. A suitable method allows timely completion and flexible adjustment."
+        }
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 说不定",
+      "blocks": [
+        {
+          "zh": "不做计划，说不定也会带来新的发现。",
+          "en": "Not planning may also bring new discoveries."
+        },
+        {
+          "zh": "今天这么阴，说不定会下雨。",
+          "en": "It is so cloudy today; perhaps it will rain."
+        },
+        {
+          "zh": "你再试一次，说不定就成功了。",
+          "en": "Try once more; perhaps you will succeed."
+        },
+        {
+          "zh": "他今天没来，____。（有事）",
+          "en": "He did not come today; perhaps... Use 有事.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "说不定有事",
+              "en": "perhaps something came up"
+            }
+          ]
+        },
+        {
+          "zh": "____，再等一会儿吧。（路上）",
+          "en": "Perhaps..., so wait a little longer. Use 路上.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他现在说不定还在路上",
+              "en": "Perhaps he is still on his way."
+            }
+          ]
+        },
+        {
+          "zh": "这件事你找经理说吧，____。（同意）",
+          "en": "Talk to the manager about it; perhaps... Use 同意.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "说不定他会同意",
+              "en": "perhaps he will agree"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        72
+      ],
+      "intro": "说不定 means perhaps or maybe and expresses a guess about a possible situation or result.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "人们常说“计划赶不上变化”。有时候，你准备好了一切，却突然出现了新情况，让你不得不改变计划。比如准备出去旅行，可能因为有事而取消；约好见朋友，可能因为天气不好而推迟。",
+          "en": "People often say plans cannot keep up with changes. Sometimes everything is ready, but a new situation suddenly forces you to change plans. A trip may be cancelled because something comes up; meeting a friend may be postponed because of bad weather."
+        },
+        {
+          "zh": "虽然变化经常打乱计划，给我们带来不便，甚至让人感到失望，但这些变化也许会给生活带来新的可能。比如没去成旅行，于是在家门口的小公园逛了逛，发现那里也很有趣；没见到朋友，于是在家观看了一部电影，心情也变得很愉快。",
+          "en": "Changes often disrupt plans, cause inconvenience and even disappointment, but may bring new possibilities. Instead of travelling, you might discover an interesting local park. Instead of meeting a friend, you might enjoy a film at home."
+        },
+        {
+          "zh": "生活中很多变化是无法提前知道的，我们要做的就是学会接受变化、适应变化，在变化中找到新的解决办法。这样不仅能锻炼自己在面对不同情况时解决问题的能力，也能让我们的生活更轻松。",
+          "en": "Many changes cannot be predicted. We must learn to accept and adapt to them and find new solutions. This develops our ability to solve problems in different circumstances and makes life more relaxed."
+        },
+        {
+          "zh": "“计划赶不上变化”是什么意思？",
+          "en": "What does “plans cannot keep up with changes” mean?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "新情况可能突然出现，让人不得不改变本来的计划。",
+              "en": "New situations can appear suddenly and force changes to original plans."
+            }
+          ]
+        },
+        {
+          "zh": "我们为什么应该积极适应变化？",
+          "en": "Why should we actively adapt to change?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这样可以找到新办法，提高解决问题的能力，让生活更轻松。",
+              "en": "It helps us find new methods, improve problem-solving and live more easily."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        73,
+        74
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 却",
+      "blocks": [
+        {
+          "zh": "你准备好了一切，却突然出现了新情况，让你不得不改变计划。",
+          "en": "You prepared everything, but a new situation suddenly forced you to change plans."
+        },
+        {
+          "zh": "他通过了面试，却一点儿也不激动。",
+          "en": "He passed the interview but was not excited at all."
+        },
+        {
+          "zh": "她长得很像她姐姐，性格却完全不同。",
+          "en": "She looks like her sister, but their personalities are completely different."
+        },
+        {
+          "zh": "他没有做太多准备，____。",
+          "en": "He did not prepare much, but...",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "却取得了很好的成绩",
+              "en": "still achieved very good results"
+            }
+          ]
+        },
+        {
+          "zh": "我觉得这个电影很有趣，____。",
+          "en": "I find this film interesting, but...",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他却觉得很无聊",
+              "en": "he finds it boring"
+            }
+          ]
+        },
+        {
+          "zh": "这些打折的商品虽然便宜，____。",
+          "en": "These discounted goods are cheap, but...",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "质量却不太好",
+              "en": "their quality is not very good"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        74
+      ],
+      "intro": "却 is an adverb introducing an unexpected contrast; it usually follows the subject and precedes the predicate.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "zh": "A 等到　B 关键　C 例子　D 本来　E 确实　F 可惜",
+          "en": "A wait until · B key · C example · D originally · E indeed · F a pity",
+          "heading": "Word bank · questions 1–6"
+        },
+        {
+          "zh": "要想提高成绩，____是坚持每天复习。",
+          "en": "To improve results, the ____ is daily revision.",
+          "heading": "Fill in the blank · 1",
+          "input": true,
+          "solution": "关键",
+          "answers": [
+            {
+              "zh": "关键",
+              "en": "key"
+            }
+          ]
+        },
+        {
+          "zh": "他____说得很对，我也同意他的看法。",
+          "en": "He is ____ right; I agree.",
+          "heading": "Fill in the blank · 2",
+          "input": true,
+          "solution": "确实",
+          "answers": [
+            {
+              "zh": "确实",
+              "en": "indeed"
+            }
+          ]
+        },
+        {
+          "zh": "你没能参加文化节活动，真是太____了。",
+          "en": "It is such a ____ that you missed the cultural festival.",
+          "heading": "Fill in the blank · 3",
+          "input": true,
+          "solution": "可惜",
+          "answers": [
+            {
+              "zh": "可惜",
+              "en": "pity"
+            }
+          ]
+        },
+        {
+          "zh": "____工作不那么忙了，我想和家人去旅游。",
+          "en": "____ work is less busy, I want to travel with my family.",
+          "heading": "Fill in the blank · 4",
+          "input": true,
+          "solution": "等到",
+          "answers": [
+            {
+              "zh": "等到",
+              "en": "When"
+            }
+          ]
+        },
+        {
+          "zh": "我____打算周末出去玩，可是后来有事，就没去成。",
+          "en": "I ____ planned to go out, but something came up.",
+          "heading": "Fill in the blank · 5",
+          "input": true,
+          "solution": "本来",
+          "answers": [
+            {
+              "zh": "本来",
+              "en": "originally"
+            }
+          ]
+        },
+        {
+          "zh": "王老师讲课时常常会用一些____，帮助学生们更好地理解。",
+          "en": "Teacher Wang often uses ____ to help students understand.",
+          "heading": "Fill in the blank · 6",
+          "input": true,
+          "solution": "例子",
+          "answers": [
+            {
+              "zh": "例子",
+              "en": "examples"
+            }
+          ]
+        },
+        {
+          "zh": "A 约　B 标准　C 相反　D 详细　E 无法　F 一切",
+          "en": "A arrange to meet · B standard · C opposite · D detailed · E unable · F everything",
+          "heading": "Word bank · questions 7–12"
+        },
+        {
+          "zh": "A：这次公司招聘的____是什么？B：至少有五年的工作经验，并且有较强的个人工作能力。",
+          "en": "What is the hiring ____? At least five years’ experience and strong ability.",
+          "heading": "Fill in the blank · 7",
+          "input": true,
+          "solution": "标准",
+          "answers": [
+            {
+              "zh": "标准",
+              "en": "standard"
+            }
+          ]
+        },
+        {
+          "zh": "A：老师，这个问题可以讲得再____一点儿吗？B：好的，我再给你讲一遍。",
+          "en": "Could you explain in more ____? Yes, I will explain again.",
+          "heading": "Fill in the blank · 8",
+          "input": true,
+          "solution": "详细",
+          "answers": [
+            {
+              "zh": "详细",
+              "en": "detail"
+            }
+          ]
+        },
+        {
+          "zh": "A：很久没有见到你了，你最近过得怎么样？B：还不错，____都很顺利。",
+          "en": "How have you been? Fine; ____ is going smoothly.",
+          "heading": "Fill in the blank · 9",
+          "input": true,
+          "solution": "一切",
+          "answers": [
+            {
+              "zh": "一切",
+              "en": "everything"
+            }
+          ]
+        },
+        {
+          "zh": "A：我以为他会同意，没想到结果正好____。B：是啊，看来他还是不太愿意参加。",
+          "en": "I expected agreement, but the result was the ____. Yes, he seems unwilling.",
+          "heading": "Fill in the blank · 10",
+          "input": true,
+          "solution": "相反",
+          "answers": [
+            {
+              "zh": "相反",
+              "en": "opposite"
+            }
+          ]
+        },
+        {
+          "zh": "A：你什么时候有时间？我想____你喝杯咖啡。B：好啊，我也正想跟你聊聊呢。明天中午怎么样？",
+          "en": "When are you free? I want to ____ you for coffee. How about tomorrow noon?",
+          "heading": "Fill in the blank · 11",
+          "input": true,
+          "solution": "约",
+          "answers": [
+            {
+              "zh": "约",
+              "en": "meet"
+            }
+          ]
+        },
+        {
+          "zh": "A：经理，我明天有事，____参加会议，想跟您请假。B：好的，那你提前把工作安排好吧。",
+          "en": "I have something tomorrow and am ____ to attend. Okay, arrange your work in advance.",
+          "heading": "Fill in the blank · 12",
+          "input": true,
+          "solution": "无法",
+          "answers": [
+            {
+              "zh": "无法",
+              "en": "unable"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        75
+      ],
+      "intro": "Choose from the word banks in the original exercise. Each word is used once in its group."
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "小李周末本来计划和朋友去爬山，还提前准备好了水和食物。可是周六早晨，____，看起来可能会下雨。为了安全，____。____，但小李重新做了计划，用原来爬山的时间完成了一些学习任务。周末结束后，他觉得这样安排也不错。这次经历让他明白，遇到变化时，____。只要灵活调整计划，就能把事情安排好，让自己过得轻松、愉快。",
+          "en": "Xiao Li planned to climb a mountain with friends and prepared water and food. On Saturday morning, ____, and rain looked likely. For safety, ____. ____, but he made a new plan and used the time to complete study tasks. He felt this was a good arrangement. The experience taught him that when changes happen, ____. Flexible planning can keep life organised, relaxed and happy."
+        },
+        {
+          "zh": "虽然有点儿失望",
+          "en": "Although a little disappointed",
+          "heading": "A"
+        },
+        {
+          "zh": "天气忽然变阴了",
+          "en": "the sky suddenly became overcast",
+          "heading": "B"
+        },
+        {
+          "zh": "他只好取消了爬山的计划",
+          "en": "he had to cancel the climb",
+          "heading": "C"
+        },
+        {
+          "zh": "需要学会接受新的情况",
+          "en": "one must learn to accept new circumstances",
+          "heading": "D"
+        },
+        {
+          "zh": "第1空：____",
+          "en": "Gap 1: choose A, B, C or D.",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "天气忽然变阴了",
+              "en": "the sky suddenly became overcast"
+            }
+          ]
+        },
+        {
+          "zh": "第2空：____",
+          "en": "Gap 2: choose A, B, C or D.",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "他只好取消了爬山的计划",
+              "en": "he had to cancel the climb"
+            }
+          ]
+        },
+        {
+          "zh": "第3空：____",
+          "en": "Gap 3: choose A, B, C or D.",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "虽然有点儿失望",
+              "en": "Although a little disappointed"
+            }
+          ]
+        },
+        {
+          "zh": "第4空：____",
+          "en": "Gap 4: choose A, B, C or D.",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "需要学会接受新的情况",
+              "en": "one must learn to accept new circumstances"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        75
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c16-exercise.jpg",
+          "alt": "Original chapter 16 picture-writing exercise"
+        },
+        {
+          "zh": "逛",
+          "en": "stroll; browse",
+          "heading": "Picture 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们一起逛商店。",
+              "en": "They browse the shop together."
+            }
+          ]
+        },
+        {
+          "zh": "有趣",
+          "en": "interesting",
+          "heading": "Picture 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "妈妈给孩子讲有趣的故事。",
+              "en": "The mother tells her child an interesting story."
+            }
+          ]
+        },
+        {
+          "zh": "错误",
+          "en": "mistake",
+          "heading": "Picture 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他指出了材料中的错误。",
+              "en": "He pointed out the mistake in the materials."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        76
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "zh": "全班分成两组，以“做计划是好是坏”为主题进行辩论。各组先准备自己的观点和理由，然后进行辩论。正方：做计划更好。反方：随意些更好。",
+          "en": "Divide into two groups to debate whether planning is good or bad. Prepare arguments first. Pro: planning is better. Con: being more spontaneous is better.",
+          "heading": "Speak together",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我觉得做计划更好，因为这样做事更有把握。",
+              "en": "I think planning is better because it gives more confidence."
+            },
+            {
+              "zh": "我觉得随意一些更好，因为生活常常有变化。",
+              "en": "I think spontaneity is better because life often changes."
+            },
+            {
+              "zh": "我们可以做计划，也可以根据情况灵活调整。",
+              "en": "We can plan and adjust flexibly to circumstances."
+            }
+          ]
+        },
+        {
+          "zh": "你的一个朋友最近总是完不成任务。请你根据上面辩论的内容，给他／她写一份建议，不少于140字。",
+          "en": "A friend has been struggling to finish tasks. Use the debate arguments to write at least 140 Chinese characters of advice.",
+          "heading": "Writing · at least 140 characters",
+          "input": true,
+          "minChars": 140,
+          "answers": [
+            {
+              "zh": "听说你最近总是完不成任务，我想给你一些建议。首先，你可以每天早晨写一个时间表，把当天要做的事情分清楚，先做最重要的事。每完成一件事，就在时间表上做个记号，这样会更有把握。其次，不要把一天安排得太满，要留一些时间休息，也要准备应对突然出现的新情况。如果计划需要调整，不必太失望，更不要放弃所有的任务。你可以先想一想哪些事情必须今天完成，哪些可以推迟。做计划并不是要求一切都不能改变，关键是找到适合自己的方式。只要每天坚持，并且灵活调整，你一定能做得越来越好。",
+              "en": "Write a daily schedule and do important tasks first. Mark completed tasks to build confidence. Leave time for rest and unexpected situations. If plans change, do not lose hope or abandon everything. Decide what must be done today and what can wait. Planning need not mean refusing all change; find a method that suits you. Consistent effort and flexible adjustment will help you improve."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        76
+      ]
+    },
+    {
+      "id": "tips",
+      "title": "Xiaoyu’s tip",
+      "blocks": [
+        {
+          "zh": "“说＋动词／形容词＋就＋动词／形容词”表示动作、状态或变化出现得快。例如：（他）说去就去、（天气）说冷就冷、（安排）说变就变。",
+          "en": "说 + verb/adjective + 就 + the same verb/adjective means an action or change happens quickly or unexpectedly: going immediately, suddenly becoming cold, or plans changing suddenly."
+        }
+      ],
+      "sourcePages": [
+        69
+      ]
+    },
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流生活和工作中的计划与变化。",
+          "en": "Understand and discuss plans and changes in life and work."
+        },
+        {
+          "zh": "能够口头或书面表达自己的计划安排和调整方式。",
+          "en": "Describe plans, arrangements and adjustments orally and in writing."
+        },
+        {
+          "zh": "了解人们对做计划的不同看法以及如何应对变化。",
+          "en": "Understand different views on planning and ways of coping with changes."
+        }
+      ],
+      "sourcePages": [
+        66
+      ]
+    },
+    {
+      "id": "self-assessment",
+      "title": "Book learning summary",
+      "blocks": [
+        {
+          "zh": "我能使用“本来、推迟、取消、时间表、不得不、不便”等词语谈论计划与变化。",
+          "en": "I can use the chapter vocabulary to discuss plans and changes."
+        },
+        {
+          "zh": "我能理解并运用本课四个语言点。",
+          "en": "I can understand and use the four grammar points."
+        },
+        {
+          "zh": "我能交流计划安排等内容。",
+          "en": "I can discuss schedules and plans."
+        },
+        {
+          "zh": "我能表达对变化的看法和应对方式。",
+          "en": "I can express views on changes and how to cope with them."
+        }
+      ],
+      "sourcePages": [
+        77
+      ]
+    },
+    {
+      "id": "bonus",
+      "title": "Xiaoyu’s bonus content",
+      "blocks": [
+        {
+          "zh": "中国职场新哲学——你有“松弛感”吗？",
+          "en": "New workplace philosophy: do you have a sense of ease?"
+        }
+      ],
+      "sourcePages": [
+        76
+      ],
+      "intro": "The book gives this companion-video topic. The video is not embedded in the supplied PDF.",
+      "note": "My notes after watching"
+    }
+  ]
+}

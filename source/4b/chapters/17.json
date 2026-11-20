@@ -1,0 +1,1687 @@
+{
+  "id": 17,
+  "title": "运动让我更健康",
+  "en": "Exercise makes me healthier",
+  "page": 78,
+  "grammar": [
+    "你×你的吧",
+    "一A一B",
+    "表扬／批评＋宾语＋动词",
+    "连……也／都……更……"
+  ],
+  "book": "4B",
+  "sourceRange": [
+    78,
+    89
+  ],
+  "words": [
+    {
+      "zh": "路过",
+      "en": "pass by",
+      "example": {
+        "zh": "你走你的吧，我还要路过学校。",
+        "en": "Go ahead; I still need to pass the school."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "趟",
+      "en": "measure word for a trip",
+      "example": {
+        "zh": "你忙你的吧，我去一趟学校。",
+        "en": "Carry on with your work; I will make a trip to school."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "健身房",
+      "en": "gym",
+      "example": {
+        "zh": "你吃你的吧，我去健身房。",
+        "en": "Go ahead and eat; I am going to the gym."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "健身",
+      "en": "keep fit; work out",
+      "example": {
+        "zh": "你忙你的吧，我去健身。",
+        "en": "Carry on working; I am going to work out."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "体重",
+      "en": "body weight",
+      "example": {
+        "zh": "老师表扬他认真记录自己的体重。",
+        "en": "The teacher praised him for carefully recording his weight."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "会员",
+      "en": "member",
+      "example": {
+        "zh": "你看你的吧，我去办会员卡。",
+        "en": "Keep looking; I will get a membership card."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "饼干",
+      "en": "biscuit",
+      "example": {
+        "zh": "你吃你的饼干吧，我不饿。",
+        "en": "Go ahead and eat your biscuits; I am not hungry."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "酸奶",
+      "en": "yogurt",
+      "example": {
+        "zh": "你喝你的酸奶吧，我喝水。",
+        "en": "Go ahead and drink your yogurt; I will have water."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "果汁",
+      "en": "fruit juice",
+      "example": {
+        "zh": "你喝你的果汁吧，我不想喝。",
+        "en": "Go ahead and drink your juice; I do not want any."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "教练",
+      "en": "coach",
+      "example": {
+        "zh": "教练表扬他每天都来运动。",
+        "en": "The coach praised him for coming to exercise every day."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "动作",
+      "en": "movement",
+      "example": {
+        "zh": "老师表扬他把动作做对了。",
+        "en": "The teacher praised him for doing the movement correctly."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "科学",
+      "en": "scientific; science",
+      "example": {
+        "zh": "连小孩子都知道要科学地运动，大人更应该知道。",
+        "en": "Even children know exercise should be scientific; adults should know even better."
+      },
+      "grammar": "连……也／都……更……"
+    },
+    {
+      "zh": "受伤",
+      "en": "be injured",
+      "example": {
+        "zh": "他连走路都会受伤，跑步就更难了。",
+        "en": "He can get injured even walking; running is even harder."
+      },
+      "grammar": "连……也／都……更……"
+    },
+    {
+      "zh": "操场",
+      "en": "playground; sports field",
+      "example": {
+        "zh": "你玩你的吧，我去操场。",
+        "en": "Go ahead and play; I am going to the sports field."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "其中",
+      "en": "among them",
+      "example": {
+        "zh": "他们一高一矮，其中高的是我哥哥。",
+        "en": "One is tall and one short; the tall one is my brother."
+      },
+      "grammar": "一A一B"
+    },
+    {
+      "zh": "之",
+      "en": "literary linking particle; of",
+      "example": {
+        "zh": "老师表扬他帮助了朋友，他是好学生之一。",
+        "en": "The teacher praised him for helping a friend; he is one of the good students."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "火",
+      "en": "popular; fire",
+      "example": {
+        "zh": "连爷爷都知道这家店很火，年轻人就更清楚了。",
+        "en": "Even Grandfather knows this shop is popular; young people know even better."
+      },
+      "grammar": "连……也／都……更……"
+    },
+    {
+      "zh": "好处",
+      "en": "benefit",
+      "example": {
+        "zh": "连孩子都知道运动的好处，大人更应该知道。",
+        "en": "Even children know the benefits of exercise; adults should know even better."
+      },
+      "grammar": "连……也／都……更……"
+    },
+    {
+      "zh": "设备",
+      "en": "equipment",
+      "example": {
+        "zh": "你练你的吧，我看看这里的设备。",
+        "en": "Keep practising; I will look at the equipment here."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "全身",
+      "en": "whole body",
+      "example": {
+        "zh": "他连走路都觉得全身疼，跑步就更困难了。",
+        "en": "His whole body hurts even when walking; running is even harder."
+      },
+      "grammar": "连……也／都……更……"
+    },
+    {
+      "zh": "准确",
+      "en": "accurate",
+      "example": {
+        "zh": "他们一问一答，回答得很准确。",
+        "en": "They take turns asking and answering, and their answers are accurate."
+      },
+      "grammar": "一A一B"
+    },
+    {
+      "zh": "仅仅",
+      "en": "only",
+      "example": {
+        "zh": "老师表扬他仅仅用一天就完成了工作。",
+        "en": "The teacher praised him for finishing the work in only one day."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "表扬",
+      "en": "praise",
+      "example": {
+        "zh": "老师表扬我认真学习。",
+        "en": "The teacher praised me for studying carefully."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "进步",
+      "en": "make progress; progress",
+      "example": {
+        "zh": "老师表扬他取得了进步。",
+        "en": "The teacher praised him for making progress."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "鼓励",
+      "en": "encourage",
+      "example": {
+        "zh": "老师表扬我认真学习，还鼓励我继续努力。",
+        "en": "The teacher praised me for studying carefully and encouraged me to keep working hard."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "帅",
+      "en": "handsome",
+      "example": {
+        "zh": "这两个小伙子一高一矮，都很帅。",
+        "en": "The two young men, one tall and one short, are both handsome."
+      },
+      "grammar": "一A一B"
+    },
+    {
+      "zh": "乒乓球",
+      "en": "table tennis",
+      "example": {
+        "zh": "你打你的乒乓球吧，我看书。",
+        "en": "Go ahead and play table tennis; I will read."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "队",
+      "en": "team",
+      "example": {
+        "zh": "老师表扬我们队认真练习。",
+        "en": "The teacher praised our team for practising carefully."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "项",
+      "en": "measure word for an item or event",
+      "example": {
+        "zh": "老师表扬他完成了这项任务。",
+        "en": "The teacher praised him for completing this task."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "赢得",
+      "en": "win; gain",
+      "example": {
+        "zh": "老师表扬他赢得了比赛。",
+        "en": "The teacher praised him for winning the competition."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "叫作",
+      "en": "be called",
+      "example": {
+        "zh": "连孩子都知道这叫作月饼，大人就更知道了。",
+        "en": "Even children know this is called a mooncake; adults certainly know."
+      },
+      "grammar": "连……也／都……更……"
+    },
+    {
+      "zh": "梦",
+      "en": "dream",
+      "example": {
+        "zh": "你睡你的吧，我想把刚才的梦写下来。",
+        "en": "Go back to sleep; I want to write down the dream I just had."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "不断",
+      "en": "continuously",
+      "example": {
+        "zh": "老师表扬他不断努力。",
+        "en": "The teacher praised him for working hard continuously."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "队员",
+      "en": "team member",
+      "example": {
+        "zh": "老师表扬队员按时来练习。",
+        "en": "The teacher praised the team members for coming to practise on time."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "训练",
+      "en": "train; training",
+      "example": {
+        "zh": "你训练你的吧，我先回家。",
+        "en": "Go ahead with your training; I will go home first."
+      },
+      "grammar": "你×你的吧"
+    },
+    {
+      "zh": "球队",
+      "en": "ball-game team",
+      "example": {
+        "zh": "老师表扬我们的球队每天认真练习。",
+        "en": "The teacher praised our team for practising carefully every day."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "球迷",
+      "en": "sports fan",
+      "example": {
+        "zh": "连爷爷都是球迷，我就更喜欢看比赛了。",
+        "en": "Even Grandfather is a fan; I enjoy watching matches even more."
+      },
+      "grammar": "连……也／都……更……"
+    },
+    {
+      "zh": "梦想",
+      "en": "dream; ambition",
+      "example": {
+        "zh": "老师表扬她为了梦想而努力。",
+        "en": "The teacher praised her for working hard for her dream."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "大赛",
+      "en": "major competition",
+      "example": {
+        "zh": "连小孩子都知道这次大赛，大人就更知道了。",
+        "en": "Even children know about this major competition; adults know even better."
+      },
+      "grammar": "连……也／都……更……"
+    },
+    {
+      "zh": "赢",
+      "en": "win",
+      "example": {
+        "zh": "老师表扬我们赢了比赛。",
+        "en": "The teacher praised us for winning the competition."
+      },
+      "grammar": "表扬／批评＋宾语＋动词"
+    },
+    {
+      "zh": "连",
+      "en": "even",
+      "example": {
+        "zh": "连我都能做这道题，你就更不用担心了。",
+        "en": "Even I can do this question, so you have even less reason to worry."
+      },
+      "grammar": "连……也／都……更……"
+    }
+  ],
+  "warmup": [
+    {
+      "zh": "酸奶",
+      "en": "yogurt"
+    },
+    {
+      "zh": "饼干",
+      "en": "biscuit"
+    },
+    {
+      "zh": "果汁",
+      "en": "fruit juice"
+    },
+    {
+      "zh": "教练",
+      "en": "coach"
+    },
+    {
+      "zh": "操场",
+      "en": "sports field"
+    },
+    {
+      "zh": "健身房",
+      "en": "gym"
+    }
+  ],
+  "pictures": [
+    {
+      "image": "4b/c17-warm-0.jpg",
+      "answer": 2,
+      "sentence": {
+        "zh": "杯子里有果汁。",
+        "en": "There is fruit juice in the glass."
+      }
+    },
+    {
+      "image": "4b/c17-warm-1.jpg",
+      "answer": 3,
+      "sentence": {
+        "zh": "他是一位教练。",
+        "en": "He is a coach."
+      }
+    },
+    {
+      "image": "4b/c17-warm-2.jpg",
+      "answer": 0,
+      "sentence": {
+        "zh": "这碗酸奶看起来很好吃。",
+        "en": "This bowl of yogurt looks delicious."
+      }
+    },
+    {
+      "image": "4b/c17-warm-3.jpg",
+      "answer": 4,
+      "sentence": {
+        "zh": "我们可以在操场跑步。",
+        "en": "We can run on the sports field."
+      }
+    },
+    {
+      "image": "4b/c17-warm-4.jpg",
+      "answer": 5,
+      "sentence": {
+        "zh": "这里是一家健身房。",
+        "en": "This is a gym."
+      }
+    },
+    {
+      "image": "4b/c17-warm-5.jpg",
+      "answer": 1,
+      "sentence": {
+        "zh": "桌子上有一些饼干。",
+        "en": "There are some biscuits on the table."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "zh": "你去过健身房吗？你喜欢去健身房锻炼身体吗？",
+      "en": "Have you been to a gym? Do you like exercising at a gym?",
+      "answers": [
+        {
+          "zh": "我去过，那里很方便。",
+          "en": "I have; it is convenient there."
+        },
+        {
+          "zh": "我没去过，我喜欢在公园跑步。",
+          "en": "I have not; I like running in the park."
+        },
+        {
+          "zh": "我喜欢和朋友一起去运动。",
+          "en": "I like going to exercise with friends."
+        }
+      ]
+    },
+    {
+      "zh": "你喜欢看什么体育比赛？你有喜欢的运动员或球队吗？",
+      "en": "What sports competitions do you like watching? Do you have a favourite athlete or team?",
+      "answers": [
+        {
+          "zh": "我喜欢看足球比赛。",
+          "en": "I like watching football matches."
+        },
+        {
+          "zh": "我喜欢看篮球，我哥哥打得很好。",
+          "en": "I like watching basketball; my older brother plays well."
+        },
+        {
+          "zh": "我不常看比赛，不过我喜欢游泳。",
+          "en": "I do not often watch matches, but I like swimming."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "objectives",
+      "title": "Chapter objectives",
+      "blocks": [
+        {
+          "zh": "能够听懂并交流健身方式、锻炼习惯等内容。",
+          "en": "Understand and discuss fitness routines and exercise habits."
+        },
+        {
+          "zh": "能够口头或书面表达自己的健身经历和喜爱的运动。",
+          "en": "Share your fitness experiences and favourite sports orally or in writing."
+        },
+        {
+          "zh": "了解乒乓球在中国的发展和影响。",
+          "en": "Understand the development and impact of table tennis in China."
+        }
+      ],
+      "sourcePages": [
+        78
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "Listen / read & choose",
+      "blocks": [
+        {
+          "zh": "杨同乐一会儿要做什么？",
+          "en": "What will Yang Tongle do shortly?",
+          "heading": "Choose the answer · Text 1, question 1",
+          "choices": [
+            {
+              "zh": "加班",
+              "en": "Work overtime"
+            },
+            {
+              "zh": "去健身",
+              "en": "Work out"
+            },
+            {
+              "zh": "办会员卡",
+              "en": "Get a membership card"
+            },
+            {
+              "zh": "开车送王一雪回家",
+              "en": "Drive Wang Yixue home"
+            }
+          ],
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "去健身",
+              "en": "B · Work out"
+            }
+          ]
+        },
+        {
+          "zh": "关于那家健身房，下列哪项正确？",
+          "en": "Which statement about the gym is correct?",
+          "heading": "Choose the answer · Text 1, question 2",
+          "choices": [
+            {
+              "zh": "是新开的",
+              "en": "It is newly opened"
+            },
+            {
+              "zh": "非常便宜",
+              "en": "It is very cheap"
+            },
+            {
+              "zh": "离单位比较远",
+              "en": "It is far from work"
+            },
+            {
+              "zh": "总有打折活动",
+              "en": "It always has discounts"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "是新开的",
+              "en": "A · It is newly opened"
+            }
+          ]
+        },
+        {
+          "zh": "杨同乐为什么不去家附近的健身房？",
+          "en": "Why does Yang not go to the gym near home?",
+          "heading": "Choose the answer · Text 2, question 1",
+          "choices": [
+            {
+              "zh": "太贵了",
+              "en": "Too expensive"
+            },
+            {
+              "zh": "没有教练",
+              "en": "No coach"
+            },
+            {
+              "zh": "环境不好",
+              "en": "Poor environment"
+            },
+            {
+              "zh": "要花不少时间",
+              "en": "It would take considerable time"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "要花不少时间",
+              "en": "D · It would take considerable time"
+            }
+          ]
+        },
+        {
+          "zh": "公司附近那家健身房的教练怎么样？",
+          "en": "What are the coaches at the gym near work like?",
+          "heading": "Choose the answer · Text 2, question 2",
+          "choices": [
+            {
+              "zh": "很专业",
+              "en": "Professional"
+            },
+            {
+              "zh": "力气大",
+              "en": "Strong"
+            },
+            {
+              "zh": "讲得不清楚",
+              "en": "Unclear explanations"
+            },
+            {
+              "zh": "动作不标准",
+              "en": "Incorrect movements"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "很专业",
+              "en": "A · Professional"
+            }
+          ]
+        },
+        {
+          "zh": "杨同乐喜欢用什么方式锻炼？",
+          "en": "How does Yang like to exercise?",
+          "heading": "Choose the answer · Text 3, question 1",
+          "choices": [
+            {
+              "zh": "打球",
+              "en": "Play ball games"
+            },
+            {
+              "zh": "游泳",
+              "en": "Swim"
+            },
+            {
+              "zh": "去操场跑步",
+              "en": "Run on the sports field"
+            },
+            {
+              "zh": "去健身房健身",
+              "en": "Work out at the gym"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "去健身房健身",
+              "en": "D · Work out at the gym"
+            }
+          ]
+        },
+        {
+          "zh": "关于杨同乐，下列哪项正确？",
+          "en": "Which statement about Yang is correct?",
+          "heading": "Choose the answer · Text 3, question 2",
+          "choices": [
+            {
+              "zh": "身体更健康了",
+              "en": "He is healthier"
+            },
+            {
+              "zh": "觉得课程简单",
+              "en": "He finds the classes easy"
+            },
+            {
+              "zh": "不喜欢他的教练",
+              "en": "He dislikes his coach"
+            },
+            {
+              "zh": "不想坚持健身了",
+              "en": "He wants to stop working out"
+            }
+          ],
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "身体更健康了",
+              "en": "A · He is healthier"
+            }
+          ]
+        },
+        {
+          "zh": "中国乒乓球队为什么被叫作“梦之队”？",
+          "en": "Why is China's table-tennis team called the Dream Team?",
+          "heading": "Choose the answer · Text 4, question 1",
+          "choices": [
+            {
+              "zh": "队员很多",
+              "en": "Many players"
+            },
+            {
+              "zh": "队员很年轻",
+              "en": "Very young players"
+            },
+            {
+              "zh": "经常赢得比赛",
+              "en": "Often wins matches"
+            },
+            {
+              "zh": "训练时间很长",
+              "en": "Trains for a long time"
+            }
+          ],
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "经常赢得比赛",
+              "en": "C · Often wins matches"
+            }
+          ]
+        },
+        {
+          "zh": "关于乒乓球在中国的情况，下列哪项正确？",
+          "en": "Which statement about table tennis in China is correct?",
+          "heading": "Choose the answer · Text 4, question 2",
+          "choices": [
+            {
+              "zh": "老人最喜欢打乒乓球",
+              "en": "It is older people's favourite sport"
+            },
+            {
+              "zh": "只有运动员打乒乓球",
+              "en": "Only athletes play"
+            },
+            {
+              "zh": "年轻人不喜欢打乒乓球",
+              "en": "Young people dislike it"
+            },
+            {
+              "zh": "乒乓球是最常见的运动之一",
+              "en": "It is one of the most common sports"
+            }
+          ],
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "乒乓球是最常见的运动之一",
+              "en": "D · It is one of the most common sports"
+            }
+          ]
+        }
+      ],
+      "sourcePages": []
+    },
+    {
+      "id": "text1",
+      "title": "Text 1",
+      "blocks": [
+        {
+          "zh": "王一雪：下班了！同乐，我今天正好要路过你们家那边，用不用我开车送你？",
+          "en": "Wang: Work is over! Tongle, I happen to be passing your neighbourhood today. Would you like a lift?"
+        },
+        {
+          "zh": "杨同乐：谢谢一雪姐，不过您走您的吧，我一会儿还要去一趟健身房。",
+          "en": "Yang: Thank you, Yixue, but go ahead without me. I need to go to the gym shortly."
+        },
+        {
+          "zh": "王一雪：去健身房？你什么时候开始健身的？",
+          "en": "Wang: The gym? When did you start working out?"
+        },
+        {
+          "zh": "杨同乐：我上个星期发现单位旁边新开了一家健身房。我最近体重增加了不少，正好想运动一下，就进去看了看。",
+          "en": "Yang: Last week I noticed a new gym next to work. I have gained quite a lot of weight lately and wanted some exercise, so I went in to look around."
+        },
+        {
+          "zh": "王一雪：感觉怎么样？",
+          "en": "Wang: What did you think?"
+        },
+        {
+          "zh": "杨同乐：挺不错的。当时正好有打折活动，我就办了一张会员卡。",
+          "en": "Yang: It was pretty good. They happened to have a discount, so I got a membership card."
+        },
+        {
+          "zh": "杨同乐为什么想健身？",
+          "en": "Why did Yang want to work out?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为他最近体重增加了不少。",
+              "en": "Because he had gained quite a lot of weight recently."
+            }
+          ]
+        },
+        {
+          "zh": "杨同乐为什么办了会员卡？",
+          "en": "Why did Yang get a membership card?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为健身房不错，当时正好有打折活动。",
+              "en": "Because the gym was good and happened to offer a discount."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        79,
+        80
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "prompt": {
+          "zh": "下班时，王一雪问杨同乐……，因为她今天开车会……。不过，杨同乐不回家，他要先……。他上个星期发现……，就进去……。他最近……，正好想……。那家健身房……，当时……，他就……。",
+          "en": "At the end of work, Wang asked Yang … because she would drive past…. However, Yang was going to … first. Last week he noticed … and went in to…. Recently he … and wanted to…. The gym was …; at the time …, so he…."
+        },
+        "answer": {
+          "zh": "下班时，王一雪问杨同乐要不要她开车送他，因为她今天会路过他家那边。不过，杨同乐要先去健身房。他上个星期发现单位旁边新开了一家健身房，就进去看了看。他最近体重增加了不少，正好想运动。那家健身房挺不错，当时有打折活动，他就办了一张会员卡。",
+          "en": "Wang offered Yang a lift after work because she would pass his neighbourhood. Yang wanted to go to the gym first. Last week he had noticed a new gym next to work and looked around. He had gained weight and wanted to exercise. The gym was good and offered a discount, so he obtained a membership card."
+        },
+        "pages": [
+          80
+        ]
+      }
+    },
+    {
+      "id": "grammar1",
+      "title": "Grammar 1 · 你×你的吧",
+      "blocks": [
+        {
+          "zh": "您走您的吧，我一会儿还要去一趟健身房。",
+          "en": "Go ahead; I still need to visit the gym shortly."
+        },
+        {
+          "zh": "你忙你的吧，我自己就能完成。",
+          "en": "Carry on with your work; I can finish this myself."
+        },
+        {
+          "zh": "你们玩你们的吧，我今天想在家休息。",
+          "en": "Go ahead and have fun; I want to rest at home today."
+        },
+        {
+          "zh": "A：你几点回来？我等你一起吃饭吧。 B：____。",
+          "en": "What time will you return? I will wait to eat with you.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "你吃你的吧，我可能很晚才回来。",
+              "en": "Go ahead and eat; I may return very late."
+            }
+          ]
+        },
+        {
+          "zh": "A：我有点儿累了，不想继续看这个电影了。 B：好，____。",
+          "en": "I am a little tired and do not want to keep watching this film. All right, ….",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "你休息你的吧，我再看一会儿。",
+              "en": "Go and rest; I will watch a little longer."
+            }
+          ]
+        },
+        {
+          "zh": "A：你____，我去接个电话。 B：好，我写完告诉你。",
+          "en": "You …; I will answer a call. All right, I will tell you when I finish writing.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "写你的吧",
+              "en": "carry on writing"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        80
+      ],
+      "intro": "“你×你的吧” means each person can carry on separately. It often politely declines an offer or invitation.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text2",
+      "title": "Text 2",
+      "blocks": [
+        {
+          "zh": "王一雪：同乐，你晚上不吃饭就去健身，不会饿吗？",
+          "en": "Wang: Tongle, won't you get hungry working out without dinner?"
+        },
+        {
+          "zh": "杨同乐：我带了饼干、酸奶和果汁，一会儿吃完了再去。",
+          "en": "Yang: I brought biscuits, yogurt and juice. I will have them before going."
+        },
+        {
+          "zh": "王一雪：那你为什么不在家附近找健身房？吃完晚饭，休息一下再去，不是更好吗？",
+          "en": "Wang: Why not find a gym near home? Wouldn't it be better to go after dinner and a rest?"
+        },
+        {
+          "zh": "杨同乐：离我家最近的健身房也要坐两站公交车，一来一回得半个小时，太浪费时间了。",
+          "en": "Yang: Even the nearest gym to my home is two bus stops away. The round trip takes half an hour, which wastes too much time."
+        },
+        {
+          "zh": "王一雪：确实。那这家健身房的教练怎么样？",
+          "en": "Wang: True. What are the coaches at this gym like?"
+        },
+        {
+          "zh": "杨同乐：教练很热情，也非常专业，动作讲得很清楚。",
+          "en": "Yang: They are friendly and professional and explain the movements very clearly."
+        },
+        {
+          "zh": "王一雪：听你这么一说，我也想试试了。我现在都是在家看着视频练，动作不一定标准。",
+          "en": "Wang: Hearing that makes me want to try it too. I currently exercise at home with videos, and my movements may not be correct."
+        },
+        {
+          "zh": "杨同乐：好啊，那您也来吧。锻炼要科学，否则容易受伤。",
+          "en": "Yang: Great, come along. Exercise must be done scientifically, or it is easy to get injured."
+        },
+        {
+          "zh": "杨同乐去健身房前要做什么？",
+          "en": "What will Yang do before going to the gym?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他要先吃饼干、喝酸奶和果汁。",
+              "en": "He will first have biscuits, yogurt and juice."
+            }
+          ]
+        },
+        {
+          "zh": "王一雪为什么也想去健身房锻炼？",
+          "en": "Why does Wang also want to exercise at the gym?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为教练很专业，能帮助她把动作做标准。",
+              "en": "Because the professional coaches can help her perform the movements correctly."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        81,
+        82
+      ],
+      "intro": "Role-play the dialogue.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar2",
+      "title": "Grammar 2 · 一A一B",
+      "blocks": [
+        {
+          "zh": "一来一回得半个小时，太浪费时间了。",
+          "en": "The round trip takes half an hour; it wastes too much time."
+        },
+        {
+          "zh": "她说话的声音不大，但是一字一句说得很清楚。",
+          "en": "Her voice is not loud, but she says every word clearly."
+        },
+        {
+          "zh": "记者和运动员一问一答，谈到了很多比赛中的事情。",
+          "en": "The journalist and athlete discussed many things from the competition through questions and answers."
+        },
+        {
+          "zh": "A：你怎么没去医院看病？ B：只是点儿小问题，而且____，所以就没去。",
+          "en": "Why did you not go to hospital? It was minor, and …, so I did not go.",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "一来一回要两个小时",
+              "en": "the round trip would take two hours"
+            }
+          ]
+        },
+        {
+          "zh": "A：这两个房间怎么安排？ B：____，你们两个人住大的，我自己住小的。",
+          "en": "How shall we allocate these rooms? …; you two take the big room and I will take the small one.",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "房间一大一小",
+              "en": "one room is big and the other small"
+            }
+          ]
+        },
+        {
+          "zh": "A：您看这条裤子，怎么左腿和右腿____？ B：实在抱歉，我现在就给您换一条。",
+          "en": "Look at these trousers: why are the two legs …? Sorry; I will exchange them now.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "一长一短",
+              "en": "one long and one short"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        82
+      ],
+      "intro": "“一A一B” describes two parallel or contrasting aspects; A and B are single-character words.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text3",
+      "title": "Text 3",
+      "blocks": [
+        {
+          "zh": "有人爱在操场跑步，有人喜欢通过打球锻炼身体，还有一部分人愿意去健身房健身，杨同乐就是其中之一。",
+          "en": "Some people like running on the sports field, some exercise through ball games, and others prefer the gym. Yang Tongle is one of the latter."
+        },
+        {
+          "zh": "杨同乐认为健身房火起来是因为它有很多好处——环境好、设备全，可以锻炼全身。另外，健身房里一般还有专业教练，能帮助大家把动作做准确，练习的效果也更好。",
+          "en": "Yang believes gyms have become popular because they offer many benefits: a pleasant environment, complete equipment and whole-body exercise. Professional coaches usually help people perform movements accurately, improving the results."
+        },
+        {
+          "zh": "仅仅经过一个月左右的锻炼，杨同乐就感觉自己的身体比以前更健康了。教练也表扬他取得了很大的进步，并鼓励他坚持下去，还说随着身体越来越好，人看起来也会更帅。",
+          "en": "After only about a month of exercise, Yang felt healthier. His coach praised his great progress, encouraged him to continue and said that as his health improved, he would also look more handsome."
+        },
+        {
+          "zh": "健身房为什么会火起来？",
+          "en": "Why have gyms become popular?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为环境好、设备全，还有专业教练，可以让锻炼的效果更好。",
+              "en": "Because they offer a good environment, complete equipment and professional coaches, improving exercise results."
+            }
+          ]
+        },
+        {
+          "zh": "教练为什么表扬杨同乐？",
+          "en": "Why did the coach praise Yang?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "因为他经过一个月左右的锻炼，取得了很大的进步。",
+              "en": "Because he made great progress after about a month of exercise."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        82,
+        83
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words",
+      "retelling": {
+        "prompt": {
+          "zh": "有人爱……，有人喜欢……，还有一部分人……，杨同乐就是……。杨同乐认为健身房……是因为……——环境……、设备……，可以……。另外，健身房里一般还……，能帮助大家……，……也更好。仅仅经过……，杨同乐就感觉自己的身体……。教练也表扬他……，并鼓励……，还说随着……，人看起来也会……。",
+          "en": "Some people enjoy …, others like …, and some …; Yang is…. He thinks gyms … because …: the environment …, equipment … and people can…. They also have … who help people …, improving…. After only …, he felt…. The coach praised him for …, encouraged … and said that as …, he would look…."
+        },
+        "answer": {
+          "zh": "有人爱跑步，有人喜欢打球，还有一部分人喜欢去健身房，杨同乐就是其中之一。他认为健身房很火是因为环境好、设备全，可以锻炼全身，还有专业教练帮助大家把动作做准确。仅仅经过一个月左右的锻炼，他就感觉身体更健康了。教练表扬他取得了进步，并鼓励他坚持下去，还说身体好了，人看起来也会更帅。",
+          "en": "Some like running, others ball games, and others the gym; Yang is one of them. He thinks gyms are popular because of the good environment, equipment and coaches who improve movements. After about a month he felt healthier. His coach praised his progress, encouraged him to continue and said better health would also make him look more handsome."
+        },
+        "pages": [
+          84
+        ]
+      }
+    },
+    {
+      "id": "grammar3",
+      "title": "Grammar 3 · 表扬／批评＋宾语＋动词",
+      "blocks": [
+        {
+          "zh": "教练也表扬他取得了很大的进步。",
+          "en": "The coach also praised him for making great progress."
+        },
+        {
+          "zh": "老师表扬白家月坚持每天学习中文。",
+          "en": "The teacher praised Bai Jiayue for studying Chinese every day."
+        },
+        {
+          "zh": "经理批评他没有按时完成工作。",
+          "en": "The manager criticised him for failing to finish work on time."
+        },
+        {
+          "zh": "经理表扬他____。（细心）",
+          "en": "The manager praised him for … (careful).",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "工作很细心",
+              "en": "being very careful at work"
+            }
+          ]
+        },
+        {
+          "zh": "今天老师表扬我____。（成绩）",
+          "en": "Today the teacher praised me for … (results).",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "取得了好成绩",
+              "en": "achieving good results"
+            }
+          ]
+        },
+        {
+          "zh": "妈妈总是批评我____。（房间）",
+          "en": "Mother always criticises me for … (room).",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "不收拾房间",
+              "en": "not tidying my room"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        84
+      ],
+      "intro": "Use 主语＋表扬／批评＋人＋动作 to evaluate what someone has done. The person is both the object of praise/criticism and the subject of the following action.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "text4",
+      "title": "Text 4",
+      "blocks": [
+        {
+          "zh": "中国乒乓球队非常有名，常在各项比赛中赢得第一名，被叫作“梦之队”。为了不断提高自己的水平，队员们每天都要进行严格的训练。正因为这样，球队才能在比赛中取得更好的成绩，获得更多球迷的喜爱。许多年轻的乒乓球运动员都有一个梦想，那就是进入国家队，参加世界大赛，为球队赢下比赛。",
+          "en": "China's table-tennis team is famous for frequently winning first place and is called the Dream Team. Players train rigorously every day to keep improving. This helps them achieve better results and gain more fans. Many young table-tennis players dream of joining the national team, competing internationally and winning for their team."
+        },
+        {
+          "zh": "在中国，除了专业运动员，喜欢打乒乓球的普通人也特别多。连一些年龄比较大的老人都坚持打球，年轻人更是把它作为一种日常锻炼的方式。可以说，乒乓球是中国人生活中最常见的运动之一。",
+          "en": "In China, many ordinary people as well as professional athletes enjoy table tennis. Even some elderly people keep playing, and young people use it as regular exercise. It is one of the most common sports in Chinese daily life."
+        },
+        {
+          "zh": "乒乓球队为什么每天都要进行严格的训练？",
+          "en": "Why does the table-tennis team train rigorously every day?",
+          "heading": "Read & answer 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "为了不断提高水平，在比赛中取得更好的成绩。",
+              "en": "To keep improving and achieve better results in competitions."
+            }
+          ]
+        },
+        {
+          "zh": "许多年轻的乒乓球运动员有什么梦想？",
+          "en": "What dream do many young table-tennis players have?",
+          "heading": "Read & answer 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "他们梦想进入国家队，参加世界大赛，为球队赢下比赛。",
+              "en": "They dream of joining the national team, competing internationally and winning for their team."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        84,
+        85,
+        86
+      ],
+      "intro": "Read the text aloud.",
+      "note": "Retell this text in your own words"
+    },
+    {
+      "id": "grammar4",
+      "title": "Grammar 4 · 连……也／都……更……",
+      "blocks": [
+        {
+          "zh": "连一些年龄比较大的老人都坚持打球，年轻人更是把它作为一种日常锻炼的方式。",
+          "en": "Even some elderly people keep playing; young people especially use it as regular exercise."
+        },
+        {
+          "zh": "我有时候连老师说的话也听不懂，听广播就更难了。",
+          "en": "Sometimes I cannot even understand my teacher, so understanding broadcasts is even harder."
+        },
+        {
+          "zh": "今天早上他连脸都没来得及洗，更没有时间准备早饭了。",
+          "en": "He did not even have time to wash his face this morning, much less prepare breakfast."
+        },
+        {
+          "zh": "受伤以后，他连走路都困难，____。",
+          "en": "After the injury, even walking is difficult for him, ….",
+          "heading": "Book practice · 1",
+          "input": true,
+          "answers": [
+            {
+              "zh": "跑步就更困难了",
+              "en": "running is even harder"
+            }
+          ]
+        },
+        {
+          "zh": "他连这么难的事情都能解决，____。",
+          "en": "He can solve even such difficult matters, ….",
+          "heading": "Book practice · 2",
+          "input": true,
+          "answers": [
+            {
+              "zh": "这个小问题就更不用担心了",
+              "en": "so this small problem is even less worth worrying about"
+            }
+          ]
+        },
+        {
+          "zh": "他____，硕士研究生课程就更难了。",
+          "en": "He …; master's courses would be even harder.",
+          "heading": "Book practice · 3",
+          "input": true,
+          "answers": [
+            {
+              "zh": "连本科课程都觉得很难",
+              "en": "finds even undergraduate courses difficult"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        86
+      ],
+      "intro": "“连……也／都……，……更……” uses an extreme example to emphasise that another situation is even more so.",
+      "note": "My sentence using this grammar"
+    },
+    {
+      "id": "exercises",
+      "title": "Comprehensive exercises",
+      "blocks": [
+        {
+          "heading": "Word bank 1",
+          "zh": "趟、科学、路过、会员、酸奶、健身",
+          "en": "trip; science; pass by; member; yogurt; work out"
+        },
+        {
+          "heading": "Word bank 2",
+          "zh": "队、赢、准确、梦想、其中、不断",
+          "en": "team; win; accurate; dream; among them; continuously"
+        },
+        {
+          "zh": "随着____的发展，人们的生活方式发生了很大的变化。",
+          "en": "With the development of …, people's lifestyles have changed greatly.",
+          "heading": "Fill in the blank · 1",
+          "input": true,
+          "solution": "科学",
+          "answers": [
+            {
+              "zh": "科学",
+              "en": "science"
+            }
+          ]
+        },
+        {
+          "zh": "昨天我在回家的路上____了一家新开的咖啡店。",
+          "en": "Yesterday I … a newly opened café on my way home.",
+          "heading": "Fill in the blank · 2",
+          "input": true,
+          "solution": "路过",
+          "answers": [
+            {
+              "zh": "路过",
+              "en": "passed by"
+            }
+          ]
+        },
+        {
+          "zh": "我吃完晚饭后都会去____，已经坚持两年多了。",
+          "en": "I … after dinner and have kept it up for over two years.",
+          "heading": "Fill in the blank · 3",
+          "input": true,
+          "solution": "健身",
+          "answers": [
+            {
+              "zh": "健身",
+              "en": "work out"
+            }
+          ]
+        },
+        {
+          "zh": "她早上一般都会喝杯____，觉得这样对身体有好处。",
+          "en": "She usually has a cup of … in the morning, believing it healthy.",
+          "heading": "Fill in the blank · 4",
+          "input": true,
+          "solution": "酸奶",
+          "answers": [
+            {
+              "zh": "酸奶",
+              "en": "yogurt"
+            }
+          ]
+        },
+        {
+          "zh": "明天我要去一____上海，咱们下周再约时间见面吧。",
+          "en": "I will make a … to Shanghai tomorrow; let's meet next week.",
+          "heading": "Fill in the blank · 5",
+          "input": true,
+          "solution": "趟",
+          "answers": [
+            {
+              "zh": "趟",
+              "en": "trip"
+            }
+          ]
+        },
+        {
+          "zh": "楼下新开了一家超市，正在做活动，办____还送小礼物。",
+          "en": "The new supermarket downstairs gives small gifts to people who become ….",
+          "heading": "Fill in the blank · 6",
+          "input": true,
+          "solution": "会员",
+          "answers": [
+            {
+              "zh": "会员",
+              "en": "members"
+            }
+          ]
+        },
+        {
+          "zh": "A：昨天的比赛结果怎么样？ B：三比二，我们球队最后____了。",
+          "en": "How did yesterday's match end? Three to two; our team ….",
+          "heading": "Fill in the blank · 7",
+          "input": true,
+          "solution": "赢",
+          "answers": [
+            {
+              "zh": "赢",
+              "en": "won"
+            }
+          ]
+        },
+        {
+          "zh": "A：你儿子以后想做什么工作？ B：他的____是当一名医生。",
+          "en": "What job does your son want? His … is to become a doctor.",
+          "heading": "Fill in the blank · 8",
+          "input": true,
+          "solution": "梦想",
+          "answers": [
+            {
+              "zh": "梦想",
+              "en": "dream"
+            }
+          ]
+        },
+        {
+          "zh": "A：您看我这个句子写得对吗？ B：不太____，你再检查一下吧。",
+          "en": "Is my sentence correct? Not quite …; check again.",
+          "heading": "Fill in the blank · 9",
+          "input": true,
+          "solution": "准确",
+          "answers": [
+            {
+              "zh": "准确",
+              "en": "accurate"
+            }
+          ]
+        },
+        {
+          "zh": "A：你最近工作怎么样？ B：公司给我们的任务____增加，我们越来越忙了。",
+          "en": "How is work? Our tasks … increase and we grow busier.",
+          "heading": "Fill in the blank · 10",
+          "input": true,
+          "solution": "不断",
+          "answers": [
+            {
+              "zh": "不断",
+              "en": "continuously"
+            }
+          ]
+        },
+        {
+          "zh": "A：他们班参加羽毛球比赛的人多吗？ B：挺多的，____还有几个水平很高的。",
+          "en": "Are many in their class playing badminton? Quite a few, with several excellent players ….",
+          "heading": "Fill in the blank · 11",
+          "input": true,
+          "solution": "其中",
+          "answers": [
+            {
+              "zh": "其中",
+              "en": "among them"
+            }
+          ]
+        },
+        {
+          "zh": "A：听说你进入了学校的乒乓球____？ B：没错，我很喜欢打乒乓球，而且打得很好。",
+          "en": "I hear you joined the school's table-tennis …? Yes, I love it and play well.",
+          "heading": "Fill in the blank · 12",
+          "input": true,
+          "solution": "队",
+          "answers": [
+            {
+              "zh": "队",
+              "en": "team"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "cloze",
+      "title": "Complete the passage",
+      "blocks": [
+        {
+          "zh": "小张以前不太爱运动，下班以后常常在家看电视或玩手机，很少锻炼身体。时间长了，他感觉自己的身体越来越差，____，工作的时候还容易觉得累。后来在朋友的建议下，____。教练先教了他一些最简单的动作。____，但他慢慢练、慢慢改，最后还是坚持了下来。现在，小张已经养成了运动的习惯。他觉得，____，并且坚持锻炼，就一定能取得不错的效果。",
+          "en": "Xiao Zhang used to dislike exercise and watched TV or used his phone after work. Over time his health worsened, …, and he tired easily at work. Following advice from a friend, …. A coach taught him simple movements. …, but he gradually practised and improved. Now exercise is a habit. He feels that …, combined with persistence, will bring good results."
+        },
+        {
+          "heading": "A",
+          "zh": "只要方法科学",
+          "en": "as long as the method is scientific"
+        },
+        {
+          "heading": "B",
+          "zh": "体重也一直增加",
+          "en": "his weight also kept increasing"
+        },
+        {
+          "heading": "C",
+          "zh": "他决定去健身房锻炼",
+          "en": "he decided to work out at a gym"
+        },
+        {
+          "heading": "D",
+          "zh": "虽然他刚开始做得还不太标准",
+          "en": "although his movements were not quite correct at first"
+        },
+        {
+          "heading": "Gap 1",
+          "zh": "第1空：____",
+          "en": "Choose A, B, C or D for gap 1.",
+          "input": true,
+          "solution": "B",
+          "answers": [
+            {
+              "zh": "体重也一直增加",
+              "en": "B · his weight also kept increasing"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 2",
+          "zh": "第2空：____",
+          "en": "Choose A, B, C or D for gap 2.",
+          "input": true,
+          "solution": "C",
+          "answers": [
+            {
+              "zh": "他决定去健身房锻炼",
+              "en": "C · he decided to work out at a gym"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 3",
+          "zh": "第3空：____",
+          "en": "Choose A, B, C or D for gap 3.",
+          "input": true,
+          "solution": "D",
+          "answers": [
+            {
+              "zh": "虽然他刚开始做得还不太标准",
+              "en": "D · although his movements were not quite correct at first"
+            }
+          ]
+        },
+        {
+          "heading": "Gap 4",
+          "zh": "第4空：____",
+          "en": "Choose A, B, C or D for gap 4.",
+          "input": true,
+          "solution": "A",
+          "answers": [
+            {
+              "zh": "只要方法科学",
+              "en": "A · as long as the method is scientific"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        87
+      ]
+    },
+    {
+      "id": "picture-writing",
+      "title": "Look & write",
+      "blocks": [
+        {
+          "image": "4b/c17-exercise.jpg",
+          "alt": "Original chapter 17 picture-writing exercise"
+        },
+        {
+          "heading": "Picture 1",
+          "zh": "赢得",
+          "en": "win",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她赢得了比赛，非常高兴。",
+              "en": "She won the match and is very happy."
+            }
+          ]
+        },
+        {
+          "heading": "Picture 2",
+          "zh": "受伤",
+          "en": "be injured",
+          "input": true,
+          "answers": [
+            {
+              "zh": "她的腿受伤了，需要休息。",
+              "en": "Her leg is injured and she needs rest."
+            }
+          ]
+        },
+        {
+          "heading": "Picture 3",
+          "zh": "球迷",
+          "en": "sports fan",
+          "input": true,
+          "answers": [
+            {
+              "zh": "球迷们正在给球队加油。",
+              "en": "The fans are cheering for their team."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        87
+      ]
+    },
+    {
+      "id": "tasks",
+      "title": "Task-based activities",
+      "blocks": [
+        {
+          "zh": "请在班级中做一个调查，了解同学们的运动情况，包括是否有锻炼的习惯、锻炼的方式、选择这种方式的原因、每周锻炼的次数以及每次多长时间等等。",
+          "en": "Survey classmates about exercise habits, activities, reasons, weekly frequency and the length of each session.",
+          "heading": "Survey",
+          "input": true,
+          "answers": [
+            {
+              "zh": "我每周跑步三次，每次半个小时，因为跑步很方便。",
+              "en": "I run three times a week for half an hour because it is convenient."
+            },
+            {
+              "zh": "我每周和朋友打两次篮球，每次一个小时。",
+              "en": "I play basketball with friends twice a week for an hour each time."
+            },
+            {
+              "zh": "我每天晚饭后散步，身体比以前更好了。",
+              "en": "I walk after dinner every day and feel healthier than before."
+            }
+          ]
+        },
+        {
+          "zh": "同学1：姓名；是否有锻炼习惯；锻炼方式；原因；每周次数和时长。",
+          "en": "Classmate 1: name; regular exercise habit; activity; reason; weekly frequency and session length.",
+          "heading": "Survey record 1",
+          "input": true
+        },
+        {
+          "zh": "同学2：姓名；是否有锻炼习惯；锻炼方式；原因；每周次数和时长。",
+          "en": "Classmate 2: name; regular exercise habit; activity; reason; weekly frequency and session length.",
+          "heading": "Survey record 2",
+          "input": true
+        },
+        {
+          "zh": "同学3：姓名；是否有锻炼习惯；锻炼方式；原因；每周次数和时长。",
+          "en": "Classmate 3: name; regular exercise habit; activity; reason; weekly frequency and session length.",
+          "heading": "Survey record 3",
+          "input": true
+        },
+        {
+          "zh": "同学4：姓名；是否有锻炼习惯；锻炼方式；原因；每周次数和时长。",
+          "en": "Classmate 4: name; regular exercise habit; activity; reason; weekly frequency and session length.",
+          "heading": "Survey record 4",
+          "input": true
+        },
+        {
+          "zh": "学校运动会就要到了，老师希望了解同学们的运动情况。请你根据上面调查的内容，写一份调查报告，不少于140字。",
+          "en": "The school sports meet is approaching. Write a survey report on classmates’ exercise habits in at least 140 Chinese characters.",
+          "heading": "Writing · at least 140 characters",
+          "input": true,
+          "minChars": 140,
+          "answers": [
+            {
+              "zh": "为了了解同学们的运动情况，我问了四位同学。他们都觉得运动很重要，不过选择的方式不一样。两位同学喜欢跑步，每周去操场三次，每次半个小时，因为不用花钱，也很方便。一位同学喜欢打篮球，每周和朋友打两次，每次一个小时。他说和朋友一起运动很快乐。另一位同学平时学习很忙，但每天晚上都会散步二十分钟。通过这次调查，我发现大家都有锻炼的习惯。只要选择适合自己的方式，并且坚持下去，身体就会越来越健康。",
+              "en": "I surveyed four classmates. All valued exercise but chose different activities. Two ran on the sports field three times weekly for half an hour because it was free and convenient. One played basketball with friends twice weekly for an hour, enjoying their company. The fourth was busy studying but walked twenty minutes every evening. All had exercise habits. Choosing a suitable activity and persisting can improve health."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        88
+      ]
+    },
+    {
+      "id": "bonus",
+      "title": "Xiaoyu’s bonus content",
+      "blocks": [
+        {
+          "zh": "从公园到手机：中国人的健身日常",
+          "en": "From Parks to Apps: Everyday Fitness in China"
+        }
+      ],
+      "sourcePages": [
+        88
+      ],
+      "intro": "Companion-video topic from the book. Use the book’s digital resources to watch the video.",
+      "note": "My notes after watching"
+    },
+    {
+      "id": "summary",
+      "title": "Book learning summary",
+      "blocks": [
+        {
+          "zh": "能使用本课“健身房、体重、会员、教练、动作、受伤”等词语，谈论健身和运动的话题。",
+          "en": "Use the chapter vocabulary to discuss fitness and sports.",
+          "heading": "Rate: No problem / It’s OK / Need to improve",
+          "input": true
+        },
+        {
+          "zh": "能理解并运用“你×你的吧”“一A一B”“主语＋表扬／批评＋宾语1＋动词＋宾语2”“连……也／都……，……更……”等语言点。",
+          "en": "Understand and use the four grammar patterns in this chapter.",
+          "heading": "Rate: No problem / It’s OK / Need to improve",
+          "input": true
+        },
+        {
+          "zh": "能交流健身方式和锻炼习惯等内容。",
+          "en": "Discuss fitness routines and exercise habits.",
+          "heading": "Rate: No problem / It’s OK / Need to improve",
+          "input": true
+        },
+        {
+          "zh": "能表达自己的健身经历和喜欢的运动。",
+          "en": "Share personal fitness experiences and favourite sports.",
+          "heading": "Rate: No problem / It’s OK / Need to improve",
+          "input": true
+        }
+      ],
+      "sourcePages": [
+        89
+      ]
+    }
+  ]
+}
